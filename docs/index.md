@@ -1,5 +1,8 @@
-## Welcome
+## Welcome to my MDEF Documentation
 
-![](../images/perezoso.jpg)
+I'm Marius
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Image of me](../images/Bearbeitet/DSCF8311-2.jpg)
+
+I am currently starting a journey through the MDEF program. You can follow me here and I will share my thoughts and experiences. 
+My path has led from a technical school to an Internet of Things (IoT) degree program, where I mainly designed Projects that were sustainable and socially driven, to a master degree program focused in the field of research, knowledge sharing and communities, in Barcelona. I am new to the open source field which I am extremely excited about. I hope to learn methods to tackle any problem regardless of location or medium, to be able to push projects wherever help is needed and where my future path will take me.
