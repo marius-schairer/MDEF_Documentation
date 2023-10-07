@@ -5,7 +5,7 @@
 # Walk around
 ![Picture of a curcular Plant System](../../images/Bearbeitet/IMG_8566.jpg)
 ![Picture of the Garden](../../images/Bearbeitet/IMG_8567.jpg)
-![Picture of Elisava](../../images/Bearbeitet/IMG_8584.jpg)
+
 
 
 # Documenting Design
@@ -24,3 +24,4 @@
 # Directors research agenda 
 
 # Elisava
+![Picture of Elisava](../../images/Bearbeitet/IMG_8584.jpg)
