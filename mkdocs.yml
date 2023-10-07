@@ -1,11 +1,11 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Marius Schairer - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
+site_author: Marius Schairer
+copyright: Copyleft 2023 "Marius Schairer" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_url: https://marius-schairer.github.io/MDEF_Documentation/
+repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 
 
 nav:
