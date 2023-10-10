@@ -48,8 +48,8 @@ theme:
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
-    code: Cutive Mono
+    text: Roboto
+    code: Roboto Mono
   icon:
     logo: material/memory
   favicon: images/favicon.svg
