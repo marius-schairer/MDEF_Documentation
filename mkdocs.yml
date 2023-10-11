@@ -16,8 +16,8 @@ nav:
   - Reflections :
       - Term 1:
           - Landing: term1/Landing/gitclass.md
-          - Design Studio: term1/DesignStudio.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
+          - Design Studio: term1/Design/DesignStudio.md
+          - AoWS: term1/Design/AtlasofWeakSignals.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
