@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/</loc>
-         <lastmod>2023-10-10</lastmod>
+         <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/about/me/</loc>
-         <lastmod>2023-10-10</lastmod>
+         <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/project/project/</loc>
-         <lastmod>2023-10-10</lastmod>
+         <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2023-10-10</lastmod>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/</loc>
+         <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/DesignStudio/</loc>
-         <lastmod>2023-10-10</lastmod>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio/</loc>
+         <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/gitclass/</loc>
-         <lastmod>2023-10-10</lastmod>
+         <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
