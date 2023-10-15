@@ -15,14 +15,14 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/Landing/gitclass.md
-          - Design Studio: term1/Design/DesignStudio.md
+          - Landing: term1/Landing/landing.md
+          - Design Studio: term1/Design/DesignStudio01.md
           - AoWS: term1/Design/AtlasofWeakSignals.md
-          - Test: term1/Test/landing.html
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
+          - Test HTML: term1/Test/test.md
 
 
 
