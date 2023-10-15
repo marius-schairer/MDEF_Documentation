@@ -6,7 +6,7 @@ hide:
 ## Atlas of Weak Signals
 ![Picture of The AoWS Card Deck](../../images/Bearbeitet/7572BD00-E250-404B-8F4F-09542266FB87.jpg)
 
-In the first design class, after an initial explanation of how to use the atlas of weak signals to work out future research areas, we were given our own deck of cards.
+In the first design class, after an initial explanation of how to use the Atlas of Weak Signals to work out future research areas, we were given our own set of cards, which I used to work out my first design space. Overall, the methodology gave me a lot of clarity and showed me many issues that I had not previously considered or was not aware of. It has helped me to quickly find a good visualization of various topics I already know a little about, and to discover connections and new possibilities.  
 
 #01 Collective Excercice
 ![Picture of The Opportunity Areas from the Class Exercice](../../images/Bearbeitet/IMG_8618.jpg)
@@ -36,8 +36,5 @@ I have merged my personal AoWS with my previous personal experience and toolset 
 
 In my final atlas, I added more cards from the deck that fit thematically and emerged from the Multiscalar Design Space. The combination of technology, collaboration, sustainability and inclusion leads to many ideas in the open source area. Ai's and data that can be used to drive society forward, foster collaboration and promote inclusion. First ideas I have in this area are in the field of maker education, and digital collaboration from human to human and from human to machine, because I believe it is important not only to make technology usable for all but also to make it understood by all and to give citizens more control over their data sharing. Of course, this is also the area that seems most tangible and feasible to me, but there are surely many more areas to research in this Design Space, which I am very excited about. 
 
-
-#06 Reflection on AoWS
-Overall, the methodology gave me a lot of clarity and showed me many topics that I had not previously considered or been aware of. It helped me to quickly find a great visualization of different topics, in which I already know a bit about, and to discover connections and new areas of opportunity.  
 
 
