@@ -19,7 +19,7 @@ After that, we tested the method again in the group and had a successful brainst
 #02 Personal AoWS
 ![Picture of the The Clustering for My Personal AoWS](../../images/Bearbeitet/Clustering.png)
 ![Picture of the First Draft of My Personal AoWS](../../images/Bearbeitet/IMG_8680.jpg)
-As a first Draft, I looked through all the cards and formed pairs that resulted in interesting themes for me, which I then sorted out and found 3 favorite pairs. the decision to choose a final pair was not really easy for me, because I found all the themes very interesting. 
+As a first Draft, I looked through all the cards and formed pairs that resulted in interesting themes for me, which I then sorted out and found 3 favorite pairs. the decision to choose a final pair was not really easy for me, because I found all the themes very interesting. I decided for an area that has interested me a lot in the past year already. How can we make sense of ai's and data ? 
 
 #03 Additions
 ![Picture of the First Draft of My Personal AoWS](../../images/Bearbeitet/Additions.png)
