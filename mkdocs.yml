@@ -9,7 +9,7 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 
 
 nav:
-  - Home: term1/Test/test.html
+  - Home: term1/Test/Home.html
   - About: about/me.md
   - Master project:
       - Initial ideas: project/project.md
