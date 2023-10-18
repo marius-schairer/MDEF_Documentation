@@ -40,3 +40,7 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+.md-footer-nav{
+  box-shadow: none;
+}

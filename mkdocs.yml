@@ -6,7 +6,7 @@ copyright: Copyleft 2023 "Marius Schairer" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://marius-schairer.github.io/MDEF_Documentation/
 repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
-extra_css: 
+extra_css: stylesheets/extra.css
 
 nav:
   - Home: index.md
