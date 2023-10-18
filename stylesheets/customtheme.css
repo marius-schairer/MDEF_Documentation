@@ -51,6 +51,20 @@ body {
     font-weight: bold;
 }
 
+.sidebar b{
+    display: block;
+    color: rgb(97, 88, 110);
+    padding: 16px;
+    text-decoration: none;
+    border: none;
+    font-family: monospace, sans-serif;
+    background-color: #ffffff;
+    font-size: medium;
+    font-weight: bold;
+    border-left: 8px solid rgb(144, 66, 255);;
+    
+}
+
 .dropbtn {
     display: block;
     color: rgb(45, 45, 45);
