@@ -41,6 +41,10 @@
     font-size: 14px;
 }
 
-.md-footer-nav{
+.md-header{
   box-shadow: none;
+}
+
+.md-header-nav__topic{
+  font-weight: bold;
 }
