@@ -108,6 +108,14 @@ body {
     display: block;
 }
 
+.dropdown-content b {
+    color:  rgb(97, 88, 110);
+    padding: 16px;
+    padding-left: 32px;
+    text-decoration: none;
+    display: block;
+}
+
 .content {
     margin-left: 300px;
     padding: 20px;
