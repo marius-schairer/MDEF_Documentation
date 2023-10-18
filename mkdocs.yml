@@ -6,13 +6,13 @@ copyright: Copyleft 2023 "Marius Schairer" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://marius-schairer.github.io/MDEF_Documentation/
 repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
-
+extra_css: 
 
 nav:
-  - Home: term1/Test/Home.html
-  - About: about/me.md
+  - Home: ../custom_theme/footer.html
+  - About: ../custom_theme/About.html
   - Master project:
-      - Initial ideas: project/project.md
+      - Initial ideas: ../custom_theme/Master.html
   - Reflections :
       - Term 1:
           - Landing: term1/Landing/landing.md
@@ -49,7 +49,7 @@ theme:
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
-    text: Roboto
+    text: Roboto Mono
     code: Roboto Mono
   icon:
     logo: material/memory
