@@ -125,3 +125,15 @@ body {
 .fa-caret-down {
     float: right;
 }
+
+.menubox{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.ticket{
+    width: auto;
+    box-shadow: #c4c4c4;
+}
