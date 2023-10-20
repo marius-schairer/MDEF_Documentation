@@ -51,12 +51,16 @@
 
 .menubox{
   display: flex;
+  flex-direction: row;
   align-items: flex-start;
   gap: 20px;
   flex-wrap: wrap;
 }
 
 .ticket{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   width: auto;
   box-shadow: #c4c4c4;
 }
