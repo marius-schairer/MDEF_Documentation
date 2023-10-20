@@ -9,13 +9,18 @@ My path has led from a technical school to an Internet of Things (IoT) degree pr
 <div class="menubox">
 <div class="ticket" href="about/me.md">
 About
+more about me
 </div>
 <div class="ticket" href="project/project.md">
-Project
+Project 
+
+this is about my project
 </div>
 ## Term 1
 <div class="ticket" href="term1/Landing/landing.md">
 Landing
+
+this is about the landing
 </div>
 </div>
 </span>
