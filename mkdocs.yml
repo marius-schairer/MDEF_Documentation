@@ -43,7 +43,7 @@ extra:
 
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: white
@@ -53,8 +53,8 @@ theme:
     text: Roboto Mono
     code: Roboto Mono
   icon:
-    logo: images/Bearbeitet/Logo.png
-  favicon: images/Bearbeitet/Logo.png
+    logo: images/Logos/Marius_logo.png
+  favicon: images/Logos/Marius_logo.png
   features:
     - instant
     - navigation.expand
