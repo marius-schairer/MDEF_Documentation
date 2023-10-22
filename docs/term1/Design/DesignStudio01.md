@@ -1,8 +1,4 @@
-## Design Studio 01
-
-###Extended Workspace
-
-###Main Roles of Prototyping
+## Main Roles of Prototyping
 
 
 Reflecting on my past experiences, I've come to recognize the significance of the different roles that prototypes can play in the creative process. I used most of the prototyping roles already in my previous work but not that conciously and some of them only conceptual and with a small amount of people.
@@ -28,10 +24,10 @@ Example: Exhibition Amsterdam a room with cameras which is tracking faces and in
 
 
 Role 4: The process of prototyping as a vehicle for inquiry
-Answer questions by making. 
+This Role of Prototyping is usefull to answer questions by making. 
 Example: i explored in one semester with planting system, and tested  multiple ways to make home growing food more efficient but we also got tips from experts which lead us in a specific direction.
 
-###Group exercice
+## Group exercice
 
 ![Picture of fast Prototype](../../images/Bearbeitet/IMG_8608.jpg)
 
