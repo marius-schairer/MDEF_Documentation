@@ -1,4 +1,4 @@
-## Welcome to my MDEF Documentation
+# Welcome to my MDEF Documentation
 
 I'm Marius
 
