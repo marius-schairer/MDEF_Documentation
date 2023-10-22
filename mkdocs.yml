@@ -52,7 +52,7 @@ theme:
     text: Roboto Mono
     code: Roboto Mono
   icon:
-    logo: images/Bearbeitet/Logo.png
+    logo: material/memory
   favicon: images/Bearbeitet/Logo.png
   features:
     - instant
