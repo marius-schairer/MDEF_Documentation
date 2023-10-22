@@ -52,9 +52,9 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Roboto Mono
     code: Roboto Mono
-  icon:
-    logo: material/memory
-  favicon: images/Bearbeitet/Logo.png
+
+  logo: images/Logos/marius_logo.png
+  favicon: images/Logos/Marius_logo.png
   features:
     - instant
     - navigation.expand
