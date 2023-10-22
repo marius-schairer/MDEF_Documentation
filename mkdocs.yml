@@ -53,8 +53,8 @@ theme:
     text: Roboto Mono
     code: Roboto Mono
   icon:
-    logo: images/Logos/Marius_logo.png
-  favicon: images/Logos/Marius_logo.png
+    logo: material/memory
+  favicon: images/Bearbeitet/Logo.png
   features:
     - instant
     - navigation.expand
