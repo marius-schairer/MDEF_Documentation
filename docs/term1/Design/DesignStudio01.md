@@ -5,7 +5,7 @@
 ###Main Roles of Prototyping
 
 
-Reflecting on my past experiences, I've come to recognize the significance of the different roles that prototypes can play in the creative process. I used most of the prototyping roles already in my previous work but some of them only conceptual and with a small amount of people.
+Reflecting on my past experiences, I've come to recognize the significance of the different roles that prototypes can play in the creative process. I used most of the prototyping roles already in my previous work but not that conciously and some of them only conceptual and with a small amount of people.
 
 Role 1:The prototype as an experimental component 
 selftest
@@ -33,6 +33,9 @@ Example: i explored in one semester with planting system, and tested  multiple w
 
 ###Group exercice
 
-![Picture of Josep Marti Elias giving us our first Lecture](../../images/Bearbeitet/IMG_8608.jpg)
+![Picture of fast Prototype](../../images/Bearbeitet/IMG_8608.jpg)
 
 I created a 
+
+## My Extended Workspace
+![Picture of Josep Marti Elias giving us our first Lecture](../../images/Bearbeitet/ExtendedWorkspace.png)
