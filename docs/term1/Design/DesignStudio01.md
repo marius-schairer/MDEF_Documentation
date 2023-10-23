@@ -35,6 +35,12 @@ Example: i explored in one semester with planting system, and tested  multiple w
 We did a little exercise in our group to better understand the roles of prototyping. We talked about past projects and classified them into the different roles. We noticed that in many projects we saw several roles of prototyping and we unconsciously used them simultaneously or distributed in the design process. Then we built a quick alternative prototype for a different person in the group. I built a porototype for Jorghe. he had a project for an alternative lint roller that worked like a razor and therefore had almost no wear parts. We put his project in role 1, because he tested it himself. I made a test kit to analyze the intuition of different users as well as the approach to different fabrics. This prototype is type role 4, because you don't know where the result will lead you and you approach the users with a question.
 
 ## My Extended Workspace
-![Picture of Josep Marti Elias giving us our first Lecture](../../images/Bearbeitet/ExtendedWorkspace.png)
+![Picture of my extended Workspace](../../images/Bearbeitet/ExtendedWorkspace.png)
 
 As a further exercise, everyone created their own personal extended workspace. My workspace is divided into 2 sides, on the one hand collaborative possibilities with my network and things I can do at home alone. I have mainly worked on my laptop and designed digital products, but I have also gained some experience in 3d printing when I needed a case for an arduino prototype. Most of the things on the collaborative side are possibilities I have little or no experience in and hopefully will learn more about soon. The visualization shows me pretty clearly how much knowledge there is in collaboration with the people around me and in which fields I can learn a lot.
+
+
+## Extracts from my design space
+
+![Picture of representing Objects](../../images/DesignStudio/Objects.png)
+![Picture of representing Qualities](../../images/DesignStudio/Qualities.png)
