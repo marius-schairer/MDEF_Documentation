@@ -43,4 +43,14 @@ As a further exercise, everyone created their own personal extended workspace. M
 ## Extracts from my design space
 
 ![Picture of representing Objects](../../images/DesignStudio/Objects.png)
+### Representing Objects
 ![Picture of representing Qualities](../../images/DesignStudio/Qualities.png)
+### Representing Qualities
+![Picture of References of Projects working around that issue](../../images/DesignStudio/Reference.png)
+### Reference Projects in the Field
+![Picture of References Technologies in the field](../../images/DesignStudio/Technologies.png)
+### Reference Technologies in the Field
+![Picture of Possible Contexts](../../images/DesignStudio/Contexts.png)
+### Possible Contexts in Barcelona
+![Picture of Possible Contexts](../../images/DesignStudio/Experiments.png)
+### Possible Experiments for a intervention
