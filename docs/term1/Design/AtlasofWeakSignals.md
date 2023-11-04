@@ -34,6 +34,6 @@ I have merged my personal AoWS with my previous personal experience and toolset 
 
 In my final atlas, I added more cards from the deck that fit thematically and emerged from the multiscalar design space. The combination of technology, collaboration, sustainability and inclusion leads to many ideas in the open source area. AI's and data that can be used to drive society forward, foster collaboration and promote inclusion. First ideas that came into my mind are in the field of maker education adn digital collaboration from human to human or from human to machine. Because I believe it is important not only to make technology usable for all but also to make it understood by all and to give citizens more control over their own data sharing. Of course, this is also the area that seems most tangible and feasible to me, but there are surely many more areas to research in this design space, which I am very excited about. 
 
-
+<iframe width="100%" height="600" src="<https://www.figma.com/file/sKE36g2wEw1DKm5kbv2roi/Design-Brainstorming?type=whiteboard&node-id=6-2&t=weo1qWuZD4eHMMYP-4>" frameborder="0" allowfullscreen></iframe>
 
 https://www.figma.com/file/sKE36g2wEw1DKm5kbv2roi/Design-Brainstorming?type=whiteboard&node-id=6-2&t=weo1qWuZD4eHMMYP-4

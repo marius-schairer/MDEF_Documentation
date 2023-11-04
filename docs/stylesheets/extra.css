@@ -33,7 +33,8 @@
 }
 
 .md-typeset h2 {
-    font-weight: 500;
+    font-weight: bold;
+    color: rgb(32, 32, 32);
 }
 
 .mdc-typography--body2 {

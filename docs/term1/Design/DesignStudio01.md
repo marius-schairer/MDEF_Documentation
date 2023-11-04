@@ -21,12 +21,12 @@ Role 3: The prototype as a reasearch archetype
 As a tool to express a problem/topic.
 Give information and trigger thinking
 I know it mostly from exhibitions.
-Example: Exhibition Amsterdam a room with cameras which is tracking faces and interpreting peoples connection. Let people question privacy and monitoring
+Example: Exhibition Amsterdam a room with cameras which is tracking faces and interpreting peoples connection. Let people question privacy and monitoring.
 
 
 Role 4: The process of prototyping as a vehicle for inquiry
 This Role of Prototyping is usefull to answer questions by making. 
-Example: i explored in one semester with planting system, and tested  multiple ways to make home growing food more efficient but we also got tips from experts which lead us in a specific direction.
+Example: i explored in one semester with a planting system, and tested multiple ways to make home growing food more efficient but we also got tips from experts which lead us in a specific direction. 
 
 ## Group exercice
 
