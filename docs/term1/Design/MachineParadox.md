@@ -6,7 +6,7 @@ the two weeks of workshop helped me to better understand what is inside a device
 # Fuck Duck Machine
 
 <div>
-    <iframe loading="lazy" width="100%" height="600" src="https://youtu.be/Cw9eDJttGkw" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Cw9eDJttGkw?si=rF9UHB7yvl6Cvn0D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
