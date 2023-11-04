@@ -1,3 +1,4 @@
+![About Machine Paradox](../../images/Bearbeitet/MachineParadoxCover.png)
 # Machine Paradox
 
 ## Reflection

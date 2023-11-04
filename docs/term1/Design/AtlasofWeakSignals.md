@@ -2,6 +2,7 @@
 hide:
     - toc
 ---
+![About Atlas of Week Signals](../../images/Bearbeitet/AoWSCover.png)
 
 # Atlas of Weak Signals
 ![Picture of The AoWS Card Deck](../../images/Bearbeitet/7572BD00-E250-404B-8F4F-09542266FB87.jpg)
