@@ -6,11 +6,9 @@ the two weeks of workshop helped me to better understand what is inside a device
 # Fuck Duck Machine
 
 <div>
-    <iframe width="100%" height="600" src="https://youtu.be/Cw9eDJttGkw" frameborder="0" allowfullscreen></iframe>
+    <iframe loading="lazy" width="100%" height="600" src="https://youtu.be/Cw9eDJttGkw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-[![Watch the video](https://i9.ytimg.com/vi_webp/Cw9eDJttGkw/mq2.webp?sqp=CNDhmqoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAS7NTfSN9LYIGOhGetL5e1q6F4jQ)](https://youtu.be/Cw9eDJttGkw)
 
 # Forensic report
 # Forensic Report: Screen
