@@ -1,3 +1,5 @@
+![About Me](../images/Bearbeitet/AboutCover.png)
+
 # About
 
 ![Picture of me](../images/perezoso.jpg)

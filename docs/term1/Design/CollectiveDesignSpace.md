@@ -1,3 +1,4 @@
+![](../../images/Bearbeitet/CollaborativeDesignSpaceCover.png)
 # Areas of Intervention in a Multiscalar Design Space
 
 ## Collective Design Space
