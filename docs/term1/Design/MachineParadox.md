@@ -1,7 +1,6 @@
 ![About Machine Paradox](../../images/Bearbeitet/MachineParadoxCover.png)
-# Machine Paradox
 
-## Reflection
+# Reflection
 the two weeks of workshop helped me to better understand what is inside a device and how easy it is to control or repair individual components. when building the fuck duck machine we had to make small changes over and over again to make it work. we had to print and cnc cut different parts to fit the components we took out of the screen. 
 
 ## Fuck Duck Machine

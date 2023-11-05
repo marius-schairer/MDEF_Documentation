@@ -1,7 +1,6 @@
 ![About Design Living with Your Own Ideas](../../images/Bearbeitet/LwYOICover.png)
-# Living with Your Own Ideas
 
-## First Person Perspective
+# First Person Perspective
 In short, the first person perspective is to involve yourself in a design space and actively experience it in order to shape it. You become part of the community that develops the idea and design not for others but with others. Everything that surrounds you can and will influence your project. The first person perspective makes it possible to think by testing and experiencing. 
 
 ## Magic Machines
