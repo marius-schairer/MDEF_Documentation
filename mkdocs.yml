@@ -52,7 +52,7 @@ theme:
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
-    text: Roboto Mono
+    text: Roboto
     code: Roboto Mono
 
   logo: images/Logos/Marius_logo.png
