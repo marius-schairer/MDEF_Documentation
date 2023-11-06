@@ -10,8 +10,7 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
+  - Master project: project/project.md
   - Reflections:
       - Term 1:
           - Landing: term1/Landing/landing.md
@@ -23,8 +22,7 @@ nav:
           - Machine Paradox: term1/Design/MachineParadox.md
           - Living with Your Own Ideas: term1/Design/LwYoI.md
 
-  - Term 2:
-      - Overview: term2/Term2Overview.md
+      - Term 2: term2/Term2Overview.md
 
 
 
