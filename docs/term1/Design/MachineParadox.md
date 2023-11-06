@@ -9,6 +9,115 @@ the two weeks of workshop helped me to better understand what is inside a device
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/Cw9eDJttGkw?si=rF9UHB7yvl6Cvn0D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## Code
+The arduino controls a motor responding to 3 buttons. an activation button a top stop and bottom stop.
+`// Define the pins for the motor and button
+#define motorPin1 8
+#define motorPin2 12
+#define buttonMotor 2
+#define buttonTop 3
+#define buttonBottom 4
+
+// Variables to keep track of button presses and motor rotation time
+int buttonPresses = 0;
+unsigned long motorStartTime = 0;
+unsigned long lastButtonPressTime = 0;
+unsigned long totalMotorTime = 0;
+const int motorRotationTimePerPress = 2000; // 5 seconds
+bool motorRunning = false;
+
+int MBreleased = 1;
+//int TBreleased = 1;
+//int BBreleased = 1;
+
+void moveMotor() {
+  totalMotorTime = motorRotationTimePerPress * buttonPresses;
+  digitalWrite(motorPin1, HIGH);
+  digitalWrite(motorPin2, LOW);
+}
+
+void reverseMotor() {
+  motorStartTime = millis();
+  digitalWrite(motorPin1, LOW);
+  digitalWrite(motorPin2, HIGH);
+}
+
+void stopMotor() {
+  digitalWrite(motorPin1, LOW);
+  digitalWrite(motorPin2, LOW);
+  motorRunning = false;
+  buttonPresses = 0;
+  totalMotorTime = 0;
+}
+
+void setup() {
+  pinMode(buttonMotor, INPUT_PULLUP);
+  pinMode(buttonTop, INPUT_PULLUP);
+  pinMode(buttonBottom, INPUT_PULLUP);
+  pinMode(motorPin1, OUTPUT);
+  pinMode(motorPin2, OUTPUT);
+  digitalWrite(motorPin1, LOW);
+  digitalWrite(motorPin2, LOW);
+  Serial.begin(9600);
+}
+
+void loop() {
+  // Read the state of the button
+  int buttonState = digitalRead(buttonMotor);
+  int buttonTopState = digitalRead(buttonTop);
+  int buttonBottomState = digitalRead(buttonBottom);
+  unsigned long currentTime = millis();
+
+  // Check if the button is pressed and the motor is not running
+  if (buttonState == LOW && MBreleased == 1) {
+    lastButtonPressTime = currentTime;
+    motorRunning = true;
+    motorStartTime = currentTime;
+    buttonPresses++;
+    MBreleased = 0;
+    moveMotor();
+  } else if (buttonState == HIGH && MBreleased == 0) {
+    MBreleased = 1;
+    Serial.println("Button Presses: ");
+    Serial.println(buttonPresses);
+  }
+
+  // Check if the motor has been running for the required additional time
+  if ((motorRunning) && (currentTime - motorStartTime >= motorRotationTimePerPress*buttonPresses)) {
+    if (buttonPresses > 0) {
+      motorRunning = false;
+      reverseMotor();
+      buttonPresses = 0;
+      // while (digitalRead(buttonBottom) == HIGH) {
+      //   // Keep the motor running until the bottom button is pressed
+      // }
+      //stopMotor();
+    }
+  }
+
+  // Check if the top button is pressed
+  if (buttonTopState == LOW) {
+    Serial.println("Button Top Pressed");
+    reverseMotor();
+    buttonPresses = 0;
+    // if (motorRunning) {
+    //   stopMotor();
+    //   reverseMotor();
+    //   while (digitalRead(buttonBottom) == HIGH) {
+    //     // Keep the motor running until the bottom button is pressed
+    //   }
+    //   stopMotor();
+    // }
+  }
+
+  // Check if the bottom button is pressed
+  if (buttonBottomState == LOW) {
+    Serial.println("Button Bottom Pressed");
+    if (motorRunning) {
+      stopMotor();
+    }
+  }
+}`
 
 ## Forensic Report: Screen
 ===============
