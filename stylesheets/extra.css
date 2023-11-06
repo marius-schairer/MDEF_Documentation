@@ -32,10 +32,21 @@
   color: rgb(32, 32, 32);
 }
 
+.md-nav__item .md-nav__link--active {
+  color: var(--md-typeset-a-color);
+  font-weight: bold;
+}
+
+.md-nav__item .md-nav__link--hover {
+  color: rgb(88, 28, 167);
+  font-weight: bold;
+}
+
 .md-typeset h1 {
   font-weight: bold;
   color: rgb(32, 32, 32);
 }
+
 
 .md-typeset h2 {
     font-weight: bold;
