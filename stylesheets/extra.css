@@ -32,6 +32,11 @@
   color: rgb(32, 32, 32);
 }
 
+.md-typeset h1 {
+  font-weight: bold;
+  color: rgb(32, 32, 32);
+}
+
 .md-typeset h2 {
     font-weight: bold;
     color: rgb(32, 32, 32);
