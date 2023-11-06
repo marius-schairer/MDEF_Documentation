@@ -17,4 +17,4 @@ For our intervention, we have chosen a scenario area that connects many areas an
 
 In my personal design space, I was able to learn a lot through interesting discussions about non-human intelligence and interspecies collaboration and link them to my design space.
 
-<iframe width="100%" height="500" src="https://miro.com/app/live-embed/uXjVNci-3Ac=/?moveToViewport=11345,2400,1969,1007&embedId=28723828594" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://miro.com/app/live-embed/uXjVNci-3Ac=/?moveToViewport=2955,-273,10588,5419&embedId=829645287447" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
