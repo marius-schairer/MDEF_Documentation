@@ -14,3 +14,5 @@ For our intervention, we have chosen a scenario area that connects many areas an
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Ne5-GCfkPns?si=X3s68XgcQwe1-W4G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Personal Design Space
+
+<iframe width="100%" height="500" src="https://miro.com/app/live-embed/uXjVNci-3Ac=/?moveToViewport=11345,2400,1969,1007&embedId=28723828594" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
