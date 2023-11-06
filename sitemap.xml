@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/Term1Overview/</loc>
+         <lastmod>2023-11-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/</loc>
          <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
@@ -52,6 +57,11 @@
     </url>
     <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/term1/Other/FixingTheFuture/</loc>
+         <lastmod>2023-11-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term2/Term2Overview/</loc>
          <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
