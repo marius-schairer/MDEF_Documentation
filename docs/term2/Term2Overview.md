@@ -1,3 +1,3 @@
 # Term 2
 
-more i
+`you will find more information here soon`
