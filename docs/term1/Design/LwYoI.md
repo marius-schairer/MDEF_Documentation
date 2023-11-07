@@ -6,7 +6,7 @@ In short, the first person perspective is to involve yourself in a design space 
 ## Magic Machines
 
 ### what you had to do
-![](../../images/Bearbeitet/IMG_8752.jpg)
+![](../../images/Bearbeitet/IMG_8745.JPG)
 For the first workshop, led by Kristina Andersen, we brought junk from home that could be used for prototyping to build a Low Fi prototype of a Companion. An object that accompanies us in everyday life but is not specifically adapted to us. To get started quickly with a prototype, we chose one of the 16 basic human desires. 
 
 ### What did it end up being, and what materials did you use ?
