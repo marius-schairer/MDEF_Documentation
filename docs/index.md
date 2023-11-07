@@ -11,6 +11,11 @@
     The first week at IaaC. 
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">see more</a>
     </div>
+    <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)" >
+    <h2>Documenting Design</h2>
+    How to Document Design.
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/">see more</a>
+    </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
     <h2>Roles of Prototyping</h2>
     4 different prototyping approaches
