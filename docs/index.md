@@ -3,7 +3,7 @@
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)" >
     <h2>About Me</h2>
-    Where I come from and who I am.
+    Where I come from and who I am
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">see more</a>
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
@@ -13,7 +13,7 @@
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)" >
     <h2>Documenting Design</h2>
-    How to Document Design.
+    How to Document Design
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/">see more</a>
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
@@ -32,8 +32,8 @@
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">see more</a>
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
-    <h2>Collective Design</h2>
-    A first group intervention 
+    <h2>Collective Design Space</h2>
+    A first group intervention about undergounds air pollution
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">see more</a>
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
