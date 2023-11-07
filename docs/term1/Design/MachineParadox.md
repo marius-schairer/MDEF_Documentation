@@ -11,14 +11,14 @@ the two weeks of workshop helped me to better understand what is inside a device
 
 ## Code
 The arduino controls a motor responding to 3 buttons. an activation button a top stop and bottom stop.
-`// Define the pins for the motor and button
+`
 #define motorPin1 8
 #define motorPin2 12
 #define buttonMotor 2
 #define buttonTop 3
 #define buttonBottom 4
 
-// Variables to keep track of button presses and motor rotation time
+motor rotation time
 int buttonPresses = 0;
 unsigned long motorStartTime = 0;
 unsigned long lastButtonPressTime = 0;
@@ -27,8 +27,6 @@ const int motorRotationTimePerPress = 2000; // 5 seconds
 bool motorRunning = false;
 
 int MBreleased = 1;
-//int TBreleased = 1;
-//int BBreleased = 1;
 
 void moveMotor() {
   totalMotorTime = motorRotationTimePerPress * buttonPresses;
@@ -62,13 +60,13 @@ void setup() {
 }
 
 void loop() {
-  // Read the state of the button
+  
   int buttonState = digitalRead(buttonMotor);
   int buttonTopState = digitalRead(buttonTop);
   int buttonBottomState = digitalRead(buttonBottom);
   unsigned long currentTime = millis();
 
-  // Check if the button is pressed and the motor is not running
+  
   if (buttonState == LOW && MBreleased == 1) {
     lastButtonPressTime = currentTime;
     motorRunning = true;
@@ -82,7 +80,7 @@ void loop() {
     Serial.println(buttonPresses);
   }
 
-  // Check if the motor has been running for the required additional time
+   required additional time
   if ((motorRunning) && (currentTime - motorStartTime >= motorRotationTimePerPress*buttonPresses)) {
     if (buttonPresses > 0) {
       motorRunning = false;
@@ -95,29 +93,22 @@ void loop() {
     }
   }
 
-  // Check if the top button is pressed
+  
   if (buttonTopState == LOW) {
     Serial.println("Button Top Pressed");
     reverseMotor();
     buttonPresses = 0;
-    // if (motorRunning) {
-    //   stopMotor();
-    //   reverseMotor();
-    //   while (digitalRead(buttonBottom) == HIGH) {
-    //     // Keep the motor running until the bottom button is pressed
-    //   }
-    //   stopMotor();
-    // }
   }
 
-  // Check if the bottom button is pressed
+  
   if (buttonBottomState == LOW) {
     Serial.println("Button Bottom Pressed");
     if (motorRunning) {
       stopMotor();
     }
   }
-}`
+}
+`
 
 ## Forensic Report: Screen
 ===============
