@@ -514,22 +514,20 @@
 
 <h2 id="code">Code<a class="headerlink" href="#code" title="Permanent link">&para;</a></h2>
 <p>The arduino controls a motor responding to 3 buttons. an activation button a top stop and bottom stop.
-`// Define the pins for the motor and button</p>
+`</p>
 <h1 id="define-motorpin1-8">define motorPin1 8<a class="headerlink" href="#define-motorpin1-8" title="Permanent link">&para;</a></h1>
 <h1 id="define-motorpin2-12">define motorPin2 12<a class="headerlink" href="#define-motorpin2-12" title="Permanent link">&para;</a></h1>
 <h1 id="define-buttonmotor-2">define buttonMotor 2<a class="headerlink" href="#define-buttonmotor-2" title="Permanent link">&para;</a></h1>
 <h1 id="define-buttontop-3">define buttonTop 3<a class="headerlink" href="#define-buttontop-3" title="Permanent link">&para;</a></h1>
 <h1 id="define-buttonbottom-4">define buttonBottom 4<a class="headerlink" href="#define-buttonbottom-4" title="Permanent link">&para;</a></h1>
-<p>// Variables to keep track of button presses and motor rotation time
+<p>motor rotation time
 int buttonPresses = 0;
 unsigned long motorStartTime = 0;
 unsigned long lastButtonPressTime = 0;
 unsigned long totalMotorTime = 0;
 const int motorRotationTimePerPress = 2000; // 5 seconds
 bool motorRunning = false;</p>
-<p>int MBreleased = 1;
-//int TBreleased = 1;
-//int BBreleased = 1;</p>
+<p>int MBreleased = 1;</p>
 <p>void moveMotor() {
   totalMotorTime = motorRotationTimePerPress * buttonPresses;
   digitalWrite(motorPin1, HIGH);
@@ -557,14 +555,12 @@ bool motorRunning = false;</p>
   digitalWrite(motorPin2, LOW);
   Serial.begin(9600);
 }</p>
-<p>void loop() {
-  // Read the state of the button
-  int buttonState = digitalRead(buttonMotor);
+<p>void loop() {</p>
+<p>int buttonState = digitalRead(buttonMotor);
   int buttonTopState = digitalRead(buttonTop);
   int buttonBottomState = digitalRead(buttonBottom);
   unsigned long currentTime = millis();</p>
-<p>// Check if the button is pressed and the motor is not running
-  if (buttonState == LOW &amp;&amp; MBreleased == 1) {
+<p>if (buttonState == LOW &amp;&amp; MBreleased == 1) {
     lastButtonPressTime = currentTime;
     motorRunning = true;
     motorStartTime = currentTime;
@@ -576,7 +572,7 @@ bool motorRunning = false;</p>
     Serial.println(&ldquo;Button Presses: &ldquo;);
     Serial.println(buttonPresses);
   }</p>
-<p>// Check if the motor has been running for the required additional time
+<p>required additional time
   if ((motorRunning) &amp;&amp; (currentTime - motorStartTime &gt;= motorRotationTimePerPress*buttonPresses)) {
     if (buttonPresses &gt; 0) {
       motorRunning = false;
@@ -588,28 +584,19 @@ bool motorRunning = false;</p>
       //stopMotor();
     }
   }</p>
-<p>// Check if the top button is pressed
-  if (buttonTopState == LOW) {
+<p>if (buttonTopState == LOW) {
     Serial.println(&ldquo;Button Top Pressed&rdquo;);
     reverseMotor();
     buttonPresses = 0;
-    // if (motorRunning) {
-    //   stopMotor();
-    //   reverseMotor();
-    //   while (digitalRead(buttonBottom) == HIGH) {
-    //     // Keep the motor running until the bottom button is pressed
-    //   }
-    //   stopMotor();
-    // }
   }</p>
-<p>// Check if the bottom button is pressed
-  if (buttonBottomState == LOW) {
+<p>if (buttonBottomState == LOW) {
     Serial.println(&ldquo;Button Bottom Pressed&rdquo;);
     if (motorRunning) {
       stopMotor();
     }
   }
-}`</p>
+}
+`</p>
 <h2 id="forensic-report-screen">Forensic Report: Screen<a class="headerlink" href="#forensic-report-screen" title="Permanent link">&para;</a></h2>
 <p>===============</p>
 <table>
