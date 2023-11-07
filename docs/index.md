@@ -8,7 +8,7 @@
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
     <h2>Landing</h2>
-    the first week at IaaC and first impressions in Poblenou 
+    The first week at IaaC. 
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">see more</a>
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
@@ -27,7 +27,7 @@
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">see more</a>
     </div>
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)">
-    <h2>Collective Design Space</h2>
+    <h2>Collective Design</h2>
     A first group intervention 
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">see more</a>
     </div>
