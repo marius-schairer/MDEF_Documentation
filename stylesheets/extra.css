@@ -46,6 +46,9 @@
   font-weight: bold;
   color: rgb(32, 32, 32);
 }
+.md-main{
+  background-image: url("../images/Background.png");
+}
 
 
 .md-typeset h2 {
