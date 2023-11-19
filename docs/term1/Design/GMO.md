@@ -76,6 +76,40 @@ When considering alternative organisms or bacteria to clean the streets, it's im
 There are various research projects and initiatives exploring the use of genetically modified organisms (GMOs) for different purposes, including environmental remediation and public health. However, it's essential to consider the ethical implications and potential consequences of using GMOs in urban environments. Ethical questions that need to be addressed include the potential impact on biodiversity, unintended ecological consequences, and public acceptance of GMOs in urban settings. Additionally, it's important to conduct thorough risk assessments and engage in transparent communication with the public regarding the use of GMOs in city cleaning initiatives.
 
 #### 2.2.4. How would it be possible ?
+I have not found any existing research specific to this problem, but I have come up with three Opportunity areas that I have researched more deeply. 
+
+The first option would be to stick with the method and try to treat bacteria daily but with some kind of natural cleaning agent.
+
+**Baking Soda**: Baking soda is an excellent cleaner and deodorizer that can be used for various cleaning purposes, including removing clogs and softening water.
+
+**White Vinegar**: Due to its high acidity, white vinegar can reduce surface bacteria, making it a safe alternative to bleach.
+
+**Essential Oils**: Certain essential oils, such as lemon, have antibacterial properties and can be used as natural disinfectants.
+
+**Unscented Soap**: Biodegradable unscented soap can be used as a natural cleaning solution for a variety of surfaces.
+
+However, this option requires a lot of work and the alternative cleaning agents found do not seem to be cheap or better for our human health. 
+
+The second option would be to collect the bacteria and break them down into a kind of compost.
+
+**Bioremediation Microorganisms**: Certain naturally occurring microorganisms have the ability to break down and consume pollutants, including hydrocarbons and other contaminants found on urban streets. These microorganisms could be harnessed for their bioremediation capabilities to help clean and restore urban environments.
+
+**Mycelium**: Mycelium, the vegetative part of a fungus, has been explored for its potential in bioremediation and environmental cleanup. It has been used to absorb and digest a variety of pollutants, including hydrocarbons and heavy metals, and could potentially be applied to urban street cleaning as a self-recovering organism.
+
+**Algae**: Algae have been studied for their ability to absorb pollutants and contaminants from various environments. Certain species of algae have been shown to effectively remove heavy metals and other pollutants from water, and their potential for urban street cleaning could be further explored.
+
+With this option, the compost could even be further utilized to generate energy or promote plant growth for food production.
+
+The third option would be to apply a kind of permanent film, which would make the daily worry about bacteria redundant. 
+
+**Microbial Biofilms**: Certain types of microbial biofilms, composed of diverse microorganisms, have been found to thrive in urban environments and exhibit self-recovering properties. These biofilms can form invisible layers on surfaces and have the ability to adapt to varying environmental conditions, including dry heat and wet seasons.
+
+**Endophytic Bacteria and Fungi**: Endophytic bacteria and fungi, which reside within plant tissues, have been studied for their potential in environmental remediation and could potentially be harnessed for street cleaning. These organisms are often invisible and can adapt to different environmental conditions, making them potential candidates for self-recovering street cleaning solutions.
+
+**Biodegradable Polymers**: While not organisms in the traditional sense, certain biodegradable polymers have been designed to mimic the self-recovering properties of living organisms. These polymers can be engineered to withstand dry heat and wet conditions while providing a sustainable and invisible solution for street cleaning.
+
+This Opportunity Area also offers the greatest potential for a GMO, as different disinfecting species of organisms could be crossed to get the best result, which is harmless to both humans and other important species in the urban environment, but at the same time absorbs harmful bacteria. with the right optimization, this film could possibly also be applied to the first question of air pollution and thus solve the overarching question "How can we sustainably maintain clean cities with "natural" organisms?".  
+
 
 #### 2.2.5. Conclusion
 In conclusion, the use of alternative organisms or bacteria, including GMOs, for cleaning urban environments such as Barcelona requires careful consideration of environmental impact, human health, and ethical implications. It's essential to conduct thorough research, risk assessments, and public engagement to ensure the responsible and sustainable implementation of such initiatives.
