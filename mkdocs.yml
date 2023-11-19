@@ -22,7 +22,10 @@ nav:
           - Documenting Design: term1/Design/DocumentingDesign.md
           - Machine Paradox: term1/Design/MachineParadox.md
           - Living with Your Own Ideas: term1/Design/LwYoI.md
-
+          - Bio & Agri Zero:
+              - Bio Zero: term1/Design/BioZero.md
+              - Agri Zero: term1/Design/AgriZero.md
+              - GMO: term1/Design/GMO.md
       - Term 2: term2/Term2Overview.md
 
 
