@@ -5,7 +5,7 @@
 ## What is a GMO ?
 A genetically modified organism (GMO) is an organism whose genetic material has been altered using genetic engineering techniques. This is often done to introduce a desirable trait from one organism into another, such as making a plant resistant to pests or a crop more nutritious. GMOs can be plants, animals, or microorganisms, and they are used in various fields including agriculture, medicine, and research.
 
-GMOs are primarily used in agriculture for various purposes, including:
+GMOs are primarily used in agriculture for various purposes, including: <br/>
 **Resistance to Insect Damage**: GMO crops are developed to be resistant to insect damage, allowing farmers to apply fewer spray pesticides to protect the crops, thus reducing the environmental impact of pesticide use.
 
 **Tolerance to Herbicides**: GMO crops that are tolerant to herbicides help farmers control weeds without damaging the crops. This reduces the need for tillage, which helps maintain soil health and lower fuel and labor use.
