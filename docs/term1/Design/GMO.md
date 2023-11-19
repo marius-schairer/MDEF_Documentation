@@ -1,11 +1,13 @@
 `This Page content is currently in development. You can see the full result soon`
 
 # Reflection
+`In Progress`
 
 ## What is a GMO ?
 A genetically modified organism (GMO) is an organism whose genetic material has been altered using genetic engineering techniques. This is often done to introduce a desirable trait from one organism into another, such as making a plant resistant to pests or a crop more nutritious. GMOs can be plants, animals, or microorganisms, and they are used in various fields including agriculture, medicine, and research.
 
-GMOs are primarily used in agriculture for various purposes, including: <br/>
+GMOs are primarily used in agriculture for various purposes, including:
+
 **Resistance to Insect Damage**: GMO crops are developed to be resistant to insect damage, allowing farmers to apply fewer spray pesticides to protect the crops, thus reducing the environmental impact of pesticide use.
 
 **Tolerance to Herbicides**: GMO crops that are tolerant to herbicides help farmers control weeds without damaging the crops. This reduces the need for tillage, which helps maintain soil health and lower fuel and labor use.
@@ -23,7 +25,7 @@ GMOs are primarily used in agriculture for various purposes, including: <br/>
 ## how can we improve air quality in the urban underground using absorbing microorganisms? 
 
 ### Problem
-...
+`In Progress`
 
 ### Research on Absorbing Bad Air Quality
 While there is research on using plants to improve air quality, such as in indoor environments, there is limited information specifically on using fungi, moss, or other organisms to absorb bad air quality in underground spaces. However, there is ongoing research on the use of plants and microorganisms to improve air quality in various settings, which could provide valuable insights for your project
@@ -40,7 +42,7 @@ Creating an organism to absorb bad air quality in underground spaces would invol
 **Mycelium-Based Building Materials**: The Growing Pavilion, a building in the Netherlands, is made from mycelium, the roots of mushrooms. As it grows, it helps to clean the air. Mycelium-based building materials are being used to create environmentally-friendly structures that contribute to air purification.
 
 ### Conclusion
-...
+`In Progress`
 
 ## How can a natural alternative to chlorine help us clean the streets of big cities?
 
