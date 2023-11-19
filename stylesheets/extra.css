@@ -56,6 +56,16 @@
     color: rgb(32, 32, 32);
 }
 
+.md-typeset h3 {
+  font-weight: bold;
+  color: rgb(32, 32, 32);
+}
+
+.md-typeset h4 {
+  font-weight: bold;
+  color: rgb(32, 32, 32);
+}
+
 .mdc-typography--body2 {
     font-weight: 300;
     font-size: 14px;
