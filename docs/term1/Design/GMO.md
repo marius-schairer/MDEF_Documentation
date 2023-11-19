@@ -1,7 +1,7 @@
 `This Page content is currently in development. You can see the full result soon`
 
 # Reflection
-`In Progress`
+The topic of microorganisms and non-human intelligences has generally become a topic of great interest to me over the last few weeks. Especially I find the cooperation between nature and technology and different intelligences very interesting. However, the topic of genetic modifications has raised some ethical questions that I am not yet able to answer. the topic of ethics was also barely addressed in the lecture, which in retrospect was good because you first have to answer these questions for yourself as long as there are no long-term results. In addition to the lectures, I also watched the series "unnatural selection", which dealt with the topic of ethics in a relatively neutral way. I didn't know until two weeks ago how much research is being done in this area and how accessible the technologies are for this type of research. I still don't know what I think about the intervening of natural evolution, as it has many advantages but also many risks. The last few weeks and the exercise of designing a GMO has triggered me to think about it and in my opinion it should be covered in education as the technology is already present and evolving and we as humanity will soon have to make collaborative and global decisions about it. 
 
 ## What is a GMO ?
 A genetically modified organism (GMO) is an organism whose genetic material has been altered using genetic engineering techniques. This is often done to introduce a desirable trait from one organism into another, such as making a plant resistant to pests or a crop more nutritious. GMOs can be plants, animals, or microorganisms, and they are used in various fields including agriculture, medicine, and research.
@@ -28,9 +28,13 @@ GMOs are primarily used in agriculture for various purposes, including:
 Studies have shown that in the urban underground rail systems of many large cities there are increased levels of particulate matter, which we also tested in our last intervention in the design studio. These increased levels lead to poor air quality and increase the risk of asthma and cancer for daily passengers.
 
 #### Research on Absorbing Bad Air Quality
+![](../../images/Bearbeitet/Screenshot%202023-11-19%20at%2022.07.14.jpg)
 While there is research on using plants to improve air quality, such as in indoor environments, there is limited information specifically on using fungi, moss, or other organisms to absorb bad air quality in underground spaces. However, there is ongoing research on the use of plants and microorganisms to improve air quality in various settings, which could provide valuable insights.
+
 <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://www.nbcnews.com/id/wbna21313185">Plant genes modified to fight air polution</a>
+
 <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://new.nsf.gov/news/genetic-modification-poplar-trees-saves-air">Genetic modification of poplar trees saves air quality</a>
+
 <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=19876">Genetic modified Houseplant Pothos to reduce Indoor Air Pollution</a>
 
 
@@ -38,6 +42,7 @@ While there is research on using plants to improve air quality, such as in indoo
 Creating an organism to absorb bad air quality in underground spaces would involve identifying or engineering an organism with the ability to effectively absorb pollutants and thrive in underground conditions. This could potentially involve genetic modification to enhance the organism's natural abilities or introduce new ones. Additionally, considerations such as the organism's impact on the surrounding environment and its ability to survive and reproduce in underground conditions need to be addressed.
 
 #### How would it be possible ?
+![](../../images/Bearbeitet/vegan-plant-based-news-mushroom-building.jpg)
 
 **Mushroom-Filled Wall Tiles**: A design student at Brunel University in London has developed honeycomb tiles made from mycelium, the part of mushrooms that grows underground. These tiles, called Myco-Hex, are designed to absorb harmful hydrocarbon air pollution caused by traffic emissions and burning fossil fuels. The mycelium-fused fungi in the tiles safely absorbs hydrocarbons, helping to create cleaner air in towns and cities.
 <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://www.imnovation-hub.com/construction/solution-air-pollution/?_adin=11551547647">see more</a>
@@ -61,7 +66,7 @@ however, during my research i realized that both fungi and plants already have t
 
 ### How can a natural alternative to chlorine help us clean the streets of big cities?
 
-#### Most Used Cleaning Methods in Barcelona
+#### Problem
 The most commonly used cleaning method in Barcelona involves the use of chlor-based cleaning agents sprayed on the streets at night. The impact of this method on the environment and human health is a concern. Chlor-based cleaning agents can have negative effects on the environment, including harming aquatic life and disrupting ecosystems. Additionally, exposure to chlor-based cleaning agents can pose health risks to humans, such as respiratory irritation and other health issues.
 
 #### Alternative Organisms for Street Cleaning
@@ -70,7 +75,7 @@ When considering alternative organisms or bacteria to clean the streets, it's im
 #### Considerations
 There are various research projects and initiatives exploring the use of genetically modified organisms (GMOs) for different purposes, including environmental remediation and public health. However, it's essential to consider the ethical implications and potential consequences of using GMOs in urban environments. Ethical questions that need to be addressed include the potential impact on biodiversity, unintended ecological consequences, and public acceptance of GMOs in urban settings. Additionally, it's important to conduct thorough risk assessments and engage in transparent communication with the public regarding the use of GMOs in city cleaning initiatives.
 
-#### References of Similar Projects
+#### How would it be possible ?
 
 #### Conclusion
 In conclusion, the use of alternative organisms or bacteria, including GMOs, for cleaning urban environments such as Barcelona requires careful consideration of environmental impact, human health, and ethical implications. It's essential to conduct thorough research, risk assessments, and public engagement to ensure the responsible and sustainable implementation of such initiatives.
