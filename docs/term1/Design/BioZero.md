@@ -12,4 +12,5 @@
 
 ## Notes about Scientific Methodology
 
+![](../../images/Bearbeitet/bacteria.png)
 
