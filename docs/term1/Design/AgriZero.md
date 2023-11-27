@@ -1,7 +1,6 @@
-`This Page content is currently in development. You can see the full result soon`
 ![](../../images/Bearbeitet/AgriZeroCover.png)
 # Reflection
-
+The week in the agriculture zero course was very interesting and I personally enjoyed it the most so far. Maybe it was the change from everyday life that I enjoyed so much, but it definitely reminded me of nature and gave me a deeper understanding of agriculture that I didn't get in half a year of project work in a "homefarming project". The expert knowledge was very valuable and the different planting layouts increased my interest in interspecies collaboration even more. But especially the simplicity of the solutions I was able to get to know during this week inspired me. 
 
 
 ## How can we read nature
