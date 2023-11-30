@@ -5,7 +5,7 @@ This website is a documentation of reflections and developments from the persona
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Tiles/aboutMe.png" style="display:flex; align-content: center; opacity: 50%; width: 50%">
-    <h2 style="color: #181040">About Me</h2>
+    <h2 style="color: #181040; position: absolute">About Me</h2>
     </img>
     <div style="padding: 10px; gap: 10px; width: 50%">
     Where I come from and who I am
