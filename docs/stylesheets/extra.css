@@ -54,7 +54,7 @@
 .md-typeset h2 {
     font-weight: bold;
     color: rgb(32, 32, 32);
-    line-height: normal;
+    line-height:0%;
 }
 
 .md-typeset h3 {
