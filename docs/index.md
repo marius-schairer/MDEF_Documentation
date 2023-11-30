@@ -14,8 +14,8 @@ This website is a documentation of reflections and developments from the persona
 </div>
 
 ## Term 1
-<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 4%; flex-wrap:wrap;">
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>Landing</h2>
@@ -23,7 +23,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>Documenting Design</h2>
@@ -31,7 +31,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>Roles of Prototyping</h2>
@@ -39,7 +39,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio01/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>Atlas of Week Signals</h2>
@@ -47,7 +47,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>The Machine Paradox</h2>
@@ -55,7 +55,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>Collective Design Space</h2>
@@ -63,7 +63,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>Living With Your Own Ideas</h2>
