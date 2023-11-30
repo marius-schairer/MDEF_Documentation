@@ -1,5 +1,5 @@
-`This Page content is currently in development. You can see the full result soon`
 ![](../../images/Bearbeitet/BioZeroCover.png)
+
 # Reflection
 As we navigate the intricate world of science, Nuria left us with a profound thought—question everything and build our own ideals. Scientific progress is contingent on curiosity, rigorous methodologies, and ethical considerations. This lessons served as a stepping stone for us to explore the ever-evolving landscape of scientific knowledge.
 
