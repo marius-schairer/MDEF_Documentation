@@ -2,6 +2,7 @@
 
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; padding: 10px; flex-direction: column; align-items: flex-start; gap: 10px; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <img src="image/Bearbeitet/PH.png"></img>
     <h2>About Me</h2>
     Where I come from and who I am
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">see more</a>
