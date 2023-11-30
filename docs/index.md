@@ -1,7 +1,9 @@
 # Welcome to my MDEF Documentation
+## About MDEF
 
+## About Me
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>About Me</h2>
@@ -9,6 +11,10 @@
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">see more</a>
     </div>
     </div>
+</div>
+
+## About Term 1
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
