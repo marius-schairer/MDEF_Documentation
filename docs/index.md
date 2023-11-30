@@ -2,7 +2,7 @@
 
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <div style="border: 4px solid rgba(0, 0, 0, 0.20); display: flex; flex-direction: column; align-items: flex-start; width: 40%; height: 100%; object-fit: cover; background-color: rgb(255,255,255)" >
-    <img src="../docs/images/Bearbeitet/PH.png" style="width: 100%; height:300px"></img>
+    <img src="../images/Bearbeitet/PH.png" style="width: 100%; height:300px"></img>
     <div style="gap: 10px; padding: 10px">
         <h2>About Me</h2>
         Where I come from and who I am
