@@ -16,7 +16,7 @@ This website is a documentation of reflections and developments from the persona
 
 ## Term 1
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #FFE1CC" >
     <img src="images/Tiles/Landing.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Landing</h2>
     </img>
@@ -25,7 +25,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #FFE1CC" >
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Documenting Design</h2>
     </img>
@@ -34,7 +34,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CCFFF2" >
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Roles of Prototyping</h2>
     </img>
@@ -43,7 +43,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio01/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #D4CCFF" >
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Atlas of Week Signals</h2>
     </img>
@@ -52,7 +52,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #D4CCFF" >
     <img src="images/Tiles/MachineParadox.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">The Machine Paradox</h2>
     </img>
@@ -61,7 +61,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CCFFF2" >
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Collective Design Space</h2>
     </img>
@@ -70,7 +70,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #FFCCD5" >
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Living With Your Own Ideas</h2>
     </img>
@@ -79,7 +79,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #FFCCD5" >
     <img src="images/Tiles/BioZero.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Bio Zero</h2>
     </img>
@@ -88,7 +88,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #FFCCD5" >
     <img src="images/Tiles/AgriZero.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">Agri Zero</h2>
     </img>
@@ -97,7 +97,7 @@ This website is a documentation of reflections and developments from the persona
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">see more</a>
     </div>
     </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #FFCCD5" >
     <img src="images/Tiles/GMO.png" style="display:flex; align-content: center; opacity: 50%">
     <h2 style="color: #181040">GMO</h2>
     </img>
