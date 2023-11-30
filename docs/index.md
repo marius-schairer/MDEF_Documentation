@@ -3,8 +3,8 @@
 This website is a documentation of reflections and developments from the personal perspective of one individual belonging to the group of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development.
 
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <img src="images/Bearbeitet/PH.png"></img>
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 50%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <img src="images/Tiles/aboutMe.png"></img>
     <div style="padding: 10px; gap: 10px;">
     <h2>About Me</h2>
     Where I come from and who I am
@@ -14,7 +14,7 @@ This website is a documentation of reflections and developments from the persona
 </div>
 
 ## Term 1
-<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 4%; flex-wrap:wrap;">
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <img src="images/Bearbeitet/PH.png"></img>
     <div style="padding: 10px; gap: 10px;">
