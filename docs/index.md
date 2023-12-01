@@ -31,7 +31,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/DocDesign.png"></img>
+    <img src="images/Tiles/DocDesign copy.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
     How to Document Design </br>
@@ -42,7 +42,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/RoP.png"></img>
+    <img src="images/Tiles/RoP copy.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
     4 different prototyping approaches </br>
@@ -53,7 +53,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/AoWS.png"></img>
+    <img src="images/Tiles/AoWS copy.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
     My personal design space </br>
@@ -88,7 +88,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/LwYOI.png"></img>
+    <img src="images/Tiles/LwYOI copy.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
     My experiment from the first-person perspective </br>
@@ -105,7 +105,7 @@ This website is a documentation of reflections and developments from the persona
     First experiments in Microbiology 
     </br>
     </br>
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/BioZero/">
     see more
     </a>
     </div>
@@ -118,7 +118,7 @@ This website is a documentation of reflections and developments from the persona
     Agriculture and Valldaura Field Trip 
     </br>
     </br>
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AgriZero/">
     see more
     </a>
     </div>
@@ -129,7 +129,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     <div style="padding: 10px; gap: 10px;">
     First research about a Genetic Modified Organism </br>
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/GMO/">
     see more
     </a>
     </div>
