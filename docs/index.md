@@ -21,7 +21,7 @@ This website is a documentation of reflections and developments from the persona
 ## Term 1
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/Landing.png" style="opacity: 50%">
     </img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Landing</h2>
@@ -34,7 +34,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Documenting Design</h2>
     </div>
@@ -46,7 +46,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Roles of Prototyping</h2>
     </div>
@@ -58,7 +58,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Atlas of Week Signals</h2>
     </div>
@@ -70,7 +70,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/MachineParadox.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">The Machine Paradox</h2>
     </div>
@@ -82,7 +82,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Collective Design Space</h2>
     </div>
@@ -94,7 +94,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Living With Your Own Ideas</h2>
     </div>
@@ -106,7 +106,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/BioZero.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Bio Zero</h2>
     </div>
@@ -118,7 +118,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/AgriZero.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Agri Zero</h2>
     </div>
@@ -130,7 +130,7 @@ This website is a documentation of reflections and developments from the persona
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/GMO.png" style="display:flex; align-content: center; opacity: 50%"></img>
     <h2 style="color: #181040; position: relative; width: 100%; align-items: center">GMO</h2>
     </div>
