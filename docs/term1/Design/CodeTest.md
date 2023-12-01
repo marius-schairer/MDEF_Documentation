@@ -8,6 +8,6 @@
 </div>`
 
 <div>
-    <img src="/docs/images/Bearbeitet/essentialOil.png" style='effect'>Hover over me.</img>
-    <img src="/docs/images/Bearbeitet/IMG_8589.jpg" class="hide">I am shown when someone hovers over the img above.</img>
+    <img src="../../images/Bearbeitet/bacteria.png" style='effect'>Hover over me.</img>
+    <img src="../../images/Bearbeitet/essentialOil.png" class="hide">I am shown when someone hovers over the img above.</img>
 </div>
