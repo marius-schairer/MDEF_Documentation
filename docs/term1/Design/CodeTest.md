@@ -8,3 +8,4 @@
 </div>
 
 <img src="/docs/images/Tiles/BioZero.png" class="effect"></img>
+![](../../images/Bearbeitet/BioZeroCover.png)
