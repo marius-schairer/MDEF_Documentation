@@ -5,11 +5,13 @@ This website is a documentation of reflections and developments from the persona
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #181040" >
     <img src="images/Tiles/aboutMe.png" style="display:flex; align-content: center; justify-content:center; opacity: 50%; width: 50%">
-    <h2 style="color: #CABFFF; display: flex; position: absolut; left: 50%; align-content: center">About Me</h2>
+    <h2 style="color: #CABFFF; position: absolut; left: 50%">About Me</h2>
     </img>
     <div style="padding: 10px; gap: 10px; width: 50%; color: #CABFFF;">
     Where I come from and who I am
-    <a style="color: #FFFFFF; font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">see more</a>
+    <a style="color: #FFFFFF; font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
+    see more
+    </a>
     </div>
     </div>
 </div>
@@ -22,7 +24,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     The first week at IaaC. 
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -31,7 +35,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     How to Document Design
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -40,7 +46,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     4 different prototyping approaches
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio01/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio01/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -49,7 +57,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     My personal design space 
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -58,7 +68,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     A group prototyping work 
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CCFFF2" >
@@ -67,7 +79,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     A first group intervention about undergounds air pollution
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -76,7 +90,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     My experiment from the first-person perspective
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -85,7 +101,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     First experiments in Microbiology
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -94,7 +112,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     Agriculture and Valldaura Field Trip
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    see more
+    </a>
     </div>
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
@@ -103,7 +123,9 @@ This website is a documentation of reflections and developments from the persona
     </img>
     <div style="padding: 10px; gap: 10px;">
     First research about a Genetic Modified Organism
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">see more</a>
+    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    see more
+    </a>
     </div>
     </div>
 </div>
