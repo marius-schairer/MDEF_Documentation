@@ -7,3 +7,4 @@
     <img src="/docs/images/Tiles/AgriZero.png" class="hide"></img>
 </div>
 
+<img src="/docs/images/Tiles/BioZero.png" class="effect"></img>
