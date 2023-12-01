@@ -95,3 +95,11 @@
   width: auto;
   box-shadow: #c4c4c4;
 }
+
+.hide{
+  display: none;
+}
+
+.effect:hover + .hide{
+  display: block;
+}
