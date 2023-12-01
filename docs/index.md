@@ -9,7 +9,7 @@ This website is a documentation of reflections and developments from the persona
             </img>
         </div>
         <div style="padding: 10px; gap: 10px; width: 50%; color: #CABFFF;">
-        Where I come from and who I am
+        Where I come from and who I am </br>
         <a style="color: #FFFFFF; font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
         see more
         </a>
@@ -24,7 +24,7 @@ This website is a documentation of reflections and developments from the persona
         <img src="images/Tiles/Landing.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    The first week at IaaC. 
+    The first week at IaaC. </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">
     see more
     </a>
@@ -35,7 +35,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/DocDesign.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    How to Document Design
+    How to Document Design </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/">
     see more
     </a>
@@ -46,7 +46,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/RoP.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    4 different prototyping approaches
+    4 different prototyping approaches </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio01/">
     see more
     </a>
@@ -57,7 +57,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/AoWS.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    My personal design space 
+    My personal design space </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/">
     see more
     </a>
@@ -68,7 +68,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/MachineParadox.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    A group prototyping work 
+    A group prototyping work </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">
     see more
     </a>
@@ -79,7 +79,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/CollDesign.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    A first group intervention about undergounds air pollution
+    A first group intervention about undergounds air pollution </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">
     see more
     </a>
@@ -90,7 +90,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/LwYOI.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    My experiment from the first-person perspective
+    My experiment from the first-person perspective </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
     see more
     </a>
@@ -101,7 +101,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/BioZero.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    First experiments in Microbiology
+    First experiments in Microbiology </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
     see more
     </a>
@@ -112,7 +112,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/AgriZero.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    Agriculture and Valldaura Field Trip
+    Agriculture and Valldaura Field Trip </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
     see more
     </a>
@@ -123,7 +123,7 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/GMO.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    First research about a Genetic Modified Organism
+    First research about a Genetic Modified Organism </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
     see more
     </a>
