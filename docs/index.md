@@ -7,7 +7,7 @@ This website is a documentation of reflections and developments from the persona
         <div style="display:flex; align-content: center; justify-content:center; width: 50%">
             <img src="images/Tiles/aboutMe.png" style="opacity: 50%">
             </img>
-            <h2 style="color: #CABFFF; position: relative; width: 100%; align-items: center">About Me</h2>
+            <h2 style="color: #CABFFF; position: relative; width: 300px; align-items: center">About Me</h2>
         </div>
         <div style="padding: 10px; gap: 10px; width: 50%; color: #CABFFF;">
         Where I come from and who I am
@@ -24,7 +24,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/Landing.png" style="opacity: 50%">
     </img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Landing</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Landing</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     The first week at IaaC. 
@@ -36,7 +36,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Documenting Design</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Documenting Design</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     How to Document Design
@@ -48,7 +48,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Roles of Prototyping</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Roles of Prototyping</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     4 different prototyping approaches
@@ -60,7 +60,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Atlas of Week Signals</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Atlas of Week Signals</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     My personal design space 
@@ -72,7 +72,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/MachineParadox.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">The Machine Paradox</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">The Machine Paradox</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     A group prototyping work 
@@ -84,7 +84,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Collective Design Space</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Collective Design Space</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     A first group intervention about undergounds air pollution
@@ -96,7 +96,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Bearbeitet/PH.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Living With Your Own Ideas</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Living With Your Own Ideas</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     My experiment from the first-person perspective
@@ -108,7 +108,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/BioZero.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Bio Zero</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Bio Zero</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     First experiments in Microbiology
@@ -120,7 +120,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/AgriZero.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">Agri Zero</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">Agri Zero</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     Agriculture and Valldaura Field Trip
@@ -132,7 +132,7 @@ This website is a documentation of reflections and developments from the persona
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/GMO.png" style="display:flex; align-content: center; opacity: 50%"></img>
-    <h2 style="color: #181040; position: relative; width: 100%; align-items: center">GMO</h2>
+    <h2 style="color: #181040; position: relative; width: 300px; align-items: center">GMO</h2>
     </div>
     <div style="padding: 10px; gap: 10px;">
     First research about a Genetic Modified Organism
