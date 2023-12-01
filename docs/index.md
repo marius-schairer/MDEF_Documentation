@@ -1,4 +1,3 @@
-`currently changing the structure of the Landing Page`
 # Welcome to my MDEF Documentation
 This website is a documentation of reflections and developments from the personal perspective of one individual belonging to the group of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development.
 
@@ -68,7 +67,9 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/MachineParadox.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    A group prototyping work </br>
+    A group prototyping work 
+    </br>
+    </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">
     see more
     </a>
@@ -101,7 +102,9 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/BioZero.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    First experiments in Microbiology </br>
+    First experiments in Microbiology 
+    </br>
+    </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
     see more
     </a>
@@ -112,7 +115,9 @@ This website is a documentation of reflections and developments from the persona
     <img src="images/Tiles/AgriZero.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
-    Agriculture and Valldaura Field Trip </br>
+    Agriculture and Valldaura Field Trip 
+    </br>
+    </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
     see more
     </a>
