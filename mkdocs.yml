@@ -37,9 +37,9 @@ extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: "https://instagram.com/design.from.mars?igshid=OGQ5ZDc2ODk2ZA=="
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://de.linkedin.com/in/marius-patric-schairer-00a505207"
     - icon: fontawesome/brands/github
       link: "https://github.com/marius-schairer"
 
