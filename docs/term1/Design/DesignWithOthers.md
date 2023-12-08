@@ -1,0 +1,1 @@
+![](../../images/Bearbeitet/DwOCover.png)
