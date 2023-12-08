@@ -6,9 +6,9 @@ This website is a documentation of reflections and developments from the persona
         <div style="display:flex; align-content: center; justify-content:center; width: 50%">
             <img src="images/Tiles/aboutMe copy.png"></img>
         </div>
-        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040;">
+        <div style="padding: 10px; gap: 10px; width: 50%;">
         Where I come from and who I am </br>
-        <a style="color: #FFFFFF; font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
+        <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
         see more
         </a>
         </div>
