@@ -10,24 +10,37 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project: project/project.md
+  - Design Studio 01: term1/Design/DesignStudio.md
+      - Roles of Prototyping: term1/Design/RolesofPrototyping.md
+      - Collective Design Space: term1/Design/CollectiveDesignSpace.md
+      - Narratives: term1/Design/Narratives.md
+      - Collective Intervention: term1/Design/CollectiveIntervention.md
+      - Master project: project/project.md
   - Reflections:
       - Term 1:
           - Landing: term1/Landing/landing.md
-          - Design Studio 01: 
-              - Roles of Prototyping: term1/Design/DesignStudio01.md
-              - Collective Design Space: term1/Design/CollectiveDesignSpace.md
-              - Narratives: term1/Design/Narratives.md
-          - AoWS: term1/Design/AtlasofWeakSignals.md
+          - AoWS: term1/Reflections/AtlasofWeakSignals.md
+<<<<<<< HEAD
           - Documenting Design: term1/Design/DocumentingDesign.md
           - Machine Paradox: term1/Design/MachineParadox.md
           - Living with Your Own Ideas: term1/Design/LwYoI.md
           - Bio & Agri Zero:
               - Bio Zero: term1/Design/BioZero.md
               - Agri Zero: term1/Design/AgriZero.md
-              - GMO: term1/Design/GMO.md
+              - GMO: term1/v/GMO.md
           - Design with Others: term1/Design/DesignWithOthers.md
           - Extended intelligences: term1/Design/ExtendedIntelligences.md
+=======
+          - Documenting Design: term1/Reflections/DocumentingDesign.md
+          - Machine Paradox: term1/Reflections/MachineParadox.md
+          - Living with Your Own Ideas: term1/Reflections/LwYoI.md
+          - Bio & Agri Zero: term1/Reflections/BioAgriZero.md
+              - Bio Zero: term1/Reflections/BioZero.md
+              - Agri Zero: term1/Reflections/AgriZero.md
+              - GMO: term1/Reflections/GMO.md
+          - Design with Others: term1/Reflections/DesignWithOthers.md
+          - Extended intelligences: term1/Reflections/ExtendedIntelligences.md
+>>>>>>> parent of 4e90b41 (fix)
       - Term 2: term2/Term2Overview.md
   - Code Test: term1/Design/CodeTest.md
 
