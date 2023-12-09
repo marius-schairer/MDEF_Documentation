@@ -1,5 +1,7 @@
 ![](../../images/Bearbeitet/DwOCover.png)
 
+`this page is in progress`
+
 # Reflection
 This week has answered some questions that have accumulated over the previous weeks. What is possible ? how can you become a part ? And how does a community project really work? In order to design concepts with others, you first have to understand how other projects have worked. The week felt like a kikoff for the rest of the year, as it was the first time you really got into action and did a community engagement intervention. At the same time, the workshops and the theme we ultimately chose for our intervention reminded me on my awareness of my surroundings.
 
