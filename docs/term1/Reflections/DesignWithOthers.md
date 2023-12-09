@@ -20,9 +20,9 @@ The module “Designing for Others” was led by Adria and Markel from Holon. Ho
 
 ### Friction
 <div style="display: flex; flex-direction: row; justify-content: space-between; width:100%; height:400px">
-<img src="/docs/images/Bearbeitet/trash1.gif"></img>
-<img src="/docs/images/Bearbeitet/decomposition1.gif"></img>
-<img src="/docs/images/Bearbeitet/Reuse1.gif"></img>
+<img src="../../images/Bearbeitet/trash1.gif"></img>
+<img src="../../images/Bearbeitet/decomposition1.gif"></img>
+<img src="../../images/Bearbeitet/Reuse1.gif"></img>
 </div>
 As mentioned before we examined the concepts both of SOIL and LAND, to see how we 
 could design within the communities dependent on both. We explored our role in these complex systems. As an one hour exercise in the beginning of the module we explored our surroundings (500 meters) in the neighborhood of Sants and analyzed it to find friction points to document. These points were triggers that showed tension and conflict. 
