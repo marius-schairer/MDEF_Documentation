@@ -19,6 +19,11 @@ While listening to some presentations in the workshops, questions like: “Why w
 The module “Designing for Others” was led by Adria and Markel from Holon. Holon is a non profit cooperative “helping many organizations become the new normal through design”. It is based in Cooperlis, Barcelona. 
 
 ### Friction
+<div style="display: flex; flex-direction: row">
+<img src="/docs/images/Bearbeitet/trash1.gif"></img>
+<img src="/docs/images/Bearbeitet/decomposition1.gif"></img>
+<img src="/docs/images/Bearbeitet/Reuse1.gif"></img>
+</div>
 As mentioned before we examined the concepts both of SOIL and LAND, to see how we 
 could design within the communities dependent on both. We explored our role in these complex systems. As an one hour exercise in the beginning of the module we explored our surroundings (500 meters) in the neighborhood of Sants and analyzed it to find friction points to document. These points were triggers that showed tension and conflict. 
 
@@ -37,7 +42,7 @@ This was particularly interesting for me to think about communal living models, 
 
 ## Group Intervention
 
-<iframe width="100%" src="https://www.youtube.com/embed/FUPg-zJ5T0o?si=tG1KQdK2MLHoE8iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/FUPg-zJ5T0o?si=tG1KQdK2MLHoE8iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Our group was dedicated to the revitalization and repurposing of our neighborhood through regreening efforts. After exploring various concepts, we decided to create a workshop series aimed at transforming streets and connecting two parks or greenspaces. The overarching goal is to create more habitats for bees and other insects, thereby enhancing the greenery of our streets.
 
