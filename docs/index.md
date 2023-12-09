@@ -1,21 +1,43 @@
 # Welcome to my MDEF Documentation
-This website is a documentation of reflections and developments from the personal perspective of one individual belonging to the group of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development.
 
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
         <div style="display:flex; align-content: center; justify-content:center; width: 50%">
             <img src="images/Tiles/aboutMe copy.png"></img>
         </div>
         <div style="padding: 10px; gap: 10px; width: 50%;">
-        Where I come from and who I am </br>
-        <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
-        see more
-        </a>
+        This website is a documentation of reflections and developments from the personal perspective of one individual belonging to the group of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development. See more about Where I come from and who I am on this page.
         </div>
+    </a>
+</div>
+
+## Design Studio
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio01/">
+    <img src="images/Tiles/RoP copy.png"></img>
+    </div>
+    </div>
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">
+    <img src="images/Tiles/CollDesign.png"></img>
+    </div>
+    </div>
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/Narratives/">
+    <img src="images/Tiles/Narrative.png"></img>
+    </div>
+    </div>
+    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
+    <div style="display:flex; align-content: center; justify-content:center; width: 100%" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveIntervention/">
+    <img src="images/Tiles/CollectiveIntervention.png"></img>
+    </div>
     </div>
 </div>
 
-## Term 1 
+
+## Reflections
+### Term 1
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
@@ -41,17 +63,6 @@ This website is a documentation of reflections and developments from the persona
     </div>
     <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/RoP copy.png"></img>
-    </div>
-    <div style="padding: 10px; gap: 10px;">
-    4 different prototyping approaches </br>
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignStudio01/">
-    see more
-    </a>
-    </div>
-    </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/AoWS copy.png"></img>
     </div>
     <div style="padding: 10px; gap: 10px;">
@@ -70,17 +81,6 @@ This website is a documentation of reflections and developments from the persona
     </br>
     </br>
     <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">
-    see more
-    </a>
-    </div>
-    </div>
-    <div style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" >
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/CollDesign.png"></img>
-    </div>
-    <div style="padding: 10px; gap: 10px;">
-    A first group intervention about undergounds air pollution </br>
-    <a style="color: rgb(88, 28, 167); font-weight: bold;" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">
     see more
     </a>
     </div>
