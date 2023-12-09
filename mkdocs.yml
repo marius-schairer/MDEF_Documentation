@@ -10,8 +10,8 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Design Studio 01: 
-              - Roles of Prototyping: term1/Design/DesignStudio01.md
+  - Design Studio 01: term1/Design/DesignStudio.md
+              - Roles of Prototyping: term1/Design/RolesofPrototyping.md
               - Collective Design Space: term1/Design/CollectiveDesignSpace.md
               - Narratives: term1/Design/Narratives.md
               - Collective Intervention: term1/Design/CollectiveIntervention.md
