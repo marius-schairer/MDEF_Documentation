@@ -1,5 +1,12 @@
 # Welcome to my MDEF Documentation
 
+<style>
+.tile{box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF;"}
+.tile:hover{
+    box-shadow: 5px 5px 0px 10px #181040; 
+}
+</style>
+
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
     <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
         <div style="display:flex; align-content: center; justify-content:center; width: 50%">
