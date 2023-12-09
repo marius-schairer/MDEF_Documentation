@@ -19,11 +19,11 @@ While listening to some presentations in the workshops, questions like: “Why w
 The module “Designing for Others” was led by Adria and Markel from Holon. Holon is a non profit cooperative “helping many organizations become the new normal through design”. It is based in Cooperlis, Barcelona. 
 
 ### Friction
-<div style="display: flex; flex-direction: row; justify-content: space-between; width:100%; height:400px">
-<img src="../../images/Bearbeitet/trash1.gif"></img>
-<img src="../../images/Bearbeitet/decomposition1.gif"></img>
-<img src="../../images/Bearbeitet/Reuse1.gif"></img>
-</div>
+
+![](../../images/Bearbeitet/trash1.gif)
+![](../../images/Bearbeitet/decomposition1.gif)
+![](../../images/Bearbeitet/Reuse1.gif)
+
 As mentioned before we examined the concepts both of SOIL and LAND, to see how we 
 could design within the communities dependent on both. We explored our role in these complex systems. As an one hour exercise in the beginning of the module we explored our surroundings (500 meters) in the neighborhood of Sants and analyzed it to find friction points to document. These points were triggers that showed tension and conflict. 
 
