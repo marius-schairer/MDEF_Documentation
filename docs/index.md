@@ -5,7 +5,7 @@
         <div style="display:flex; align-content: center; justify-content:center; width: 50%">
             <img src="images/Tiles/aboutMe copy.png"></img>
         </div>
-        <div style="padding: 10px; gap: 10px; width: 50%;">
+        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
         This website is a documentation of reflections and developments from my personal perspective of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development. See more about me on this page.
         </div>
     </a>
