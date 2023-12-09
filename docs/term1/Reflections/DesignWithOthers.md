@@ -37,11 +37,11 @@ This was particularly interesting for me to think about communal living models, 
 
 ## Group Intervention
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FUPg-zJ5T0o?si=tG1KQdK2MLHoE8iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/FUPg-zJ5T0o?si=tG1KQdK2MLHoE8iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Our group was dedicated to the revitalization and repurposing of our neighborhood through regreening efforts. After exploring various concepts, we decided to create a workshop series aimed at transforming streets and connecting two parks or greenspaces. The overarching goal is to create more habitats for bees and other insects, thereby enhancing the greenery of our streets.
 
 The workshop series kicks off with an engaging gathering activity and a neighborhood walk, adopting a bee workshop approach to foster connections and brainstorm directions. These workshops are carefully designed to inspire and involve people's creativity in constructing insect housing while collaboratively discovering innovative solutions. To raise awareness for the event, we've also developed an initial campaign to inform and engage the neighborhood.
 
-![](../../images/Bearbeitet/DwOInterventiontimeplan.png)
+![](../../images/Bearbeitet/DwoInterventionplan.png)
 ![](../../images/Bearbeitet/DwOInterventiontimeplan.png)
