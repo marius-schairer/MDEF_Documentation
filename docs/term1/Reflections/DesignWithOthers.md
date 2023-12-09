@@ -19,7 +19,7 @@ While listening to some presentations in the workshops, questions like: “Why w
 The module “Designing for Others” was led by Adria and Markel from Holon. Holon is a non profit cooperative “helping many organizations become the new normal through design”. It is based in Cooperlis, Barcelona. 
 
 ### Friction
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row; justify-content: space-between; width:100%; height:400px">
 <img src="/docs/images/Bearbeitet/trash1.gif"></img>
 <img src="/docs/images/Bearbeitet/decomposition1.gif"></img>
 <img src="/docs/images/Bearbeitet/Reuse1.gif"></img>
