@@ -10,24 +10,24 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Reflections:
-      - Term 1:
-          - Landing: term1/Landing/landing.md
-          - Design Studio 01: 
+  - Design Studio 01: 
               - Roles of Prototyping: term1/Design/DesignStudio01.md
               - Collective Design Space: term1/Design/CollectiveDesignSpace.md
               - Narratives: term1/Design/Narratives.md
               - Master project: project/project.md
-          - AoWS: term1/Design/AtlasofWeakSignals.md
-          - Documenting Design: term1/Design/DocumentingDesign.md
-          - Machine Paradox: term1/Design/MachineParadox.md
-          - Living with Your Own Ideas: term1/Design/LwYoI.md
+  - Reflections:
+      - Term 1:
+          - Landing: term1/Landing/landing.md
+          - AoWS: term1/Reflections/AtlasofWeakSignals.md
+          - Documenting Design: term1/Reflections/DocumentingDesign.md
+          - Machine Paradox: term1/Reflections/MachineParadox.md
+          - Living with Your Own Ideas: term1/Reflections/LwYoI.md
           - Bio & Agri Zero:
-              - Bio Zero: term1/Design/BioZero.md
-              - Agri Zero: term1/Design/AgriZero.md
-              - GMO: term1/Design/GMO.md
-          - Design with Others: term1/Design/DesignWithOthers.md
-          - Extended intelligences: term1/Design/ExtendedIntelligences.md
+              - Bio Zero: term1/Reflections/BioZero.md
+              - Agri Zero: term1/Reflections/AgriZero.md
+              - GMO: term1/Reflections/GMO.md
+          - Design with Others: term1/Reflections/DesignWithOthers.md
+          - Extended intelligences: term1/Reflections/ExtendedIntelligences.md
       - Term 2: term2/Term2Overview.md
   - Code Test: term1/Design/CodeTest.md
 
