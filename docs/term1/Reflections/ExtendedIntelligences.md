@@ -20,7 +20,7 @@ An ai that can help to illuminate and trace connections between neurons. This AI
 ### Slocum G3 Glider
 ![](../../images/ExtInt/IMG_9274.jpg)
 ![](../../images/ExtInt/IMG_9276.jpg)
-Ai combined with soft robotics to perform tasks underwater or in space that humans cannot do. These concepts show the potential autonomy of Ai's. they can collect, process, learn, store and communicate data in a way we can understand. Of course, the robots have been pre-programmed in a certain way to perform a task that we cannot do with a human, but they can also work with the current 
+Ai combined with soft robotics to perform tasks underwater or in space that humans cannot do. These concepts show the potential autonomy of Ai's. they can collect, process, learn, store and communicate data in a way we can understand. Of course, the robots have been pre-programmed in a certain way to perform a task that we cannot perform with a human, but they can also adapt to the current environment and make decisions on their own to accomplish the mission. but how well can they deal with unknown situations. can they get creative and find their own solutions spontaneously?
 ### Robots Modulars
 ![](../../images/ExtInt/IMG_9292.jpg)
 ![](../../images/ExtInt/IMG_9295.jpg)
