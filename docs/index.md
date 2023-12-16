@@ -44,47 +44,47 @@
         <img src="images/Tiles/Landing.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/DocumentingDesign/">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/DocDesign copy.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AtlasofWeakSignals/">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/AtlasofWeakSignals/">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/AoWS copy.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/MachineParadox/md">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/MachineParadox/md">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/MachineParadox.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/LwYoI/">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/LwYoI/">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/LwYOI copy.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF"  href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/BioZero/">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF"  href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/BioZero/">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/BioZero.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/AgriZero/">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/AgriZero/">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/AgriZero.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/GMO/">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/GMO/">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/GMO.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/DesignWithOthers">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/DesignWithOthers">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/DWO.png"></img>
     </div>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/ExtendedIntelligences">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/ExtendedIntelligences/">
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/ExtInt.png"></img>
     </div>
