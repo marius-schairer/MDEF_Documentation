@@ -1,3 +1,10 @@
-# Term 2
+`in progress`
+# Reflection on Dialogues
 
-`here you will find more information about the second term soon`
+
+## New Designspace
+
+## Goals
+
+## Next Steps
+
