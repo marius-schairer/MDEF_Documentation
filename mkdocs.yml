@@ -16,6 +16,7 @@ nav:
         - Narratives: term1/Design/Narratives.md
         - Collective Intervention: term1/Design/CollectiveIntervention.md
         - Master project: project/project.md
+  - Design Studio 02: term2/DesignStudio02.md
   - Reflections:
       - Term 1:
           - Landing: term1/Landing/landing.md
@@ -30,7 +31,6 @@ nav:
           - Design with Others: term1/Reflections/DesignWithOthers.md
           - Extended intelligences: term1/Reflections/ExtendedIntelligences.md
       - Term 2: 
-          - Design Studio 02: term2/DesignStudio02.md
           - Design for Climate Emergency: term2/DesignforClimateEmergency.md
   - Code Test: term1/Design/CodeTest.md
 
