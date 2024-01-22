@@ -29,7 +29,9 @@ nav:
               - GMO: term1/Reflections/GMO.md
           - Design with Others: term1/Reflections/DesignWithOthers.md
           - Extended intelligences: term1/Reflections/ExtendedIntelligences.md
-      - Term 2: term2/Term2Overview.md
+      - Term 2: 
+          - Design Studio 02: term2/DesignStudio02.md
+          - Design for Climate Emergency: term2/DesignforClimateEmergency.md
   - Code Test: term1/Design/CodeTest.md
 
 
