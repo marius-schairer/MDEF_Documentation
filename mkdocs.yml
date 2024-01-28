@@ -10,7 +10,6 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Design Studio 02: term2/DesignStudio02.md
   - Term 1:
       - Design Studio 01:
           - Roles of Prototyping: term1/Design/RolesofPrototyping.md
