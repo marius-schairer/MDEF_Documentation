@@ -1,10 +1,14 @@
 
+# Reflection
+`...`
 ## Golden Circle
-### What do we do ? 
+![Golden Circle](../../images/Bearbeitet/GoldenCircle.png)
+### What? 
 Collect and process Data, including intelligences to adapt them into a dynamically regenerative city development.
-### How do we do it ?
+### How?
 Create social innovation in a Participatory, educative and circular way through digital collaboration, human machine collaboration and open source technology.
-### Why do we do it ?
-To balance resources and society for a Sustainable future 
+### Why?
+To find balance in resources and society for a Sustainable future.
 
 ## Stakeholders Radar
+`...`
