@@ -10,15 +10,15 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Design Studio 01:
-        - Roles of Prototyping: term1/Design/RolesofPrototyping.md
-        - Collective Design Space: term1/Design/CollectiveDesignSpace.md
-        - Narratives: term1/Design/Narratives.md
-        - Collective Intervention: term1/Design/CollectiveIntervention.md
-        - Master project: project/project.md
   - Design Studio 02: term2/DesignStudio02.md
-  - Reflections:
-      - Term 1:
+  - Term 1:
+      - Design Studio 01:
+          - Roles of Prototyping: term1/Design/RolesofPrototyping.md
+          - Collective Design Space: term1/Design/CollectiveDesignSpace.md
+          - Narratives: term1/Design/Narratives.md
+          - Collective Intervention: term1/Design/CollectiveIntervention.md
+          - Master project: project/project.md
+      - Reflections:
           - Landing: term1/Landing/landing.md
           - AoWS: term1/Reflections/AtlasofWeakSignals.md
           - Documenting Design: term1/Reflections/DocumentingDesign.md
@@ -30,8 +30,13 @@ nav:
               - GMO: term1/Reflections/GMO.md
           - Design with Others: term1/Reflections/DesignWithOthers.md
           - Extended intelligences: term1/Reflections/ExtendedIntelligences.md
-      - Term 2: 
-          - Design for Climate Emergency: term2/DesignforClimateEmergency.md
+  - Term 2: 
+      - Design Studio 02:
+          - Design Dialogues: term2/DesignStudio02/DesignStudio02.md
+      - Reflections:
+          - Design for Climate Emergency: term2/Reflections/DesignforClimateEmergency.md
+          - Future Talks:
+              - Future Talk 01: term2/Reflections/FutureTalk/FutureTalks01.md
   - Code Test: term1/Design/CodeTest.md
 
 
