@@ -16,7 +16,6 @@ nav:
           - Collective Design Space: term1/Design/CollectiveDesignSpace.md
           - Narratives: term1/Design/Narratives.md
           - Collective Intervention: term1/Design/CollectiveIntervention.md
-          - Master project: project/project.md
       - Reflections:
           - Landing: term1/Landing/landing.md
           - AoWS: term1/Reflections/AtlasofWeakSignals.md
@@ -36,7 +35,7 @@ nav:
           - Design for Climate Emergency: term2/Reflections/DesignforClimateEmergency.md
           - Future Talks:
               - Future Talk 01: term2/Reflections/FutureTalk/FutureTalks01.md
-  - Code Test: term1/Design/CodeTest.md
+          - Digital Fabrication: term2/Reflections/DigitalFabrication/DigitalFabrication01.md
 
 
 
