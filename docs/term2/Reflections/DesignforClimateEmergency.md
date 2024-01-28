@@ -11,6 +11,6 @@ Both in a waay but if the production would not be there people can not consume t
 If we talk about degrowth of energy or water consumption the average lifequality for people who previously didn’t had access to goods is growing but for people who consumed a lot before lifequality is degrowing. The balance between the consumption of people is growing. If material values degrow, non material values are growing. 
 
 # Intervention
-![at the beach](../images/DesignForClimatEmergency/DSCF9449.jpg)
+![at the beach](../../images/DesignForClimatEmergency/DSCF9449.jpg)
 
-![Poster](../images/DesignForClimatEmergency/DSCF9454.jpg)
+![Poster](../../images/DesignForClimatEmergency/DSCF9454.jpg)
