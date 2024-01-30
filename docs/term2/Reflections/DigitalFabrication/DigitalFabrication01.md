@@ -2,10 +2,10 @@
 
 
 
-<img src="../../../images/Bearbeitet/GH_lines.gif"></img>
-<img src="../../../images/Bearbeitet/GH_size.gif"></img>
-<img src="../../../images/Bearbeitet/Laser.gif"></img>
-<img src="../../../images/Bearbeitet/Mold_Assembly.gif"></img>
+<img src="../../../images/Bearbeitet/GH_lines.gif" width="100%"></img>
+<img src="../../../images/Bearbeitet/GH_size.gif" width="100%"></img>
+<img src="../../../images/Bearbeitet/Laser.gif" width="100%"></img>
+<img src="../../../images/Bearbeitet/Mold_Assembly.gif" width="100%"></img>
 
 
 ![page header](../../../images/Bearbeitet/DSCF9993.jpg)
