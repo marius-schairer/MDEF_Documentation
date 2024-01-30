@@ -1,12 +1,12 @@
 ![Cover](../../../images/Bearbeitet/DigitalPrototypingForDesignCover.png)
 
 
-<div style="display: flex, flex-direction: row">
-<img src="../../../images/Bearbeitet/GH_lines.gif" width="25%" height="200px"></img>
-<img src="../../../images/Bearbeitet/GH_size.gif" width="25%" height="200px"></img>
-<img src="../../../images/Bearbeitet/Laser.gif" width="25%" height="200px"></img>
-<img src="../../../images/Bearbeitet/Mold_Assembly.gif" width="25%" height="200px"></img>
-</div>
+
+<img src="../../../images/Bearbeitet/GH_lines.gif"></img>
+<img src="../../../images/Bearbeitet/GH_size.gif"></img>
+<img src="../../../images/Bearbeitet/Laser.gif"></img>
+<img src="../../../images/Bearbeitet/Mold_Assembly.gif"></img>
+
 
 ![page header](../../../images/Bearbeitet/DSCF9993.jpg)
 ![page header](../../../images/Bearbeitet/DSCF9994.jpg)
