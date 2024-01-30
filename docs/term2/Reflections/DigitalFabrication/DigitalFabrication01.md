@@ -15,4 +15,4 @@
 ![page header](../../../images/Bearbeitet/DSCF0004.jpg)
 ![page header](../../../images/Bearbeitet/DSCF0005.jpg)
 ![page header](../../../images/Bearbeitet/DSCF0009.jpg)
-![page header](../../../images/Bearbeitet/IMG_9841.JPG)
+![page header](../../../images/Bearbeitet/IMG_9841-2.JPG)
