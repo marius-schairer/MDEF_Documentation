@@ -11,4 +11,4 @@ Create social innovation in a Participatory, educative and circular way through 
 To find balance in resources and society for a Sustainable future.
 
 ## Stakeholders Radar
-![Stakeholder Radar](../../images/Bearbeitet/SteakholdersRadar.png)
+`...`
