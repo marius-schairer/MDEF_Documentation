@@ -1,13 +1,10 @@
 ![Cover](../../../images/Bearbeitet/DigitalPrototypingForDesignCover.png)
 
 
-
-<img src="../../../images/Bearbeitet/GH_lines.gif" width="100%"></img>
-<img src="../../../images/Bearbeitet/GH_size.gif" width="100%"></img>
-<img src="../../../images/Bearbeitet/Laser.gif" width="100%"></img>
-<img src="../../../images/Bearbeitet/Mold_Assembly.gif" width="100%"></img>
-
-
+![MGH Lines](../../../images/Bearbeitet/GH_lines.gif)
+![GH Size](../../../images/Bearbeitet/GH_size.gif)
+![Lasercut](../../../images/Bearbeitet/Laser.gif)
+![Mold Assembly](../../../images/Bearbeitet/Mold_Assembly.gif)
 ![page header](../../../images/Bearbeitet/DSCF9993.jpg)
 ![page header](../../../images/Bearbeitet/DSCF9994.jpg)
 ![page header](../../../images/Bearbeitet/DSCF9996.jpg)

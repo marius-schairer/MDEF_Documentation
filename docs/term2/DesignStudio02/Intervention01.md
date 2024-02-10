@@ -6,6 +6,17 @@ As I want to do research in the field of cities and intelligences, in my first i
 
 ## Captured Topics
 `more content (pictures and audio) coming soon`
+![Route](../../images/Bearbeitet/animals.gif)
+![Route](../../images/Bearbeitet/Plants.gif)
+![Route](../../images/Bearbeitet/CitySystems.gif)
+![Route](../../images/Bearbeitet/Culture.gif)
+![Route](../../images/Bearbeitet/Density.gif)
+![Route](../../images/Bearbeitet/Architecture.gif)
+![Route](../../images/Bearbeitet/Transportation.gif)
+![Route](../../images/Bearbeitet/People.gif)
+![Route](../../images/Bearbeitet/Construction.gif)
+![Route](../../images/Bearbeitet/StreetArt.gif)
+
 
 ## Next Steps
 the intervention has inspired me, however, i think there is much more to discover depending on the season, time of the week or time of day and the possibility of better recording. i will try to integrate and continue this awareness in my everyday life and use my phone as a documentation tool. 
