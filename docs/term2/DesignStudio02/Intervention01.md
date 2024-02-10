@@ -8,14 +8,15 @@ As I want to do research in the field of cities and intelligences, in my first i
 `more content (pictures and audio) coming soon`
 ![Route](../../images/Bearbeitet/animals.gif)
 ![Route](../../images/Bearbeitet/Plants.gif)
-![Route](../../images/Bearbeitet/CitySystems.gif)
+![Route](../../images/Bearbeitet/People.gif)
 ![Route](../../images/Bearbeitet/Culture.gif)
+![Route](../../images/Bearbeitet/StreetArt.gif)
+![Route](../../images/Bearbeitet/CitySystems.gif)
+![Route](../../images/Bearbeitet/Transportation.gif)
 ![Route](../../images/Bearbeitet/Density.gif)
 ![Route](../../images/Bearbeitet/Architecture.gif)
-![Route](../../images/Bearbeitet/Transportation.gif)
-![Route](../../images/Bearbeitet/People.gif)
 ![Route](../../images/Bearbeitet/Construction.gif)
-![Route](../../images/Bearbeitet/StreetArt.gif)
+
 
 
 ## Next Steps
