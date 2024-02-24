@@ -28,5 +28,6 @@ Up
 
 ## Group Project
 <iframe src="https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing" width="100%" height="500px"></iframe>
-
+<embed src="../../images/Bearbeitet/Fascination%20-%20Life%20under%20the%20regime.pdf" type="application/pdf" width="100%" height=800>
 ![Presentation](../../images/Bearbeitet/Fascination%20-%20Life%20under%20the%20regime.pdf)
+[Presentation](https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing)
