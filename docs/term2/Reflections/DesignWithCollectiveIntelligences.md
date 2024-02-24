@@ -21,4 +21,4 @@ Proceeds generated from the minting of NFT avatars within the game fund de-radic
 In summary, our exploration of Web3 technologies and the implementation of the Dafne+ platform exemplify a paradigm shift in intellectual property rights management and content distribution. Through collaborative efforts and innovative solutions, we strive to foster a more equitable and inclusive creative ecosystem while addressing pressing societal challenges.
 
 ## Group Project
-<iframe src="https://drive.google.com/drive/folders/1OX1iG4fTN229bsWukFO7shIdaVQkHd16" width="100%" height="500px"></iframe>
+<iframe src="https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing" width="100%" height="500px"></iframe>
