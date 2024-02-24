@@ -1,7 +1,9 @@
 ![page header](../../images/Bearbeitet/DesignWithCollectiveIntelligence.png)
 
 # Reflection
-The week was very inspirational. I had only heard about blockchain, NFTs and smart contracts in passing but never researched them in detail. I am surprised how easy it was to create an nft in the end. The approach of tackling a topic with an artifact was new and inspiring for me.
+The week was very inspirational. I had only heard about blockchain, NFTs and smart contracts in passing but never researched them in detail. I am surprised how easy it was to create an nft in the end. The approach of tackling a topic with an artifact was new and inspiring mfor me. 
+
+![Dafne Welcome](../../images/Bearbeitet/Dafne%20Welcome.jpg)
 
 ## Creative Commons
 In a collaborative effort involving FabLab BCN, Manchester Metropolitan University, and SODA, we delved into the transformative potential of Web3 technologies such as Blockchain, NFTs, DAOs, and Smart Contracts. Our aim was to explore how these technologies could reshape the landscape of creative industries and governance models.
@@ -19,4 +21,4 @@ Proceeds generated from the minting of NFT avatars within the game fund de-radic
 In summary, our exploration of Web3 technologies and the implementation of the Dafne+ platform exemplify a paradigm shift in intellectual property rights management and content distribution. Through collaborative efforts and innovative solutions, we strive to foster a more equitable and inclusive creative ecosystem while addressing pressing societal challenges.
 
 ## Group Project
-<iframe src="https://docs.google.com/presentation/d/1atsNCe_Hxqf4ZJxCj44dJRo8bkvx_AQqchnPYdz6tGg/edit#slide=id.p" width="100%" height="500px"></iframe>
+<iframe src="https://drive.google.com/drive/folders/1OX1iG4fTN229bsWukFO7shIdaVQkHd16" width="100%" height="500px"></iframe>
