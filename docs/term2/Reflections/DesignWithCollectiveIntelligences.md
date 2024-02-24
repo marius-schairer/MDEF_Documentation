@@ -27,8 +27,4 @@ In summary, our exploration of Web3 technologies and the implementation of the D
 Up
 
 ## Group Project
-<iframe src="https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing" width="100%" height="500px"></iframe>
 <embed src="../../images/Bearbeitet/Fascination.pdf" type="application/pdf" width="100%" height=800>
-
-![Presentation](../../images/Bearbeitet/Fascination.pdf)
-[Presentation](https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing)
