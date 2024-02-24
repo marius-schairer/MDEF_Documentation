@@ -28,6 +28,6 @@ Up
 
 ## Group Project
 
-<embed src="../../images/Bearbeitet/Fascination.pdf" type="application/pdf" width="100%" height=800>
+<embed src="../../images/Bearbeitet/Fascination.pdf" type="application/pdf" width="100%" height=800></embed>
 
 [Presentation](https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing)
