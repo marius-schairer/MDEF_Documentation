@@ -22,9 +22,5 @@ Our collaborative project focused on tackling the resurgence of fascism through 
 Proceeds generated from the minting of NFT avatars within the game fund de-radicalization efforts through a DAO. This decentralized approach empowers NFT owners with decision-making authority, ensuring community-driven initiatives in the fight against radicalization.
 In summary, our exploration of Web3 technologies and the implementation of the Dafne+ platform exemplify a paradigm shift in intellectual property rights management and content distribution. Through collaborative efforts and innovative solutions, we strive to foster a more equitable and inclusive creative ecosystem while addressing pressing societal challenges.
 
-Profits from in-game minting of NFT avatars are invested in counter-radicalization efforts through a DAO. This decentralized approach empowers NFT owners and ensures community-driven initiatives in the fight against radicalization.
-In summary, our exploration of Web3 technologies and the implementation of the Dafne+ platform represent a paradigm shift in the management of intellectual property rights and content distribution. Through collaborative efforts and innovative solutions, we aim to foster a more equitable and inclusive creative ecosystem, while at the same time improving the societal challenges.
-Up
-
 ![presentationCover](../../images/Bearbeitet/Fascination.png)
 [Presentation](https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing)
