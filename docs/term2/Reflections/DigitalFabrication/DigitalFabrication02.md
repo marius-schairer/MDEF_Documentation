@@ -4,7 +4,8 @@ In this challenge we tried to print 3d with the leftovers of the coffee grounds.
 ## Process
 ![](../../../images/Bearbeitet/IMG_9904.JPG)
 ![](../../../images/Bearbeitet/IMG_9905.JPG)
+![mixing ingredients](../../../images/Bearbeitet/coffeprocess.gif)
 ![](../../../images/Bearbeitet/IMG_9910.JPG)
 ![](../../../images/Bearbeitet/IMG_9911.JPG)
 ![](../../../images/Bearbeitet/IMG_9935.JPG)
-![mixing ingredients](../../../images/Bearbeitet/coffeprocess.gif)
+
