@@ -26,6 +26,5 @@ Profits from in-game minting of NFT avatars are invested in counter-radicalizati
 In summary, our exploration of Web3 technologies and the implementation of the Dafne+ platform represent a paradigm shift in the management of intellectual property rights and content distribution. Through collaborative efforts and innovative solutions, we aim to foster a more equitable and inclusive creative ecosystem, while at the same time improving the societal challenges.
 Up
 
-## Group Project
 ![presentationCover](../../images/Bearbeitet/Fascination.png)
 [Presentation](https://drive.google.com/file/d/19M2VD74vYPUiIi_hya16Q64a9ntTRiID/view?usp=sharing)
