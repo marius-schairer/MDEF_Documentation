@@ -1,0 +1,2 @@
+# Podcast Reflection
+Recording a podcast and talking about the project and the issues we are dealing with has definitely helped to sort out some thoughts and to express them in a more understandable way. 
