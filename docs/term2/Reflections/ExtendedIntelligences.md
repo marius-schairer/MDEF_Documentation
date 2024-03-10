@@ -3,4 +3,4 @@ The course brought me and our design studio project a huge step forward and gave
 
 ![](../../images/Bearbeitet/CityBot.png)
 
-<iframe src="https://docs.google.com/presentation/d/1fv6oTsTJ_114DWSCCg8CCcyTCbx3GoeEul5lUv7_szY/edit?usp=sharing" width="100%" height="500px"></iframe>
+<iframe src="https://drive.google.com/drive/folders/16Fwfwts214tbNe_TgxYFemcpDY0XSb7i" width="100%" height="500px"></iframe>
