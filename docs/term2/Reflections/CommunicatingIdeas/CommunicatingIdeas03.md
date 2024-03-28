@@ -1,4 +1,3 @@
-`Work in Progress`
 # Reflection
 Due to a misunderstanding, we first created a presentation deck for each other, which helped us to understand how much the other person understood of the concept. In the second step, we then created a presentation deck for ourselves. In this case, i expanded my elevator pitch. through the exercise, i realized that i was still lacking a bit in my communication strategy.
 

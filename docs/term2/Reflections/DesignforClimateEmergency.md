@@ -1,4 +1,3 @@
-`in progress`
 ![page header](../../images/Bearbeitet/DesignforClimateEmergencyCover.png)
 
 # Reflection
