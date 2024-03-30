@@ -1,6 +1,7 @@
 
 # Reflection
-The golden circle and the steakholder radar helped me to understand how to approach the next steps of my project and what possible levers and topics for interventions could be.
+The golden circle and the steakholder radar helped me to understand how I should approach the next steps of my project and what possible levers and topics for interventions could be. the steakholder radar made it especially clear to me in which order I should approach which people and where I still need to network to find the right stakeholders.
+
 ## Golden Circle
 ![Golden Circle](../../../images/Bearbeitet/GoldenCircle.png)
 ### What? 
