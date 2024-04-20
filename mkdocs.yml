@@ -51,7 +51,16 @@ nav:
           - Fair Future(s): term2/Reflections/DesignWithCollectiveIntelligences.md
           - Measuring the World: term2/Reflections/MeasuringTheWorld.md
           - Extended Intelligences: term2/Reflections/ExtendedIntelligences.md
-
+  - term3:
+      - Reflections:
+          - Atlas of Weak Signals: term3/Reflections/TheAtlasOfWeakSignals.md
+          - Communicating Ideas: term3/Reflection/CommunicatingIdeas.md
+          - FutureTalks:
+              FutureTalk: term3/Reflection/FutureTalk/FutureTalk01.md
+      - Design Studio 03:
+          - Report 01: term3/DesignStudio03/Report01.md
+        
+        
 
 
 
