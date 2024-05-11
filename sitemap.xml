@@ -201,7 +201,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://marius-schairer.github.io/MDEF_Documentation/term3/DesignStudio03/Report01/</loc>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term3/MicroChallange03/</loc>
+         <lastmod>2024-05-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term3/DesignStudio03/intervention1/</loc>
          <lastmod>2024-05-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
