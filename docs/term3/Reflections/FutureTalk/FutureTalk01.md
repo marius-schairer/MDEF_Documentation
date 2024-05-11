@@ -1,0 +1,3 @@
+# Reflection
+
+Helen Torres led an engaging class on Donna Haraway's concept of "Response-ability" and its implications for our understanding of the Anthropocene. Torres challenged traditional paradigms, emphasizing the interconnectedness of life and the need for ethical responses to environmental challenges. She critiqued the notion of human exceptionalism and the overgeneralization of human impact, advocating for inclusive decision-making that considers both human and non-human actors. Through playful interaction and real-world examples like the MACBA Expansion Project, Torres encouraged us to recognize our interconnectedness and take collective responsibility for shaping a more sustainable future. 
