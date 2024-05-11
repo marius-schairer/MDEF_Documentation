@@ -1,4 +1,2 @@
-
 # Reflection
-
 `Work in Progress`
