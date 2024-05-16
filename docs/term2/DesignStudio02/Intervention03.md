@@ -1,0 +1,2 @@
+# Reflection
+in the third intervention and in preparation for the second design dialogues i explored again and tried to find out what could be possible inputs and outputs for a participatory urban development process. i tried different ai models to transform real photos into a sketch style to use as a drawing template for the dialogues. We also printed a map of the city. The idea is to temporarily enrich the experience of the speech to speech bot in an analog way to get a real understanding of the context.
