@@ -116,7 +116,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://marius-schairer.github.io/MDEF_Documentation/term2/DesignStudio02/DesignStudio02/</loc>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term2/DesignStudio02/Dialogues/</loc>
          <lastmod>2024-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -127,6 +127,11 @@
     </url>
     <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/term2/DesignStudio02/Intervention02/</loc>
+         <lastmod>2024-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://marius-schairer.github.io/MDEF_Documentation/term2/DesignStudio02/Intervention03/</loc>
          <lastmod>2024-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -147,11 +152,6 @@
     </url>
     <url>
          <loc>https://marius-schairer.github.io/MDEF_Documentation/term2/Reflections/DesignforClimateEmergency/</loc>
-         <lastmod>2024-05-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://marius-schairer.github.io/MDEF_Documentation/term2/Reflections/DigitalPrototypingforDesign/</loc>
          <lastmod>2024-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
