@@ -52,21 +52,22 @@ nav:
           - Fair Future(s): term2/Reflections/DesignWithCollectiveIntelligences.md
           - Measuring the World: term2/Reflections/MeasuringTheWorld.md
           - Extended Intelligences: term2/Reflections/ExtendedIntelligences.md
-  - Research Trip: term2/ResearchTrip.md
   - Term3:
       - Reflections:
           - Atlas of Weak Signals: term3/Reflections/TheAtlasOfWeakSignals.md
-          - Communicating Ideas: term3/Reflection/CommunicatingIdeas.md
+          - Communicating Ideas: term3/Reflections/CommunicatingIdeas.md
           - FutureTalks:
-              Helen Torres: term3/Reflection/FutureTalk/FutureTalk01.md
-              Aqui: term3/Reflection/FutureTalk/FutureTalk02.md
+              Helen Torres: term3/Reflections/FutureTalk/FutureTalk01.md
+              Aqui: term3/Reflections/FutureTalk/FutureTalk02.md
           - Design Ethics: term3/Reflections/DesignEthics.md
           - Critical Transfeminist Design: term3/Reflections/DesignEthics.md
           - Digital Prototyping for Design: term3/Reflections/DigitalPrototypingForDesign.md
           - Micro Challage 3: term3/Reflections/MicroChallange03.md
       - Design Studio 03:
-          - Connect with Community's: docs/term3/DesignStudio03/intervention1.md
-          - Workshops : docs/term3/DesignStudio03/intervention2.md
+          - Connect with Community's: term3/DesignStudio03/intervention1.md
+          - Workshops : term3/DesignStudio03/intervention2.md
+  - Research Trip: term2/ResearchTrip.md  
+  - LAIA Project: term3/LAIAProject.md
         
         
 
