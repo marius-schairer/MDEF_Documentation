@@ -1,7 +1,9 @@
 
 # The Project
-![Logo](../images/Bearbeitet/transparent.png)
-
+![Logo](../images/Laia/LAIAFest.png)
+![Context](../images/Laia/LAIAContext.png)
+![Developments](../images/Laia/LAIAExhibition.png)
+![Vision](../images/Laia/LAIAFest.png)
 
 ![First Reel](../images/Bearbeitet/LAIA_Intro.gif)
 ## Submit your knowledge (currently limited to el Clot)
