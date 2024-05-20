@@ -89,14 +89,14 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: white
-    accent: purple
+    accent: orange
   font:
     # See available fonts at https://fonts.google.com/
     text: Roboto
     code: Roboto Mono
 
-  logo: images/Logos/MariusLogo3.png
-  favicon: images/Logos/MariusLogo3.png
+  logo: images/Logos/ColorLogo.png
+  favicon: images/Logos/ColorLogo.png
   features:
     - instant
     - navigation.expand
