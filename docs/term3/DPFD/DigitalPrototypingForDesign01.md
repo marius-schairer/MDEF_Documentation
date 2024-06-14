@@ -8,4 +8,4 @@ We want to build a clay table. Our initial idea was to use a arduino motor but i
 For the Laia Project we created a new installation. The Plan is to make it look like a advertisement Column in a City with the bot integrated for people to interact. 
 
 <iframe src="https://drive.google.com/file/d/1dtR_wF1UVMq9Dgq04qaGHV-XRhvPtxAn/preview" width="640" height="480" allow="autoplay"></iframe>
-<button scr="https://github.com/LAIA-GitHub/Laia-Fabrication/edit/main/README.md">Files for Fabrication -></button>
+[Fabrication Files ->](https://github.com/LAIA-GitHub/Laia-Fabrication/edit/main/README.md)
