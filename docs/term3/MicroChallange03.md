@@ -5,5 +5,5 @@ We learned a lot of new things trying to influence ai's response behavior with l
 
 [Full Github Repo ->](https://github.com/LAIA-GitHub/Laia-Speech-to-Speech)`Currently blocked, we try to fix it`
 
-[Server ->](https://github.com/LAIA-GitHub/Laia-Speech-to-Speech)
+[Server ->](https://github.com/marius-schairer/MicroChallange3-LAIA/tree/main)
 
