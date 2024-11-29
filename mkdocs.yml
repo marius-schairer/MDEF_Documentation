@@ -59,8 +59,11 @@ nav:
         - Design Ethics: term3/Reflections/DesignEthics.md
         - Critical Transfeminist Design: term3/Reflections/CriticalTransfeministDesign.md 
   - with Fablab:
-    - Fabricademy: 
-    - Fabacademy:
+    - Fabricademy:  
+        - Bio Pantone: year2_term1/Bio-Pantone.md
+        - Soft Robotics: year2_term1/Soft-Robotics.md
+    - Fabacademy: 
+        - Electronics: year2_term1/Fabacademy/electronics.md
     - Machine Paradox: term1/Reflections/MachineParadox.md
     - Digital Prototyping for Design: 
         - Challenge 01: term2/Reflections/DigitalFabrication/DigitalFabrication01.md
