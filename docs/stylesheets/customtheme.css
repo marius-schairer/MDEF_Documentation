@@ -16,7 +16,7 @@ body {
 
 .sidebar a{
     display: block;
-    color: rgb(45, 45, 45);
+    color: rgb(230, 230, 230);
     padding: 16px;
     padding-left: 24px;
     text-decoration: none;
@@ -34,7 +34,7 @@ body {
 
 .sidebar b{
     display: block;
-    color: rgb(73, 32, 131);
+    color: rgb(230, 230, 230);
     padding: 16px;
     text-decoration: none;
     border: none;
@@ -67,7 +67,7 @@ body {
 
 .dropbtn {
     display: block;
-    color: rgb(45, 45, 45);
+    color: rgb(230, 230, 230);
     padding: 16px;
     padding-left: 24px;
     margin: none;
@@ -79,7 +79,7 @@ body {
 }
 
 .dropbtn:hover {
-    color: rgb(144, 66, 255);
+    color: rgb(154, 82, 255);
     font-weight: bold;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 
 .dropdown-content a {
-    color: rgb(45, 45, 45);
+    color: rgb(229, 229, 229);
     padding: 16px;
     padding-left: 32px;
     text-decoration: none;
@@ -119,7 +119,7 @@ body {
 .content {
     margin-left: 300px;
     padding: 20px;
-    color: rgb(45, 45, 45);
+    color: rgb(236, 236, 236);
 }
 
 .fa-caret-down {
@@ -150,4 +150,8 @@ body {
 
 .tile:hover{
     box-shadow: 5px 5px 0px 10px #181040; 
+}
+
+.md-header{
+    
 }
