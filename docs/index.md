@@ -1,15 +1,6 @@
-# Welcome to my MDEF Documentation
+# Welcome to my Portfolio
 
-<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
-        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
-            <img src="images/Tiles/aboutMe copy.png"></img>
-        </div>
-        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
-        This website is a documentation of reflections and developments from my personal perspective of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development. See more about me on this page.
-        </div>
-    </a>
-</div>
+
 
 ## Design Studio
 <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
@@ -88,5 +79,16 @@
     <div style="display:flex; align-content: center; justify-content:center; width: 100%">
     <img src="images/Tiles/ExtInt.png"></img>
     </div>
+    </a>
+</div>
+
+<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
+    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
+        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
+            <img src="images/Tiles/aboutMe copy.png"></img>
+        </div>
+        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
+        This website is a documentation of reflections and developments from my personal perspective of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development. See more about me on this page.
+        </div>
     </a>
 </div>

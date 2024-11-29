@@ -8,70 +8,73 @@ site_url: https://marius-schairer.github.io/MDEF_Documentation/
 repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 
 nav:
-  - Home: index.md
+  - Overview: index.md
+  - Thesis Project: thesis_project.md
+  - Design Studio:
+    - 01 Roles of Prototyping: term1/Design/RolesofPrototyping.md
+    - 02 Collective Design Space: term1/Design/CollectiveDesignSpace.md
+    - 03 Narratives: term1/Design/Narratives.md
+    - 04 Collective Intervention: term1/Design/CollectiveIntervention.md
+    - 05 Design Dialogues: term2/DesignStudio02/Dialogues.md
+    - 06 Intervention 01: term2/DesignStudio02/Intervention01.md
+    - 07 Intervention 02: term2/DesignStudio02/Intervention02.md
+    - 08 Intervention 03: term2/DesignStudio02/Intervention03.md
+    - 09 Connect with Community's: term3/DesignStudio03/intervention1.md
+    - 10 Workshops : term3/DesignStudio03/intervention2.md
+  - Year 2:
+    - Reflections:
+        - Emerging Economies: year2_term1/Emerging_Economies.md
+        - Co-Creating Public Spaces: year2_term1/Co-CreatingPublicSpaces.md
+
+  - Year 1:
+    - Research Trip: term2/ResearchTrip.md  
+    - LAIA Project: term3/LAIAProject.md
+    - Reflections:
+        - Landing: term1/Landing/landing.md
+        - AoWS: term1/Reflections/AtlasofWeakSignals.md
+        - Documenting Design: term1/Reflections/DocumentingDesign.md
+        - Living with Your Own Ideas: term1/Reflections/LwYoI.md
+        - Bio & Agri Zero:
+            - Bio Zero: term1/Reflections/BioZero.md
+            - Agri Zero: term1/Reflections/AgriZero.md
+            - GMO: term1/Reflections/GMO.md
+        - Design with Others: term1/Reflections/DesignWithOthers.md
+        - Extended intelligences: term1/Reflections/ExtendedIntelligences.md
+        - Design for Climate Emergency: term2/Reflections/DesignforClimateEmergency.md
+        - Future Talks:
+            - Future Talk 01: term2/Reflections/FutureTalk/FutureTalks01.md
+            - Future Talk 02: term2/Reflections/FutureTalk/FutureTalks02.md
+        - Communicationg Ideas:
+            - Communicating Ideas 01: term2/Reflections/CommunicatingIdeas/CommunicatingIdeas01.md
+            - Communicating Ideas 02: term2/Reflections/CommunicatingIdeas/CommunicatingIdeas02.md
+            - Communicating Ideas 03: term2/Reflections/CommunicatingIdeas/CommunicatingIdeas03.md
+        - Fair Future(s): term2/Reflections/DesignWithCollectiveIntelligences.md
+        - Measuring the World: term2/Reflections/MeasuringTheWorld.md
+        - Extended Intelligences: term2/Reflections/ExtendedIntelligences.md
+        - Atlas of Weak Signals: term3/Reflections/TheAtlasOfWeakSignals.md
+        - Communicating Ideas: term3/Reflections/CommunicatingIdeas.md
+        - FutureTalks:
+            Helen Torres: term3/Reflections/FutureTalk/FutureTalk01.md
+            Aqui Clémens: term3/Reflections/FutureTalk/FutureTalk02.md
+            Krzysztof Wronski: term3/Reflections/FutureTalk/FutureTalk03.md
+        - Design Ethics: term3/Reflections/DesignEthics.md
+        - Critical Transfeminist Design: term3/Reflections/CriticalTransfeministDesign.md 
+  - with Fablab 🔗:
+    - Fabricademy: 
+    - Fabacademy:
+    - Machine Paradox: term1/Reflections/MachineParadox.md
+    - Digital Prototyping for Design: 
+        - Challenge 01: term2/Reflections/DigitalFabrication/DigitalFabrication01.md
+        - Challenge 02: term2/Reflections/DigitalFabrication/DigitalFabrication02.md
+        - Challange 03: term3/DPFD/DigitalPrototypingForDesign01.md
+        - Challange 04: term3/DPFD/DigitalPrototypingForDesign02.md
+        - Challange 05: term3/DPFD/DigitalPrototypingForDesign05.md
+    - Micro Challange:
+        - Challange 01: term2/MicroChallange/Challange01.md
+        - Challange 02: term2/MicroChallange/Challange02.md
+        - Micro Challage 3: term3/MicroChallange03.md
   - About: about/me.md
-  - Term 1:
-      - Design Studio 01:
-          - Roles of Prototyping: term1/Design/RolesofPrototyping.md
-          - Collective Design Space: term1/Design/CollectiveDesignSpace.md
-          - Narratives: term1/Design/Narratives.md
-          - Collective Intervention: term1/Design/CollectiveIntervention.md
-      - Reflections:
-          - Landing: term1/Landing/landing.md
-          - AoWS: term1/Reflections/AtlasofWeakSignals.md
-          - Documenting Design: term1/Reflections/DocumentingDesign.md
-          - Machine Paradox: term1/Reflections/MachineParadox.md
-          - Living with Your Own Ideas: term1/Reflections/LwYoI.md
-          - Bio & Agri Zero:
-              - Bio Zero: term1/Reflections/BioZero.md
-              - Agri Zero: term1/Reflections/AgriZero.md
-              - GMO: term1/Reflections/GMO.md
-          - Design with Others: term1/Reflections/DesignWithOthers.md
-          - Extended intelligences: term1/Reflections/ExtendedIntelligences.md
-  - Term 2: 
-      - Design Studio 02:
-          - Design Dialogues: term2/DesignStudio02/Dialogues.md
-          - Intervention 01: term2/DesignStudio02/Intervention01.md
-          - Intervention 02: term2/DesignStudio02/Intervention02.md
-          - Intervention 03: term2/DesignStudio02/Intervention03.md
-      - Micro Challange:
-          - Challange 01: term2/MicroChallange/Challange01.md
-          - Challange 02: term2/MicroChallange/Challange02.md
-      - Reflections:
-          - Design for Climate Emergency: term2/Reflections/DesignforClimateEmergency.md
-          - Future Talks:
-              - Future Talk 01: term2/Reflections/FutureTalk/FutureTalks01.md
-              - Future Talk 02: term2/Reflections/FutureTalk/FutureTalks02.md
-          - Digital Prototyping for Design: 
-              - Challenge 01: term2/Reflections/DigitalFabrication/DigitalFabrication01.md
-              - Challenge 02: term2/Reflections/DigitalFabrication/DigitalFabrication02.md
-          - Communicationg Ideas:
-              - Communicating Ideas 01: term2/Reflections/CommunicatingIdeas/CommunicatingIdeas01.md
-              - Communicating Ideas 02: term2/Reflections/CommunicatingIdeas/CommunicatingIdeas02.md
-              - Communicating Ideas 03: term2/Reflections/CommunicatingIdeas/CommunicatingIdeas03.md
-          - Fair Future(s): term2/Reflections/DesignWithCollectiveIntelligences.md
-          - Measuring the World: term2/Reflections/MeasuringTheWorld.md
-          - Extended Intelligences: term2/Reflections/ExtendedIntelligences.md
-  - Term3:
-      - Reflections:
-          - Atlas of Weak Signals: term3/Reflections/TheAtlasOfWeakSignals.md
-          - Communicating Ideas: term3/Reflections/CommunicatingIdeas.md
-          - FutureTalks:
-              Helen Torres: term3/Reflections/FutureTalk/FutureTalk01.md
-              Aqui Clémens: term3/Reflections/FutureTalk/FutureTalk02.md
-              Krzysztof Wronski: term3/Reflections/FutureTalk/FutureTalk03.md
-          - Design Ethics: term3/Reflections/DesignEthics.md
-          - Critical Transfeminist Design: term3/Reflections/CriticalTransfeministDesign.md
-          - Digital Prototyping for Design: 
-              Challange 3: term3/DPFD/DigitalPrototypingForDesign01.md
-              Challange 4: term3/DPFD/DigitalPrototypingForDesign02.md
-              Challange 5: term3/DPFD/DigitalPrototypingForDesign05.md
-          - Micro Challage 3: term3/MicroChallange03.md
-      - Design Studio 03:
-          - Connect with Community's: term3/DesignStudio03/intervention1.md
-          - Workshops : term3/DesignStudio03/intervention2.md
-  - Research Trip: term2/ResearchTrip.md  
-  - LAIA Project: term3/LAIAProject.md
+  
         
         
 
