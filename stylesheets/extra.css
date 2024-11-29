@@ -48,6 +48,7 @@
 }
 .md-main{
   background-image: url("../images/background_pattern.png");
+  background-size: auto;
 }
 
 .md-main__inner md-grid{
