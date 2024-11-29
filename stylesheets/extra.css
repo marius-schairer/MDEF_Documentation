@@ -29,7 +29,7 @@
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(255, 255, 255);
 }
 
 .md-nav__item .md-nav__link--active {
@@ -38,7 +38,7 @@
 }
 
 .md-nav__item .md-nav__link--hover {
-  color: rgb(88, 28, 167);
+  color: rgb(111, 0, 255);
   font-weight: bold;
 }
 
@@ -51,6 +51,7 @@
 }
 
 .md-grid {
+  display: flex;
   width: 100%;
   margin-right: 1.5rem;
   margin-left: 1.5rem;
@@ -80,6 +81,8 @@
 
 .md-header{
   box-shadow: none;
+  background-color: black;
+  color: white;
 }
 
 .md-header-nav__topic{
