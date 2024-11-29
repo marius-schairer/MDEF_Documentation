@@ -48,10 +48,10 @@
 }
 .md-main{
   background-image: url("../images/background_pattern.png");
-  background-size: auto;
+  background-size: contain;
 }
 
-.md-main__inner md-grid{
+.md-grid{
   max-width: none;
   display: flex;
   width: 100%;
