@@ -44,27 +44,33 @@
 
 .md-typeset h1 {
   font-weight: bold;
-  color: rgb(32, 32, 32);
+  color: rgb(232, 232, 232);
 }
 .md-main{
-  background-image: url("../images/Background.png");
+  background-image: url("../images/background_pattern.png");
+}
+
+.md-grid {
+  width: 100%;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
 }
 
 
 .md-typeset h2 {
     font-weight: bold;
-    color: rgb(32, 32, 32);
+    color: rgb(232, 232, 232);
     line-height:normal;
 }
 
 .md-typeset h3 {
   font-weight: bold;
-  color: rgb(32, 32, 32);
+  color: rgb(232, 232, 232);
 }
 
 .md-typeset h4 {
   font-weight: bold;
-  color: rgb(32, 32, 32);
+  color: rgb(232, 232, 232);
 }
 
 .mdc-typography--body2 {
