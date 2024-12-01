@@ -37,7 +37,9 @@
   color: var(--md-typeset-a-color);
   font-weight: bold;
 }
-
+.md-nav__link{
+  color: rgb(219, 219, 219);
+}
 .md-nav__item .md-nav__link--hover {
   color: rgb(111, 0, 255);
   font-weight: bold;
