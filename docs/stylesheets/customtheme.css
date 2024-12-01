@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: monospace, sans-serif;
     font-size: medium;
+    color: rgb(230, 230, 230);
 }
 
 .sidebar {
