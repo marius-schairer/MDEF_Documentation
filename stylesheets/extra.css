@@ -1,7 +1,7 @@
 :root>* {
 
     --md-footer-bg-color: #1C1C1C;
-    --md-footer-fg-color: rgb(29, 29, 29);
+    --md-footer-fg-color: rgb(222, 222, 222);
     --md-footer-bg-color--dark: rgb(19, 19, 19);
     --md-footer-fg-color--lighter:  rgb(238, 238, 238);
     --md-footer-fg-color--light:  rgb(181, 181, 181);
@@ -24,6 +24,7 @@
     border-width: 1px;
     border-color: rgb(219, 219, 219);
     border-radius: 4px;
+    color: rgb(255, 255, 255);
   }
 
 .cardContent {
