@@ -33,12 +33,14 @@
   color: rgb(255, 255, 255);
 }
 
+
+
 .md-nav__item .md-nav__link--active {
   color: var(--md-typeset-a-color);
   font-weight: bold;
 }
 .md-nav__link {
-  color: rgb(219, 219, 219);
+  color: #ffffff;
 }
 
 .md-nav__item .md-nav__link--hover {
@@ -53,6 +55,7 @@
 .md-main{
   background-image: url("../images/background_pattern.png");
   background-size: contain;
+  color: #ffffff;
 }
 
 .md-grid{

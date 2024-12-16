@@ -4,7 +4,7 @@
 
 ## Proceses
 ![](../images/Bearbeitet/Biochromes01.jpeg)
-![](../images/Bearbeitet/Biochromes02.jpeg)
+![](../images/Bearbeitet/Biochromes02.png)
 
 
 ## Ideas
