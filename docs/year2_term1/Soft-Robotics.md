@@ -1,7 +1,8 @@
 # Soft-Robotics
 
 ## Reflection
-Our experiment with soft robotics to create inflatable chocolate was both a creative exploration and a valuable learning experience. While we couldn't fully achieve our intended result, the process underscored the importance of material choice, airtightness, and mold design in achieving success. Despite the challenges, the attempt inspired innovative ideas and highlighted areas for improvement, such as using better materials and optimizing mold shapes.
+Our experiment with soft robotics to create inflatable chocolate was both a creative exploration and a valuable learning experience. While we couldn't fully achieve our intended result, the process highlighted the importance of material choice, airtightness, and mold design in achieving success. Despite the challenges, the attempt inspired us for more ideas and showed us areas for improvement, such as using better materials and optimizing mold shapes. The Seminar was really interesting and i wish i would have more time to spend on this topic, currently it's not my research direction thogh. 
+After exploring with the food material and thinking a lot about potential use cases I would say there is better use cases than inflatable food and with the next experiment i would do something more related to Nature inspired mechanisms like fish swimming or bird wings movement.
 
 ## About Soft Robotics
 Soft robotics emphasizes flexibility, adaptability, and safety, drawing inspiration from natural organisms. Key components include soft actuators, flexible sensors, and durable materials like elastomers or biomaterials. Its applications span healthcare, agriculture, exploration, and even consumer products.
@@ -35,7 +36,11 @@ The porosity and stickiness of edible silicone proved to be a limitation.
 
 
 ### Next Steps:
-Experiment with non-porous, less sticky materials like regular silicone.
-Redesign molds, potentially using circular shapes for uniform inflation.
-Refine the process to incorporate chocolate and achieve the envisioned design.
-Through iteration and material optimization, we aim to overcome these challenges and realize the full potential of combining soft robotics with culinary innovation.
+Experiment with non-porous, less sticky materials like regular silicone.<br/>
+Redesign molds, potentially using circular shapes for uniform inflation.<br/>
+Refine the process to incorporate chocolate and achieve the envisioned design.<br/>
+Try other mechanisms besides of food applications. <br/>
+Try more with silicon.<br/>
+Test Vinyl Soft robots aswell.<br/>
+
+
