@@ -165,5 +165,5 @@ markdown_extensions:
   - pymdownx.tabbed
 
 extra_css:
-  - stylesheets/extra.css
+  - overrides/stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
