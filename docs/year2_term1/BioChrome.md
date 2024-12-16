@@ -1,6 +1,9 @@
 # Biochromes
+
+'in progress'
+
 ## Reflection
-The BioChromes seminar offered an engaging introduction to natural dyeing and sustainable pigment creation. While the hands-on approach and exploration of natural materials were fascinating, the course felt misaligned with my current research and objectives. The historical context and creative experiments were insightful, but the overall experience lacked immediate relevance to my ongoing work. This disconnect limited its practical value, although it highlighted the potential of sustainable dyeing techniques.
+The BioChromes seminar offered an engaging introduction to natural dyeing and sustainable pigment creation. While the hands-on approach and exploration of natural materials were fascinating, the course was not related with my current research. The context and creative experiments were insightful and refreshing. While having some fun exploration without laptop the seminar highlighted the potential of sustainable dyeing techniques.
 
 ## BioChromes
 BioChromes are natural pigments found in plants, animals, and microorganisms. They serve as eco-friendly alternatives to synthetic dyes, which are linked to environmental harm through toxic waste and chemicals. By harnessing resources like leaves, fruit peels, fungi, and bacteria, BioChromes enable sustainable and vibrant coloring for textiles.
@@ -20,7 +23,7 @@ Versatility: Yields diverse colors using natural pH adjustments and mordants.<br
 
 
 ## Takeaway
-While not immediately useful for my research, the seminar emphasized the importance of sustainability in design and offered a deeper understanding of natural dyeing processes. These techniques could inspire future applications in creative and environmentally conscious projects.
+While not immediately useful for mypersonal research, the seminar emphasized the importance of sustainability in design and offered a deeper understanding of natural dyeing processes. These techniques could inspire future applications in creative and environmentally conscious projects and for my freetime asside from my personal research.
 
 
 ## Further Ideas 
