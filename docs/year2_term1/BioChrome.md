@@ -6,7 +6,7 @@
 The BioChromes seminar offered an engaging introduction to natural dyeing and sustainable pigment creation. While the hands-on approach and exploration of natural materials were fascinating, the course was not related with my current research. The context and creative experiments were insightful and refreshing. While having some fun exploration without laptop the seminar highlighted the potential of sustainable dyeing techniques.
 
 ## BioChromes
-BioChromes are natural pigments found in plants, animals, and microorganisms. They serve as eco-friendly alternatives to synthetic dyes, which are linked to environmental harm through toxic waste and chemicals. By harnessing resources like leaves, fruit peels, fungi, and bacteria, BioChromes enable sustainable and vibrant coloring for textiles.
+BioChromes are natural pigments found in plants, animals, and microorganisms. They serve as eco-friendly alternatives to synthetic dyes, which are linked to environmental harm through toxic waste and chemicals. By harnessing resources like leaves, fruit peels, fungi, and bacteria, BioChromes enable sustainable and interesting coloring for textiles.
 ![](../images/Bearbeitet/Biochromes02.png)
 
 ### Key Benefits:
