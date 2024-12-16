@@ -5,23 +5,23 @@ The BioChromes seminar offered an engaging introduction to natural dyeing and su
 ## BioChromes
 BioChromes are natural pigments found in plants, animals, and microorganisms. They serve as eco-friendly alternatives to synthetic dyes, which are linked to environmental harm through toxic waste and chemicals. By harnessing resources like leaves, fruit peels, fungi, and bacteria, BioChromes enable sustainable and vibrant coloring for textiles.
 
-Key Benefits:
-
-Sustainability: Reduces reliance on harmful synthetic processes.
-Versatility: Yields diverse colors using natural pH adjustments and mordants.
+### Key Benefits:
+Sustainability: Reduces reliance on harmful synthetic processes.<br/>
+Versatility: Yields diverse colors using natural pH adjustments and mordants.<br/>
 
 ## Proceses
-Material Collection: Gathered organic waste like leaves, fruit peels, and vegetable scraps.
-Dyeing Process: Experimented with pH levels, temperatures, and natural mordants like alum, lemon, and iron to extract vibrant colors.
-Example: Red cabbage produced shades ranging from bright purple to soft blue depending on pH.
-Pigment Creation: Transformed leftover dye baths into pigments by mixing with alum and baking soda.
+Material Collection: Gathered organic waste like leaves, fruit peels, and vegetable scraps. <br/>
+Dyeing Process: Experimented with pH levels, temperatures, and natural mordants like alum, lemon, and iron to extract vibrant colors. <br/>
+Example: Red cabbage produced shades ranging from bright purple to soft blue depending on pH. <br/>
+Pigment Creation: Transformed leftover dye baths into pigments by mixing with alum and baking soda. <br/>
 
 ![](../images/Bearbeitet/Biochromes01.jpeg)
 ![](../images/Bearbeitet/Biochromes02.png)
 
+## Takeaway
 While not immediately useful for my research, the seminar emphasized the importance of sustainability in design and offered a deeper understanding of natural dyeing processes. These techniques could inspire future applications in creative and environmentally conscious projects.
 
 
-## Ideas 
+## Further Ideas 
 My initial idea was to use Basil as the color not only might get a strong green but also might smell good. The result was brown color though.
 As a Second idea i wanted to use the Ube fruit as it has a strong natural purple color and it even might change with the ph value like the cabbage but i couldn't find any fruit in the given timeframe. If one day i will find the fruit I will try it.

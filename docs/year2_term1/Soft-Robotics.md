@@ -20,7 +20,7 @@ Testing: Covered mold holes, attempted inflation, and observed the results.<br/>
 ![](../images/Bearbeitet/Softrobot02.jpg)
 ![](../images/Bearbeitet/Softrobot03.jpg)
 
-Challenges & Learnings:
+### Challenges & Learnings: <br/>
 Achieved only slight inflation due to air leakage and a thick mold cover.
 Incomplete inflation of the font area highlighted the need for a fully sealed and thinner mold.
 The porosity and stickiness of edible silicone proved to be a limitation.
