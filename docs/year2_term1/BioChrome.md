@@ -1,8 +1,6 @@
-# Biochromes
+![](../images/Bearbeitet/BiochromesCover.png)
 
-'in progress'
-
-## Reflection
+# Reflection
 The BioChromes seminar offered an engaging introduction to natural dyeing and sustainable pigment creation. While the hands-on approach and exploration of natural materials were fascinating, the course was not related with my current research. The context and creative experiments were insightful and refreshing. While having some fun exploration without laptop the seminar highlighted the potential of sustainable dyeing techniques.
 
 ## BioChromes

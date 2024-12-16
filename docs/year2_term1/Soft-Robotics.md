@@ -1,6 +1,6 @@
-# Soft-Robotics
+![](../images/Bearbeitet/Soft-RoboticsCover.png)
 
-## Reflection
+# Reflection
 Our experiment with soft robotics to create inflatable chocolate was both a creative exploration and a valuable learning experience. While we couldn't fully achieve our intended result, the process highlighted the importance of material choice, airtightness, and mold design in achieving success. Despite the challenges, the attempt inspired us for more ideas and showed us areas for improvement, such as using better materials and optimizing mold shapes. The Seminar was really interesting and i wish i would have more time to spend on this topic, currently it's not my research direction thogh. 
 After exploring with the food material and thinking a lot about potential use cases I would say there is better use cases than inflatable food and with the next experiment i would do something more related to Nature inspired mechanisms like fish swimming or bird wings movement.
 
