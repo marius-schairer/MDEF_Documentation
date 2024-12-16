@@ -11,10 +11,10 @@ Soft robotics emphasizes flexibility, adaptability, and safety, drawing inspirat
 
 ### Steps:
 
-Mold Preparation: Designed and 3D-printed the mold.
-Material Experimentation: Used an edible silicone paste to fill the mold.
-Mechanism Setup: Programmed an Arduino (Flora) to connect to a motor for air inflation.
-Testing: Covered mold holes, attempted inflation, and observed the results.
+Mold Preparation: Designed and 3D-printed the mold. <br/>
+Material Experimentation: Used an edible silicone paste to fill the mold.<br/>
+Mechanism Setup: Programmed an Arduino (Flora) to connect to a motor for air inflation.<br/>
+Testing: Covered mold holes, attempted inflation, and observed the results.<br/>
 
 ![](../images/Bearbeitet/Softrobot01.jpg)
 ![](../images/Bearbeitet/Softrobot02.jpg)
