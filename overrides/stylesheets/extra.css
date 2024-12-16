@@ -98,6 +98,16 @@
 .md-nav__title{
   color: #ffffff;
 }
+.md-sidebar--secondary {
+  color: #ffffff;
+}
+.md-sidebar {
+  color: #ffffff;
+}
+
+.md-content {
+  color: #ffffff;
+}
 
 .menubox{
   display: flex;
