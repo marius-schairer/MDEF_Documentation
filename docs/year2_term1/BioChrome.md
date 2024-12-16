@@ -1,4 +1,4 @@
-# Biochrome
+# Biochromes
 ## Reflection
 The BioChromes seminar offered an engaging introduction to natural dyeing and sustainable pigment creation. While the hands-on approach and exploration of natural materials were fascinating, the course felt misaligned with my current research and objectives. The historical context and creative experiments were insightful, but the overall experience lacked immediate relevance to my ongoing work. This disconnect limited its practical value, although it highlighted the potential of sustainable dyeing techniques.
 
