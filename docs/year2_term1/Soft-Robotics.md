@@ -15,11 +15,12 @@ Mold Preparation: Designed and 3D-printed the mold.
 Material Experimentation: Used an edible silicone paste to fill the mold.
 Mechanism Setup: Programmed an Arduino (Flora) to connect to a motor for air inflation.
 Testing: Covered mold holes, attempted inflation, and observed the results.
-Challenges & Learnings:
+
 ![](../images/Bearbeitet/Softrobot01.jpg)
 ![](../images/Bearbeitet/Softrobot02.jpg)
 ![](../images/Bearbeitet/Softrobot03.jpg)
 
+Challenges & Learnings:
 Achieved only slight inflation due to air leakage and a thick mold cover.
 Incomplete inflation of the font area highlighted the need for a fully sealed and thinner mold.
 The porosity and stickiness of edible silicone proved to be a limitation.
