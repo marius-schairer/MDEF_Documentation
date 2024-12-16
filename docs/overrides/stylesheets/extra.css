@@ -1,0 +1,128 @@
+:root>* {
+
+    --md-footer-bg-color: #1C1C1C;
+    --md-footer-fg-color: rgb(222, 222, 222);
+    --md-footer-bg-color--dark: rgb(19, 19, 19);
+    --md-footer-fg-color--lighter:  rgb(238, 238, 238);
+    --md-footer-fg-color--light:  rgb(181, 181, 181);
+    --mdc-typography-headline6-font-family: 'Roboto', bold;
+    --mdc-typography-font-family: 'Roboto', bold;
+    --md-typeset-a-color: rgb(148, 86, 228);
+
+}
+
+
+.hide-scroll-bar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .hide-scroll-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .md-typeset .md-button--primary {
+    border-width: 1px;
+    border-color: rgb(219, 219, 219);
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+  }
+
+.cardContent {
+  padding: 16px;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+}
+
+.md-nav__item .md-nav__link--active {
+  color: var(--md-typeset-a-color);
+  font-weight: bold;
+}
+.md-nav__link {
+  color: rgb(219, 219, 219);
+}
+
+.md-nav__item .md-nav__link--hover {
+  color: rgb(111, 0, 255);
+  font-weight: bold;
+}
+
+.md-typeset h1 {
+  font-weight: bold;
+  color: rgb(232, 232, 232);
+}
+.md-main{
+  background-image: url("../images/background_pattern.png");
+  background-size: contain;
+}
+
+.md-grid{
+  max-width: none;
+  display: flex;
+  width: 100%;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+
+.md-typeset h2 {
+    font-weight: bold;
+    color: rgb(232, 232, 232);
+    line-height:normal;
+}
+
+.md-typeset h3 {
+  font-weight: bold;
+  color: rgb(232, 232, 232);
+}
+
+.md-typeset h4 {
+  font-weight: bold;
+  color: rgb(232, 232, 232);
+}
+
+.mdc-typography--body2 {
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.md-header{
+  box-shadow: none;
+  background-color: black;
+  color: white;
+}
+
+.md-header-nav__topic{
+  font-weight: bold;
+}
+
+.md-nav__title{
+  color: #ffffff;
+}
+
+.menubox{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.ticket{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  box-shadow: #c4c4c4;
+}
+
+.hide{
+  display: none;
+}
+
+.effect:hover + .hide{
+  left: 0;
+  top: 0;
+  position: absolute;
+  display: block;
+  width: 100%;
+}
