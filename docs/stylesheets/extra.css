@@ -95,6 +95,10 @@
   font-weight: bold;
 }
 
+.md-nav__title{
+  color: #ffffff;
+}
+
 .menubox{
   display: flex;
   flex-direction: row;
