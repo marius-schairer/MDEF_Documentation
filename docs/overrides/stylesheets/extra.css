@@ -138,3 +138,7 @@
   display: block;
   width: 100%;
 }
+
+.p {
+  max-width: 70%;
+}
