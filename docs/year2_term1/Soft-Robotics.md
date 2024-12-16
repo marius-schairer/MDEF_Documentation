@@ -35,7 +35,6 @@ The porosity and stickiness of edible silicone proved to be a limitation.
 
 
 ### Next Steps:
-
 Experiment with non-porous, less sticky materials like regular silicone.
 Redesign molds, potentially using circular shapes for uniform inflation.
 Refine the process to incorporate chocolate and achieve the envisioned design.
