@@ -11,11 +11,51 @@ BioChromes are natural pigments found in plants, animals, and microorganisms. Th
 Sustainability: Reduces reliance on harmful synthetic processes.<br/>
 Versatility: Yields diverse colors using natural pH adjustments and mordants.<br/>
 
-## Proceses
+
+## Materials & Tools
+Creating natural dyes requires a combination of tools, materials, and ingredients to achieve consistent and vibrant results.
+
+### Tools:
+Pots for heating<br/>
+Measuring cups and spoons<br/>
+Strainers<br/>
+Protective gloves<br/>
+Optional: Scale and pH testing strips for precision<br/>
+
+### Key Ingredients:
+Mordants: Substances like alum (for bright colors) or iron (for darker shades) that fix dyes to fabric.<br/>
+Tannins: Natural compounds such as oak tannins, found in many plants, enhance dye bonding.<br/>
+pH Modifiers: Adjust color tones using lemon, vinegar, or sodium bicarbonate.<br/>
+### Fabric Preparation:
+Weigh and Cut: Measure fabric weight for accurate mordant and dye calculations.<br/>
+<br/>
+Scour Fabric: Clean the fabric based on type:<br/>
+Silk: Warm water rinse.
+Cotton, Viscose, Linen: One-hour soak with sodium carbonate.
+
+### Dyeing Process:
+Calculate mordant amounts:<br/>
+~12% alum for bright colors.<br/>
+~1% iron for darker shades.<br/>
+Simmer the fabric in the dye bath for 60 minutes.<br/>
+Hang fabric to dry naturally.<br/>
+![](../images/Bearbeitet/BiochromesTools.png)
+
+## Natural Dye Examples
+### Red Cabbage
+Pink: 200ml dye bath + 6 teaspoons lemon juice.<br/>
+Purple: 200ml dye bath + 12% alum.<br/>
+Dark Blue: 200ml dye bath + 1% iron.<br/>
+### Eucalyptus
+Light Yellow: 350ml dye bath + ½ lemon.<br/>
+Golden: 350ml dye bath + 20g alum.<br/>
+Gray: 200ml dye bath + ½ teaspoon iron.<br/>
+![](../images/Bearbeitet/BiochromesResults.png)
+
+## Experiment Proceses
 01 Material Collection: Gathered organic waste like leaves, fruit peels, and vegetable scraps. <br/>
 02 Dyeing Process: Experimented with pH levels, temperatures, and natural mordants like alum, lemon, and iron to extract vibrant colors. <br/>
-03 Example: Red cabbage produced shades ranging from bright purple to soft blue depending on pH. <br/>
-04 Pigment Creation: Transformed leftover dye baths into pigments by mixing with alum and baking soda. <br/>
+03 Pigment Creation: Transformed leftover dye baths into pigments by mixing with alum and baking soda. <br/>
 
 ![](../images/Bearbeitet/Biochromes01.jpeg)
 
