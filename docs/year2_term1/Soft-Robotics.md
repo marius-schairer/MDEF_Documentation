@@ -5,7 +5,7 @@ Our experiment with soft robotics to create inflatable chocolate was both a crea
 After exploring with the food material and thinking a lot about potential use cases I would say there is better use cases than inflatable food and with the next experiment i would do something more related to Nature inspired mechanisms like fish swimming or bird wings movement.
 
 ## About Soft Robotics
-Soft robotics emphasizes flexibility, adaptability, and safety, drawing inspiration from natural organisms. Key components include soft actuators, flexible sensors, and durable materials like elastomers or biomaterials. Its applications span healthcare, agriculture, exploration, and even consumer products.
+Soft robotics emphasizes flexibility, adaptability, and safety, drawing inspiration from natural organisms. Key components include soft actuators, flexible sensors, and durable materials like elastomers, hydrogels or biomaterials. Its applications span healthcare, agriculture, exploration, and even consumer products.
 
 ## Experiment Summary
 ### Goal: Create an inflatable chocolate mold featuring the "Chocacademy" font.
@@ -24,7 +24,7 @@ Soft robotics emphasizes flexibility, adaptability, and safety, drawing inspirat
 04 Testing: Covered mold holes, attempted inflation, and observed the results.<br/>
 ![](../images/Bearbeitet/Softrobot05.jpg)
 
-
+05 Result: The Prototype is not inflating because of the thickness and flexibility of the edible silicon.
 
 
 ### Challenges & Learnings: <br/>
