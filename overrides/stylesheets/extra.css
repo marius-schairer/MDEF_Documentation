@@ -150,3 +150,41 @@ p {
   align-items: flex-start;
   
 }
+
+.content-Tile img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+.content-Tile h3 {
+    margin: 8px 0;
+}
+
+.content-Tile p {
+    margin: 8px 0;
+    max-width: 280px;
+}
+
+.content-Tile a {
+    text-decoration: none;
+    color: var(--md-typeset-a-color);
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+iframe {
+    background: white;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.md-typeset .task-list-control [type="checkbox"]:checked + .task-list-indicator::before {
+    background-color: var(--md-typeset-a-color);
+}
+
+.task-list-item {
+    margin-bottom: 8px;
+}
