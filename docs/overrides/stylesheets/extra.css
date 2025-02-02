@@ -33,13 +33,12 @@
   color: rgb(255, 255, 255);
 }
 
-.md-nav {
-  background-color: #000000;
-}
+
 
 .md-nav__item .md-nav__link--active {
   color: var(--md-typeset-a-color);
   font-weight: bold;
+  background-color: black;
 }
 .md-nav__link {
   color: #ffffff;
@@ -63,8 +62,8 @@
   max-width: none;
   display: flex;
   width: 100%;
-  margin-right: 1.5rem;
-  margin-left: 1.5rem;
+  margin-right: 0;
+  margin-left: o;
 }
 
 
@@ -107,6 +106,7 @@
 }
 .md-sidebar {
   color: #ffffff;
+  background-color: black;
 }
 
 .md-content {
