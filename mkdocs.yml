@@ -23,8 +23,9 @@ nav:
     - 10 Workshops : term3/DesignStudio03/intervention2.md
   - Year 2:
     - Reflections:
-        - Emerging Economies: year2_term1/Emerging_Economies.md
-        - Co-Creating Public Spaces: year2_term1/Co-CreatingPublicSpaces.md
+        - Emerging Economies: year2/Emerging_Economies.md
+        - Co-Creating Public Spaces: year2/Co-CreatingPublicSpaces.md
+        - Interaction & Prototyping: year2/InteractionPrototyping.md
   - Year 1:
     - Research Trip: term2/ResearchTrip.md  
     - LAIA Project: term3/LAIAProject.md
@@ -60,10 +61,10 @@ nav:
         - Critical Transfeminist Design: term3/Reflections/CriticalTransfeministDesign.md 
   - with Fablab:
     - Fabricademy:  
-        - Biochromes: year2_term1/BioChrome.md
-        - Soft Robotics: year2_term1/Soft-Robotics.md
+        - Biochromes: year2/BioChrome.md
+        - Soft Robotics: year2/Soft-Robotics.md
     - Fabacademy: 
-        - Electronics: year2_term1/Fabacademy/electronics.md
+        - Electronics: year2/Fabacademy/electronics.md
     - Machine Paradox: term1/Reflections/MachineParadox.md
     - Digital Prototyping for Design: 
         - Challenge 01: term2/Reflections/DigitalFabrication/DigitalFabrication01.md
