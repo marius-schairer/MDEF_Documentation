@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: Marius Schairer - MDEF & Fab Lab Barcelona
+site_name: MARIUS SCHAIRER
 site_description: Master in Design for Emergent Futures
 site_author: Marius Schairer
 copyright: Copyleft 2023 "Marius Schairer" - GNU Free Documentation License
@@ -9,7 +9,13 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 
 nav:
   - Overview: index.md
-  - Thesis Project: thesis_project.md
+  - Thesis: 
+    - Introduction: thesis.md
+    - Research: thesis/research.md
+    - Methodology: thesis/methodology.md
+    - Playground: thesis/thesis_playground.md
+    - Experiments: thesis/experiments.md
+    - Exhibitions: thesis/thesis_playground.md
   - Design Studio:
     - 01 Roles of Prototyping: term1/Design/RolesofPrototyping.md
     - 02 Collective Design Space: term1/Design/CollectiveDesignSpace.md
@@ -96,12 +102,14 @@ extra:
 theme:
   name: material
   custom_dir: overrides
+  logo: images/Logos/ColorLogo.png  # Add your logo path here
+  favicon: images/Logos/ColorLogo.png  # Optional: also change favicon
   palette:
     primary: white
     accent: purple
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: 'Roboto'
+    code: 'Roboto Mono'
   features:
     - navigation.instant
     - navigation.tracking
@@ -166,3 +174,5 @@ markdown_extensions:
 extra_css:
   - overrides/stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
+  - https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Roboto+Mono&display=swap
+  - https://fonts.googleapis.com/css2?family=Roboto:wght@400,700,900&display=swap

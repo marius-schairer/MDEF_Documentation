@@ -1,105 +1,212 @@
-# Welcome to my Portfolio
+# WELCOME TO MY PORTFOLIO
 
+<div class="grid-wrapper">
+    <a class="content-tile large" href="thesis_project/">
+        <img src="images/Thesis/Participtive_AI_Development.png">
+        <div style="display:flex, flex-direction:column, margin:10px">
+        <div class="navigation">Thesis Project/CGAI</div>
+        <h4>Collaborative AI Frameworks</h4>
+        <p>#collaboration #communitygovernedintelligences #develpmet #ai #interactiondesign #dataownership</p>
+        </div>
+    </a>
+    <a class="content-tile" href="about/me/">
+        <img src="images/AboutMe/Profile2.jpg">
+        <div class="navigation">About Me/</div>
+        <h4>Mars</h4>
+        <p>#community #technology #ai #education #development</p>
+    </a>
+</div>
 
+## --------
+
+# Year 2 
+<div class="grid-wrapper">
+    <a class="content-tile" href="year2/Emerging_Economies/">
+        <img src="images/Cover/Economies.png">
+        <div class="navigation">Emerging Economies/ Session 1-5</div>
+        <h4>Economies</h4>
+        <p>#regenerative #distributed</p>
+    </a>
+    <a class="content-tile" href="year2/Co-CreatingPublicSpaces/">
+        <img src="images/Cover/PublicSpaces.png">
+        <div class="navigation">Co-Creating Public Spaces/</div>
+        <h4>Co-Creating</h4>
+        <p>#architecture #observation</p>
+    </a>
+    <a class="content-tile" href="year2/InteractionPrototyping/">
+        <img src="images/Cover/LLUM.png">
+        <div class="navigation">Interaction & Prototyping/</div>
+        <h4>LLUM 2025</h4>
+        <p>#interactiondesign #ai #development</p>
+    </a>
+</div>
+
+## --------
+
+# Year 1
 
 ## Design Studio
-<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
-    <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
-    <a style="border-radius: 20px; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #000000" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
-        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
-            <img src="images/Tiles/aboutMe copy.png"></img>
-        </div>
-        <div style="padding: 20px; gap: 10px; width: 50%; color: #FFFFFF">
-        <h2>Thesis Project</h2>
-        I am Currently researching on Participative processes and community governed intelligences with a fokus on artificial intelligence mechanisms. 
-        </div>
+<div class="grid-wrapper">
+    <a class="content-tile" href="term1/Design/RolesofPrototyping/">
+        <img src="images/Tiles/RoP copy.png">
+        <div class="navigation">Design Studio/Roles of Prototyping</div>
+        <h4>Roles of Prototyping</h4>
+        <p>#</p>
     </a>
-    </div>
-    <a style="border-radius: 20px; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/RolesofPrototyping/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/RoP copy.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Design/CollectiveDesignSpace/">
+        <img src="images/Tiles/CollDesign.png">
+        <h4>Collective Design Space</h4>
+        <p>#</p>
     </a>
-    <a style="border-radius: 20px; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveDesignSpace/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/CollDesign.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Design/Narratives/">
+        <img src="images/Tiles/Narratives.png">
+        <h4>Narratives</h4>
+        <p>#</p>
     </a>
-    <a style="border-radius: 20px; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/Narratives/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%" >
-    <img src="images/Tiles/Narratives.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Design/CollectiveIntervention/">
+        <img src="images/Tiles/CollectiveIntervention.png">
+        <h4>Collective Intervention</h4>
+        <p>#</p>
     </a>
-    <a style="border-radius: 20px; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Design/CollectiveIntervention/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%" >
-    <img src="images/Tiles/CollectiveIntervention.png"></img>
-    </div>
+    <a class="content-tile" href="term2/DesignStudio02/Dialogues/">
+        <img src="images/Design/dialogues.png">
+        <h4>Design Dialogues</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term2/DesignStudio02/Intervention01/">
+        <img src="images/Design/intervention1.png">
+        <h4>Intervention 01</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term2/DesignStudio02/Intervention02/">
+        <img src="images/Design/intervention2.png">
+        <h4>Intervention 02</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term2/DesignStudio02/Intervention03/">
+        <img src="images/Design/intervention3.png">
+        <h4>Intervention 03</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term3/DesignStudio03/intervention1/">
+        <img src="images/Design/community.png">
+        <h4>Connect with Community's</h4>
+    </a>
+    <a class="content-tile" href="term3/DesignStudio03/intervention2/">
+        <img src="images/Design/workshops.png">
+        <h4>Workshops</h4>
+        <p>#</p>
     </a>
 </div>
-
 
 ## Reflections
-### Term 1
-<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 20px; flex-wrap:wrap;">
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Landing/landing/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-        <img src="images/Tiles/Landing.png"></img>
-    </div>
+<div class="grid-wrapper">
+    <a class="content-tile" href="term2/ResearchTrip/">
+        <img src="images/Year1/research.png">
+        <h4>Research Trip</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/DocumentingDesign/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/DocDesign copy.png"></img>
-    </div>
+    <a class="content-tile" href="term3/LAIAProject/">
+        <img src="images/Year1/laia.png">
+        <h4>LAIA Project</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/AtlasofWeakSignals/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/AoWS copy.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Design/RolesofPrototyping/">
+        <img src="images/Tiles/RoP copy.png">
+        <h4>Roles of Prototyping</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/MachineParadox/md">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/MachineParadox.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Design/CollectiveDesignSpace/">
+        <img src="images/Tiles/CollDesign.png">
+        <h4>Collective Design Space</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/LwYoI/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/LwYOI copy.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Design/Narratives/">
+        <img src="images/Tiles/Narratives.png">
+        <h4>Narratives</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF"  href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/BioZero/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/BioZero.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Design/CollectiveIntervention/">
+        <img src="images/Tiles/CollectiveIntervention.png">
+        <h4>Collective Intervention</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/AgriZero/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/AgriZero.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Reflections/DocumentingDesign/">
+        <img src="images/Tiles/DocDesign copy.png">
+        <h4>Documenting Design</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/GMO/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/GMO.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Reflections/AtlasofWeakSignals/">
+        <img src="images/Tiles/AoWS copy.png">
+        <h4>Atlas of Weak Signals</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/DesignWithOthers">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/DWO.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Reflections/MachineParadox/md">
+        <img src="images/Tiles/MachineParadox.png">
+        <h4>Machine Paradox</h4>
+        <p>#</p>
     </a>
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: column; align-items: flex-start; width: 48%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/term1/Reflections/ExtendedIntelligences/">
-    <div style="display:flex; align-content: center; justify-content:center; width: 100%">
-    <img src="images/Tiles/ExtInt.png"></img>
-    </div>
+    <a class="content-tile" href="term1/Reflections/LwYoI/">
+        <img src="images/Tiles/LwYOI copy.png">
+        <h4>Learning with Your Own Intelligence</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term1/Reflections/BioZero/">
+        <img src="images/Tiles/BioZero.png">
+        <h4>Bio Zero</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term1/Reflections/AgriZero/">
+        <img src="images/Tiles/AgriZero.png">
+        <h4>Agri Zero</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term1/Reflections/GMO/">
+        <img src="images/Tiles/GMO.png">
+        <h4>GMO</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term1/Reflections/DesignWithOthers">
+        <img src="images/Tiles/DWO.png">
+        <h4>Design With Others</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term1/Reflections/ExtendedIntelligences/">
+        <img src="images/Tiles/ExtInt.png">
+        <h4>Extended Intelligences</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term1/Landing/landing/">
+        <img src="images/Tiles/Landing.png">
+        <h4>Landing</h4>
+        <p>#</p>
+    </a>
+    <a class="content-tile" href="term1/Reflections/DocumentingDesign/">
+        <img src="images/Tiles/DocDesign copy.png">
+        <h4>Documenting Design</h4>
+        <p>#</p>
     </a>
 </div>
 
-<div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; gap: 10px; flex-wrap:wrap;">
-    <a style="box-shadow: 5px 5px 0px 0px #181040; display: flex; flex-direction: row; align-items: flex-start; width: 100%; height: 100%; object-fit: cover; background-color: #CABFFF" href="https://marius-schairer.github.io/MDEF_Documentation/about/me/">
-        <div style="display:flex; align-content: center; justify-content:center; width: 50%">
-            <img src="images/Tiles/aboutMe copy.png"></img>
-        </div>
-        <div style="padding: 10px; gap: 10px; width: 50%; color: #181040">
-        This website is a documentation of reflections and developments from my personal perspective of the MDEF 2023-2025 study program, which deals with collaboration, community building and sustainable development. See more about me on this page.
-        </div>
+## --------
+
+# Hosted by Fablab
+<div class="grid-wrapper">
+    <a class="content-tile" href="year2/BioChrome/">
+        <img src="images/Bearbeitet/Biochromes02.jpeg">
+        <h4>Biochromes</h4>
+    </a>
+    <a class="content-tile" href="year2/Soft-Robotics/">
+        <img src="images/Bearbeitet/Softrobot03.jpg.png">
+        <h4>Soft Robotics</h4>
+    </a>
+    <a class="content-tile" href="year2/Fabacademy/electronics/">
+        <img src="images/Fablab/electronics.png">
+        <h4>Electronics</h4>
+    </a>
+    <a class="content-tile" href="term1/Reflections/MachineParadox/">
+        <img src="images/Tiles/MachineParadox.png">
+        <h4>Machine Paradox</h4>
     </a>
 </div>
+

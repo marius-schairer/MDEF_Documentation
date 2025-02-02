@@ -9,8 +9,17 @@
     --mdc-typography-font-family: 'Roboto', bold;
     --md-typeset-a-color: rgb(148, 86, 228);
 
+    /* Typography */
+    --font-heading: 'Space Grotesk', 'Roboto', sans-serif;
+    --font-body: 'Inter', 'Roboto', sans-serif;
+    --font-mono: 'Roboto Mono', monospace;
+    --font-navigation: 'Space Grotesk', sans-serif;
+    --font-primary: 'Roboto', sans-serif;
 }
 
+img {
+  border-radius: 16px;
+}
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
@@ -51,9 +60,15 @@
 }
 
 .md-typeset h1 {
-  font-weight: bold;
+  font-family: var(--font-primary);
+  font-weight: 900;
+  font-style: italic;
+  font-size: 48px;
+  text-transform: uppercase;
   color: rgb(232, 232, 232);
+  margin-bottom: 2rem;
 }
+
 .md-main{
   background-image: url("../../images/background_pattern.png");
   background-size: contain;
@@ -63,22 +78,34 @@
   max-width: none;
   display: flex;
   width: 100%;
+  margin: 0 32px;
 }
 
 
 .md-typeset h2 {
-    font-weight: bold;
+    font-family: var(--font-primary);
+    font-weight: 900;
+    font-size: 32px;
+    font-style: italic;
+    text-transform: uppercase;
     color: rgb(232, 232, 232);
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
     line-height:normal;
 }
 
 .md-typeset h3 {
-  font-weight: bold;
+  font-family: var(--font-primary);
+  font-weight: 700;
+  font-size: 19px;
   color: rgb(232, 232, 232);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
 .md-typeset h4 {
   font-weight: bold;
+  font-size: 17px;
   color: rgb(232, 232, 232);
 }
 
@@ -103,12 +130,14 @@
 .md-sidebar--secondary {
   color: #ffffff;
 }
+
 .md-sidebar {
   color: #ffffff;
 }
 
 .md-content {
   color: #ffffff;
+  max-width: none;
 }
 
 .menubox{
@@ -195,57 +224,79 @@ iframe {
     border-radius: 4px;
 }
 
+/* Breadcrumb Navigation */
+.breadcrumb {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.breadcrumb span {
+    color: var(--md-typeset-a-color);
+}
+
+.breadcrumb-separator {
+    color: #666;
+    margin: 0 4px;
+}
+
 /* Mobile Navigation */
 @media screen and (max-width: 76.1875em) {
+    /* Reset all custom navigation styles */
     .md-nav {
-        background-color: black;
+        background-color: transparent;
+        padding: 0;
     }
-    
-    .md-nav--primary .md-nav__title {
-        background-color: black;
-        color: white;
-        padding: 1rem;
-        border-radius: 4px 4px 0 0;
-    }
-    
-    .md-nav--primary .md-nav__item {
-        border-bottom: 1px solid rgba(255,255,255,0.1);
-    }
-    
+
+    /* Basic sidebar styling */
     .md-sidebar--primary {
-        position: fixed;
-        width: 80%;
-        max-width: 300px;
-        z-index: 100;
         background-color: black;
     }
 
+    /* Navigation elements */
+    .md-nav__title,
+    .md-nav__item,
     .md-nav__link {
         color: white !important;
-    }
-
-    .md-nav--primary {
         background-color: transparent;
     }
-    
-    .md-nav--primary .md-nav__container {
-        background-color: black;
-    }
-    
-    /* Fix for nested navigation */
-    .md-nav--primary .md-nav__list .md-nav__list {
-        background-color: black;
+
+    .md-nav__item {
+        border-bottom: 1px solid rgba(255,255,255,0.1);
     }
 
-    /* Reset and fix sidebar visibility */
+    /* Active and hover states */
+    .md-nav__link--active,
+    .md-nav__link:hover {
+        color: var(--md-typeset-a-color) !important;
+    }
+
+    /* Overlay when sidebar is open */
+    [data-md-toggle="drawer"]:checked ~ .md-overlay {
+        background-color: rgba(0, 0, 0, 0.54);
+    }
+
+    .md-grid {
+        margin: 0 16px;
+    }
+
+    /* Sidebar container */
     .md-sidebar--primary {
         position: fixed;
-        width: 80%;
-        max-width: 300px;
-        z-index: 100;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        max-width: none;
         background-color: black;
         transform: translateX(-100%);
         transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        z-index: 100;
+        overflow-y: auto;
     }
 
     /* Show sidebar when nav is toggled */
@@ -253,31 +304,59 @@ iframe {
         transform: translateX(0);
     }
 
-    /* Ensure all navigation elements have black background */
+    /* Navigation styling */
+    .md-sidebar__scrollwrap {
+        height: 100vh;
+        overflow-y: auto;
+        padding: 0;
+    }
+
+    .md-nav--primary .md-nav__inner {
+        height: calc(100vh - 48px); /* Account for header */
+        overflow-y: auto;
+    }
+
+    .md-nav--primary .md-nav__title {
+        background-color: black;
+        color: white;
+        padding: 1rem;
+    }
+
+    .md-nav--primary .md-nav__list {
+        padding: 0 1rem;
+    }
+
+    .md-nav__item {
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+        padding: 0.5rem 0;
+    }
+
+    .md-nav__title {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        visibility:hidden;
+    }
+
+    .md-nav__button.md-logo {
+      position: relative;
+    }
+
+    .content-tile.large {
+      grid-column: span 1;
+      display: flex;
+      flex-direction: column;
+      height: auto;
+      align-items:flex-start;
+    }
+
+    /* Override any background colors */
     .md-nav,
     .md-nav--primary,
-    .md-nav--primary .md-nav__title,
-    .md-nav--primary .md-nav__container,
-    .md-nav--primary .md-nav__list,
-    .md-nav--primary .md-nav__item,
-    .md-nav--primary .md-nav__list .md-nav__list {
-        background-color: black;
-    }
-
-    /* Fix nested navigation */
-    .md-nav--primary .md-nav {
+    .md-nav__title,
+    .md-nav__list,
+    .md-nav__item {
         background-color: black !important;
-    }
-
-    /* Ensure text is visible */
-    .md-nav__link,
-    .md-nav__title {
-        color: white !important;
-    }
-
-    /* Add overlay when sidebar is open */
-    [data-md-toggle="drawer"]:checked ~ .md-overlay {
-        background-color: rgba(0, 0, 0, 0.54);
     }
 }
 
@@ -285,19 +364,18 @@ iframe {
 @media screen and (min-width: 76.25em) {
     .md-nav {
         background-color: transparent;
+        padding: 0rem;
     }
     
     .md-sidebar--primary {
         width: 250px;
         background-color: transparent;
-        padding: 1rem;
     }
     
     .md-sidebar--secondary {
         width: 200px;
         margin-left: 1rem;
         background-color: black;
-        padding: 1rem;
     }
     
     .md-main__inner {
@@ -310,6 +388,7 @@ iframe {
 
     .md-nav__item .md-nav__link--active {
         background-color: transparent;
+
     }
     
     .md-nav__title {
@@ -322,6 +401,13 @@ iframe {
     
     .md-sidebar--secondary .md-nav {
         background-color: transparent;
+    }
+    .content-tile.large {
+      grid-column: span 3;
+      display: flex;
+      flex-direction: row;
+      height: 100%;
+      align-items: center;
     }
 }
 
@@ -366,11 +452,17 @@ iframe {
 .md-header__button.md-logo {
     display: block !important;
     padding: 0.2rem;
+    margin: 0.2rem;
 }
 
 .md-header__button.md-logo img {
-    height: 2rem;
-    width: auto;
+    height: 2.4rem !important;  /* Adjust size as needed */
+    width: auto !important;
+}
+
+/* Hide default Material for MkDocs logo if needed */
+.md-header__button.md-logo svg {
+    display: none;
 }
 
 /* Ensure transparent backgrounds for secondary sidebar at all sizes */
@@ -378,4 +470,144 @@ iframe {
 .md-sidebar--secondary .md-nav,
 .md-sidebar--secondary .md-nav__title {
     background-color: transparent !important;
+}
+
+/* Grid Layout Styling */
+.grid-wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    padding: 16px 0;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+}
+
+.content-tile.large img{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.content-tile {
+    background: black;
+    border-radius: 16px;
+    padding: 8px;
+    text-decoration: none;
+    transition: transform 0.2s ease;
+    width: 100%;
+    height: 100%;
+    gap: 8px;
+}
+
+.content-tile:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.content-tile img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.content-tile h4 {
+    font-family: var(--font-primary);
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.content-tile p {
+  font-family: var(--font-primary);
+  font-size: 17px;
+  font-weight: 300;
+  color: rgb(144, 144, 144);
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.content-tile p {
+    font-family: var(--font-primary);
+    font-size: 17px;
+    line-height: 1.5;
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin: 8px 0;
+    max-width: 100%;
+}
+
+/* Mobile Responsiveness */
+@media screen and (max-width: 1200px) {
+    .grid-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .grid-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .grid-wrapper {
+        grid-template-columns: 1fr;
+        max-width: 400px;
+    }
+    
+    .content-tile img {
+        height: 200px;
+    }
+
+    .md-typeset h1 {
+        font-size: 36px;
+    }
+    
+    .md-typeset h2 {
+        font-size: 28px;
+    }
+    
+    .md-typeset h3 {
+        font-size: 1.25rem;
+    }
+}
+
+/* Typography Styles */
+.md-typeset p {
+    font-family: var(--font-primary);
+    font-size: 17px;
+    line-height: 1.6;
+    color: rgb(255, 255, 255);
+}
+
+/* Custom Typography Classes */
+.navigation {
+    font-family: var(--font-primary);
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #5533FF;
+}
+
+.caption {
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    color: rgb(181, 181, 181);
+    font-style: italic;
+}
+
+.mono {
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+}
+
+.md-main__inner {
+    margin-top: 1.5rem;
+    max-width: none;
+    padding: 0;
 }
