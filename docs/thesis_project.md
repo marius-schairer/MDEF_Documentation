@@ -1,6 +1,6 @@
 # Collaborative AI Frameworks
 
-![Main Project Image](path/to/your/image.jpg)
+![Main Project Image](../docs/images/Thesis/Participtive_AI_Development.png)
 Description of your project and its goals...
 
 ## Inspiration
@@ -24,7 +24,7 @@ Description of your project and its goals...
 ## Current Developments
 
 <iframe 
-    src="https://your-playground-url.com" 
+    src="https://blob-7z6z9.ondigitalocean.app/knowledgebase.html" 
     width="100%" 
     height="600px" 
     frameborder="0"
