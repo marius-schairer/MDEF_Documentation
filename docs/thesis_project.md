@@ -1,6 +1,6 @@
 # Collaborative AI Frameworks
 
-![Main Project Image](../docs/images/Thesis/Participtive_AI_Development.png)
+![Main Project Image](images/Thesis/Participtive_AI_Development.png)
 Drafting a first Circular draft
 
 ## Inspiration
