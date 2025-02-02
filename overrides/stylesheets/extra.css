@@ -38,10 +38,10 @@
 .md-nav__item .md-nav__link--active {
   color: var(--md-typeset-a-color);
   font-weight: bold;
-  background-color: black;
 }
 .md-nav__link {
   color: #ffffff;
+  background-color: black;
 }
 
 .md-nav__item .md-nav__link--hover {
@@ -62,8 +62,6 @@
   max-width: none;
   display: flex;
   width: 100%;
-  margin-right: 0;
-  margin-left: o;
 }
 
 
@@ -90,7 +88,6 @@
 
 .md-header{
   box-shadow: none;
-  background-color: black;
   color: white;
 }
 
@@ -100,6 +97,7 @@
 
 .md-nav__title{
   color: #ffffff;
+  background-color: black;
 }
 .md-sidebar--secondary {
   color: #ffffff;
