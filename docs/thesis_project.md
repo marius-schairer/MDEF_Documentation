@@ -1,7 +1,7 @@
 # Collaborative AI Frameworks
 
 ![Main Project Image](../docs/images/Thesis/Participtive_AI_Development.png)
-Description of your project and its goals...
+Drafting a first Circular draft
 
 ## Inspiration
 

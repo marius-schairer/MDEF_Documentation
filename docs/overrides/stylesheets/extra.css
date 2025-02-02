@@ -223,6 +223,19 @@ iframe {
     .md-nav__link {
         color: white !important;
     }
+
+    .md-nav--primary {
+        background-color: transparent;
+    }
+    
+    .md-nav--primary .md-nav__container {
+        background-color: black;
+    }
+    
+    /* Fix for nested navigation */
+    .md-nav--primary .md-nav__list .md-nav__list {
+        background-color: black;
+    }
 }
 
 /* Desktop Navigation */
@@ -258,6 +271,14 @@ iframe {
     
     .md-nav__title {
         background-color: transparent !important;
+    }
+
+    .md-sidebar--secondary {
+        background-color: transparent;
+    }
+    
+    .md-sidebar--secondary .md-nav {
+        background-color: transparent;
     }
 }
 
@@ -296,4 +317,22 @@ iframe {
 .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
     background-color: var(--md-typeset-a-color);
     border-radius: 4px;
+}
+
+/* Logo styling */
+.md-header__button.md-logo {
+    display: block !important;
+    padding: 0.2rem;
+}
+
+.md-header__button.md-logo img {
+    height: 2rem;
+    width: auto;
+}
+
+/* Ensure transparent backgrounds for secondary sidebar at all sizes */
+.md-sidebar--secondary,
+.md-sidebar--secondary .md-nav,
+.md-sidebar--secondary .md-nav__title {
+    background-color: transparent !important;
 }
