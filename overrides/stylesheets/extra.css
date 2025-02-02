@@ -38,6 +38,7 @@
 .md-nav__item .md-nav__link--active {
   color: var(--md-typeset-a-color);
   font-weight: bold;
+  background-color: black;
 }
 .md-nav__link {
   color: #ffffff;
@@ -104,7 +105,6 @@
 }
 .md-sidebar {
   color: #ffffff;
-  background-color: black;
 }
 
 .md-content {
@@ -187,4 +187,113 @@ iframe {
 
 .task-list-item {
     margin-bottom: 8px;
+}
+
+/* Custom Navigation Styling */
+.md-nav {
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+/* Mobile Navigation */
+@media screen and (max-width: 76.1875em) {
+    .md-nav {
+        background-color: black;
+    }
+    
+    .md-nav--primary .md-nav__title {
+        background-color: black;
+        color: white;
+        padding: 1rem;
+        border-radius: 4px 4px 0 0;
+    }
+    
+    .md-nav--primary .md-nav__item {
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+    
+    .md-sidebar--primary {
+        position: fixed;
+        width: 80%;
+        max-width: 300px;
+        z-index: 100;
+        background-color: black;
+    }
+
+    .md-nav__link {
+        color: white !important;
+    }
+}
+
+/* Desktop Navigation */
+@media screen and (min-width: 76.25em) {
+    .md-nav {
+        background-color: transparent;
+    }
+    
+    .md-sidebar--primary {
+        width: 250px;
+        background-color: transparent;
+        padding: 1rem;
+    }
+    
+    .md-sidebar--secondary {
+        width: 200px;
+        margin-left: 1rem;
+        background-color: black;
+        padding: 1rem;
+    }
+    
+    .md-main__inner {
+        margin-top: 1.5rem;
+    }
+
+    .md-nav__link {
+        background-color: transparent;
+    }
+
+    .md-nav__item .md-nav__link--active {
+        background-color: transparent;
+    }
+    
+    .md-nav__title {
+        background-color: transparent !important;
+    }
+}
+
+/* Navigation Links */
+.md-nav__link {
+    color: white !important;
+    transition: color 0.2s;
+}
+
+.md-nav__link:hover {
+    color: var(--md-typeset-a-color) !important;
+}
+
+.md-nav__link--active {
+    color: var(--md-typeset-a-color) !important;
+    font-weight: bold;
+}
+
+/* Header modifications */
+.md-header {
+    background-color: black;
+    box-shadow: 0 0 0.2rem rgba(0,0,0,.1);
+}
+
+/* Sidebar scroll */
+.md-sidebar__scrollwrap {
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--md-typeset-a-color) rgba(0,0,0,0.1);
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar {
+    width: 4px;
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+    background-color: var(--md-typeset-a-color);
+    border-radius: 4px;
 }
