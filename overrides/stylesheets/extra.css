@@ -7,7 +7,7 @@
     --md-footer-fg-color--light:  rgb(181, 181, 181);
     --mdc-typography-headline6-font-family: 'Roboto', bold;
     --mdc-typography-font-family: 'Roboto', bold;
-    --md-typeset-a-color: rgb(148, 86, 228);
+    --md-typeset-a-color: rgb(255, 94, 26);
 
     /* Typography */
     --font-heading: 'Space Grotesk', 'Roboto', sans-serif;
@@ -55,7 +55,7 @@ img {
 }
 
 .md-nav__item .md-nav__link--hover {
-  color: rgb(111, 0, 255);
+  color: rgb(255, 26, 152);
   font-weight: bold;
 }
 
@@ -534,7 +534,7 @@ iframe {
     font-family: var(--font-primary);
     font-size: 17px;
     line-height: 1.5;
-    color: #cccccc;
+    color: #6b6b6b;
     font-size: 0.85rem;
     margin: 8px 0;
     max-width: 100%;
