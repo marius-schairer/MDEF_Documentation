@@ -4,8 +4,6 @@
     <span>Interaction Prototyping</span>
 </div>
 
-# LLUM 2025
-
 ![Cover Image](../images/Cover/InteractionPrototyping.png)
 
 ## Reflection
