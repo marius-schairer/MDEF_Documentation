@@ -27,7 +27,7 @@ It was a challenge to run this installation with moderate power consumption in a
     <iframe 
         width="70%" 
         height="500" 
-        src="https://www.youtube.com/embed/wrTFjlEQWVI?autoplay=1&mute=1&loop=1&playlist=wrTFjlEQWVI" 
+        src="https://www.youtube.com/embed/wrTFjlEQWVI" 
         title="Project Demo" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -59,7 +59,7 @@ The code is open source, but still needs to be refined and documented. If you ha
         <iframe 
             width="100%" 
             height="100%" 
-            src="https://www.youtube.com/embed/ZW35Tzpu3gU?autoplay=1&mute=1&loop=1&playlist=ZW35Tzpu3gU" 
+            src="https://www.youtube.com/embed/ZW35Tzpu3gU" 
             title="Testing Results" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
