@@ -16,9 +16,9 @@ Our installation focuses on creating an interactive light experience that respon
 
 ## Technical Implementation
 
-<div style="display: flex; justify-content: center; margin: 20px 0;">
+<div style="display: flex; justify-content: left; margin: 20px 0;">
     <iframe 
-        width="100%" 
+        width="70%" 
         height="500" 
         src="https://www.youtube.com/embed/wrTFjlEQWVI?autoplay=1&mute=1" 
         title="Project Demo" 
@@ -43,9 +43,9 @@ The system uses custom software to:
 
 ## Testing & Results
 
-<div style="display: flex; justify-content: center; margin: 20px 0;">
+<div style="display: flex; justify-content: left; margin: 20px 0;">
     <iframe 
-        width="100%" 
+        width="70%" 
         height="500" 
         src="https://www.youtube.com/embed/ZW35Tzpu3gU" 
         title="Testing Results" 
