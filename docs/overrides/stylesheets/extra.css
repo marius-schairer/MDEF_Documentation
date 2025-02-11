@@ -541,6 +541,29 @@ iframe {
     max-width: 100%;
 }
 
+/* Social Links */
+.social-links {
+    display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.social-link {
+    padding: 8px 16px;
+    background-color: rgb(38, 38, 38);
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    transition: transform 0.2s ease;
+    font-family: var(--font-mono);
+    font-size: 14px;
+}
+
+.social-link:hover {
+    transform: translateY(-2px);
+    color: var(--md-typeset-a-color);
+}
+
 /* Mobile Responsiveness */
 @media screen and (max-width: 1200px) {
     .grid-wrapper {

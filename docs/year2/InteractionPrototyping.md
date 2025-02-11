@@ -70,3 +70,13 @@ The code is open source, but still needs to be refined and documented. If you ha
 - Local processing
 - Realtime diffusion
 - Improve motion interaction
+
+## Links
+<div class="social-links">
+    <a href="https://www.instagram.com/miralls.del.dema/" target="_blank" class="social-link">
+        Follow on Instagram
+    </a>
+    <a href="https://github.com/marius-schairer/LLUM2025_Miralls_del_Dema" target="_blank" class="social-link">
+        View Source Code
+    </a>
+</div>
