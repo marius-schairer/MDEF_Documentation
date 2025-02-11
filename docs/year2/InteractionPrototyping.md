@@ -6,7 +6,7 @@
 
 ![Cover Image](../images/Cover/InteractionPrototyping.png)
 
-## Reflection
+# Reflection
 During the LLUM Barcelona festival, we had the opportunity to explore interactive installations and develop our own concepts. Working with light as a medium opened up new perspectives on how to create engaging public experiences. I could relate the Project topic to my research and lern a lot in prototyping and development
 
 ## Project Description
