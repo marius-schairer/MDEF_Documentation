@@ -18,7 +18,7 @@ Our installation focuses on creating an interactive light experience that respon
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
     <iframe 
-        src="https://drive.google.com/file/d/YOUR_VIDEO_ID_1/preview" 
+        src="https://drive.google.com/file/d/1MFTaTX-OGJ3j6A6XIsWcwvvFo3iUxNI_/view?usp=sharing" 
         width="640" 
         height="360" 
         frameborder="0" 
@@ -44,7 +44,7 @@ The system uses custom software to:
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
     <iframe 
-        src="https://drive.google.com/file/d/YOUR_VIDEO_ID_2/preview" 
+        src="https://drive.google.com/file/d/1IMHka3Yf22ZOw6CNcUy7e4jElO3hFX4Q/view?usp=sharing" 
         width="640" 
         height="360" 
         frameborder="0" 
