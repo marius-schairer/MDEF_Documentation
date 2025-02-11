@@ -7,7 +7,7 @@
 ![Cover Image](../images/Cover/InteractionPrototyping.png)
 
 ## Reflection
-During the LLUM Barcelona festival, we had the opportunity to explore interactive installations and develop our own concepts. Working with light as a medium opened up new perspectives on how to create engaging public experiences.
+During the LLUM Barcelona festival, we had the opportunity to explore interactive installations and develop our own concepts. Working with light as a medium opened up new perspectives on how to create engaging public experiences. I could relate the Project topic to my research and lern a lot in prototyping and development
 
 ## Project Description
 Our installation focuses on creating an interactive light experience that responds to movement and sound. The concept revolves around making visible the invisible connections between people in public spaces.
