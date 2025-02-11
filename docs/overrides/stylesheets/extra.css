@@ -47,7 +47,7 @@ img {
 .md-nav__item .md-nav__link--active {
   color: var(--md-typeset-a-color);
   font-weight: bold;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 .md-nav__link {
   color: #ffffff;
@@ -70,7 +70,7 @@ img {
 }
 
 .md-main{
-  background-image: url("../../images/background_pattern.png");
+  background-image: url("../../images/background-black.png");
   background-size: contain;
 }
 
@@ -125,7 +125,7 @@ img {
 
 .md-nav__title{
   color: #ffffff;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 .md-sidebar--secondary {
   color: #ffffff;
@@ -317,7 +317,7 @@ iframe {
     }
 
     .md-nav--primary .md-nav__title {
-        background-color: black;
+        background-color: rgb(0, 0, 0);
         color: white;
         padding: 1rem;
     }
@@ -356,7 +356,7 @@ iframe {
     .md-nav__title,
     .md-nav__list,
     .md-nav__item {
-        background-color: black !important;
+        background-color: rgb(0, 0, 0) !important;
     }
 }
 
@@ -407,6 +407,7 @@ iframe {
       display: flex;
       flex-direction: row;
       height: 100%;
+      gap: 12px;
       align-items: center;
     }
 }
@@ -428,7 +429,7 @@ iframe {
 
 /* Header modifications */
 .md-header {
-    background-color: black;
+    background-color: rgb(38, 38, 38);
     box-shadow: 0 0 0.2rem rgba(0,0,0,.1);
 }
 
@@ -490,7 +491,7 @@ iframe {
 }
 
 .content-tile {
-    background: black;
+    background: rgb(38, 38, 38);
     border-radius: 16px;
     padding: 8px;
     text-decoration: none;
@@ -591,7 +592,7 @@ iframe {
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: #5533FF;
+    color: #1AFF8C;
 }
 
 .caption {

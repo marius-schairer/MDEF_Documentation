@@ -54,10 +54,10 @@
         <p>hosted by fablab</p>
     </a>
     <a class="content-tile large" href="year2/Fabacademy/electronics/">
-        <img src="images/Fablab/electronics.jpg">
+        <img src="images/Cover/electronics.png">
         <div style="display:flex, flex-direction:column, margin:10px">
         <div class="navigation">Electronics/</div>
-        <h4>upcoming ...</h4>
+        <h4>upcoming seminar week ...</h4>
         <p>hosted by fablab</p>
         </div>
     </a>
