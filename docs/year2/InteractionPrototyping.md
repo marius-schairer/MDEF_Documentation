@@ -69,6 +69,6 @@ The code is open source, but still needs to be refined and documented. If you ha
 </div>
 
 ## Future Development
-- Enhance responsiveness
-- Add more interaction patterns
-- Scale up for larger installations
+- Local processing
+- Realtime diffusion
+- Improve motion interaction
