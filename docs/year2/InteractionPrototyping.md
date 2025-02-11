@@ -18,12 +18,13 @@ Our installation focuses on creating an interactive light experience that respon
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
     <iframe 
-        src="https://drive.google.com/file/d/1MFTaTX-OGJ3j6A6XIsWcwvvFo3iUxNI_/view?usp=sharing" 
-        width="640" 
-        height="360" 
+        width="100%" 
+        height="500" 
+        src="https://www.youtube.com/embed/wrTFjlEQWVI?autoplay=1&mute=1" 
+        title="Project Demo" 
         frameborder="0" 
-        allowfullscreen
-        allow="autoplay">
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
     </iframe>
 </div>
 
@@ -44,12 +45,13 @@ The system uses custom software to:
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
     <iframe 
-        src="https://drive.google.com/file/d/1IMHka3Yf22ZOw6CNcUy7e4jElO3hFX4Q/view?usp=sharing" 
-        width="640" 
-        height="360" 
+        width="100%" 
+        height="500" 
+        src="https://www.youtube.com/embed/ZW35Tzpu3gU" 
+        title="Testing Results" 
         frameborder="0" 
-        allowfullscreen
-        allow="autoplay">
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
     </iframe>
 </div>
 
