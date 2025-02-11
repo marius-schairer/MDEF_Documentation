@@ -14,6 +14,13 @@ During the LLUM Barcelona festival, we had the opportunity to explore interactiv
 ## Project Description
 Our installation focuses on creating an interactive light experience that responds to movement and sound. The concept revolves around making visible the invisible connections between people in public spaces.
 
+## Concept
+The questions displayed on a huge screen relate to faculty research, and participants' answers feed an accessible database of collective data and image artifacts created through user input using a multilingual transcription model and further processing and generative AI steps.
+
+Alongside countless playful visualizations and visions of the future, we could see a common tone towards a hopeful future that achieves possibilities through technology-driven systems and sustainable ways of living in shared habitats with other species. 
+
+It was a challenge to run this installation with moderate power consumption in an outdoor environment using the internet and a standard windows computer. Along the way of developing a robust interactions model based on various programming languages, we were able to gain some insights into different AI models and no-code approaches that could achieve similar results in the future. 
+
 ## Technical Implementation
 
 <div style="display: flex; justify-content: left; margin: 20px 0;">
