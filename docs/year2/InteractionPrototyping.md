@@ -55,7 +55,7 @@ The code is open source, but still needs to be refined and documented. If you ha
 ## Testing & Results
 
 <div style="display: flex; justify-content: left; margin: 20px 0;">
-    <div style="width: 500px; height: 500px;">
+    <div style="width: 70%px; height: 70%px;">
         <iframe 
             width="100%" 
             height="100%" 
