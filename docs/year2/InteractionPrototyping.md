@@ -33,6 +33,10 @@ It was a challenge to run this installation with moderate power consumption in a
     </iframe>
 </div>
 
+![Cover Image](../images/Bearbeitet/DSCF3439.jpg)
+![Cover Image](../images/Bearbeitet/DSCF3436.jpg)
+![Cover Image](../images/Bearbeitet/DSCF3441.jpg)
+
 ## Installation
 The installation ran on an Intel NUC. By outsourcing the generative tasks to APIs, it was possible to avoid the need for a powerful graphics processor.  
 
@@ -53,7 +57,7 @@ The code is open source, but still needs to be refined and documented. If you ha
 ## Testing & Results
 
 <div style="display: flex; justify-content: left; margin: 20px 0;">
-    <div style="width: 70%px; height: 70%px;">
+    <div style="width: 70%; height: 100%">
         <iframe 
             width="100%" 
             height="100%" 
