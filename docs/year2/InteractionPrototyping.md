@@ -6,7 +6,7 @@
 
 # LLUM 2025
 
-![Cover Image](../images/Cover/LLUM.png)
+![Cover Image](../images/Cover/InteractionPrototyping.png)
 
 ## Reflection
 During the LLUM Barcelona festival, we had the opportunity to explore interactive installations and develop our own concepts. Working with light as a medium opened up new perspectives on how to create engaging public experiences.
