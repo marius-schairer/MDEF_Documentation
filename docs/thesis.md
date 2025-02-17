@@ -2,7 +2,13 @@
     <a href="/">Home</a> <span class="breadcrumb-separator">/</span> <span>Thesis</span>
 </div>
 
-# Collaborative AI Frameworks
+# “What are the effects  continuously adapting generative AI system through permanently accessible community governance and data analysis ?"
+
+## Research Map ⬇
+
+<img src="../images/Thesis/Research_Map.png"></img>
+
+## Collaborative AI Frameworks
 
 <div class="grid-wrapper">
     <a class="content-tile large" href="research/">
@@ -25,12 +31,12 @@
         <h4>Experiments</h4>
         <p>ai explorations</p>
     </a>
-    <a class="content-tile large" href="manifesto/">
-        <img src="../images/Thesis/Participtive_AI_Development.png">
+    <a class="content-tile large" href="howitworks/">
+        <img src="../images/Thesis/FrameworkApproaches.png">
         <div style="display:flex, flex-direction:column">
-        <div class="navigation">Thesis/Manifesto/</div>
-        <h4>CGAI</h4>
-        <p>The first draft Framework for collaborative backend Development</p>
+        <div class="navigation">Thesis/How it works/</div>
+        <h4>The idea behind</h4>
+        <p>Defining the Goals and Purpose</p>
         </div>
     </a>
     <a class="content-tile large" href="exhibition/">

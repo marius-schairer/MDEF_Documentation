@@ -10,5 +10,3 @@
 ![MSCW Method](../images/Thesis/MSCW.png)
 
 ![2x2 Scenario](../images/Thesis/2x2Scenario.png)
-
-!

@@ -13,9 +13,11 @@ nav:
     - Introduction: thesis.md
     - Research: thesis/research.md
     - Methodology: thesis/methodology.md
-    - Playground: thesis/thesis_playground.md
     - Experiments: thesis/experiments.md
-    - Exhibitions: thesis/thesis_playground.md
+    - The concept: thesis/howitworks.md
+    - Playground: thesis/thesis_playground.md
+    - Exhibitions: thesis/exhibition.md
+    
   - Year 2:
     - Emerging Economies: year2/Emerging_Economies.md
     - Co-Creating Public Spaces: year2/Co-CreatingPublicSpaces.md
@@ -105,7 +107,7 @@ theme:
   logo: images/Logos/ColorLogo.png  # Add your logo path here
   favicon: images/Logos/ColorLogo.png  # Optional: also change favicon
   palette:
-    primary: white
+    primary: black
     accent: orange
   font:
     text: 'Roboto'
