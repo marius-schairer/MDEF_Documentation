@@ -71,6 +71,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#electronics-design-reflection" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -1116,10 +1121,55 @@
     
     <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Electronics
+        <span class="md-nav__icon md-icon"></span>
+      </label>
     
     <a href="./" title="Electronics" class="md-nav__link md-nav__link--active">
       Electronics
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#inspiration" class="md-nav__link">
+    Inspiration:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#electronics-seminar-summary" class="md-nav__link">
+    Electronics Seminar Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pcb-design" class="md-nav__link">
+    PCB Design
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -1313,6 +1363,50 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#inspiration" class="md-nav__link">
+    Inspiration:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#electronics-seminar-summary" class="md-nav__link">
+    Electronics Seminar Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pcb-design" class="md-nav__link">
+    PCB Design
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -1326,9 +1420,46 @@
                   
                 
                 
-                  <h1>Electronics</h1>
-                
-                
+                <div class="breadcrumb">
+    <a href="/">Home</a> <span class="breadcrumb-separator">/</span> 
+    <a href="/MDEF_Docmentation/year2/Fabacademy/Electronics">Fabacademy</a> <span class="breadcrumb-separator">/</span> 
+    <span>Electronics</span>
+</div>
+
+<h1 id="electronics-design-reflection">Electronics Design Reflection<a class="headerlink" href="#electronics-design-reflection" title="Permanent link">&para;</a></h1>
+<p>This seminar gave me a initial understanding of PCB design, circuit programming, and component integration. Learning how to efficiently navigate KiCad’s tools helped streamline my design workflow. The process of transitioning from schematic design to PCB layout demonstrated the importance of careful planning and iteration. I gained a deeper appreciation for board constraints, such as track width and clearance, which impact both performance and manufacturability. A major takeaway was the importance of modularity in electronics. By referencing pin names instead of physical numbers, we ensured greater flexibility in design modifications. Additionally, exporting PCB layouts in <strong>SVG format</strong> allowed for better documentation and potential CNC milling compatibility.</p>
+<p><img alt="" src="../../../images/Bearbeitet/Electronics_Session.png" /></p>
+<h2 id="inspiration">Inspiration:<a class="headerlink" href="#inspiration" title="Permanent link">&para;</a></h2>
+<p><a href="https://fabacademy.org/2020/labs/ulb/students/quentin-bolsee/projects/raspi_openocd/" target="_blank" class="social-link">
+            How to connect SAMD11 with Raspberry Pi ↗
+        </a></p>
+<p><a href="https://www.instructables.com/Build-a-Better-Raspberry-Pi-Power-Button/?amp_page=true" target="_blank" class="social-link">
+            Turn on/off button for Raspberry Pi ↗
+        </a></p>
+<h2 id="electronics-seminar-summary">Electronics Seminar Summary<a class="headerlink" href="#electronics-seminar-summary" title="Permanent link">&para;</a></h2>
+<p>During the electronics seminar, We learned how to install the necessary libraries and configure the design tools for PCB development. The process involved installing libraries from a cloned repository, including Fab and Fab Pretty.</p>
+<p>We practiced essential functions in KiCad, such as:
+- <strong>A</strong>: Adding components
+- <strong>M</strong>: Moving components
+- <strong>R</strong>: Rotating components
+- <strong>Ctrl + L</strong>: Adding labels
+- <strong>D</strong>: Dragging components with wires</p>
+<p>A key principle emphasized was ensuring all components share the same ground connection. When designing a circuit, programming the SAMD microcontroller requires an SWD interface. Once the schematic was created, I learned how to transfer it to a PCB layout by selecting <strong>&ldquo;Update PCB from Schematic&rdquo;</strong>.</p>
+<p>In the PCB design phase, I adjusted the board setup settings to:
+- Clearance: <strong>0.4mm</strong>
+- Track width: <strong>0.35mm</strong>
+- Via size: <strong>1.2mm</strong>
+- Via hole: <strong>0.8mm</strong>
+- DP width: <strong>0.35mm</strong>
+- DP gap: <strong>0.4mm</strong></p>
+<p>Best practices included avoiding sharp angles in PCB traces, ensuring sufficient spacing for soldering, and referencing pin names instead of physical pin numbers. Additionally, adjusting the grid size in KiCad allowed for more precise wire movements.</p>
+<p>To define the PCB shape, I accessed the <strong>Edge.Cuts</strong> layer and adjusted its settings to <strong>0.8mm</strong>. Finally, exporting the board outline as an <strong>SVG file</strong> was done through the <strong>Plot and Export</strong> function.</p>
+<h2 id="pcb-design">PCB Design<a class="headerlink" href="#pcb-design" title="Permanent link">&para;</a></h2>
+<p>Through this project, I reinforced my skills in integrating <strong>microcontrollers with AI-driven hardware</strong>. The experience aligns well with my ongoing work on <strong>local AI systems</strong>, strengthening my ability to create compact, autonomous embedded solutions. Moving forward, I plan to refine my PCB layouts further, explore multi-layer designs, and improve power efficiency in future projects.</p>
+<p><img alt="" src="../../../images/Bearbeitet/Electronics_Components.png" />
+<img alt="" src="../../../images/Bearbeitet/Electronics_Layout.png" /></p>
+<p>For the final project, I conceptualized a system integrating an <strong>SAMD11 microcontroller with a Raspberry Pi</strong>, featuring an <strong>on/off button, status LED, and an LCD screen</strong>. Once flashed, this system should function independently of a USB connection and operate within my <strong>local AI server</strong>, which I built for my thesis project.</p>
+<p><img alt="" src="../../../images/Bearbeitet/Electronics_Concept.png" /></p>
                 
                   
                     
@@ -1337,7 +1468,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 17, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="March 9, 2025 22:26:36">March 9, 2025</span>
     
   </small>
 </div>
