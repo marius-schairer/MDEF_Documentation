@@ -5,7 +5,7 @@
 </div>
 
 # Electronics Design Reflection
-This seminar gave me a initial understanding of PCB design, circuit programming, and component integration. Learning how to efficiently navigate KiCad’s tools helped streamline my design workflow. The process of transitioning from schematic design to PCB layout demonstrated the importance of careful planning and iteration. I gained a deeper appreciation for board constraints, such as track width and clearance, which impact both performance and manufacturability. A major takeaway was the importance of modularity in electronics. By referencing pin names instead of physical numbers, we ensured greater flexibility in design modifications. Additionally, exporting PCB layouts in **SVG format** allowed for better documentation and potential CNC milling compatibility.
+This seminar lead by Daniel Mateos and Josep Martí gave me a initial understanding of PCB design, circuit programming, and component integration. Learning how to efficiently navigate KiCad’s tools helped streamline my design workflow. The process of transitioning from schematic design to PCB layout demonstrated the importance of careful planning and iteration. I gained a deeper appreciation for board constraints, such as track width and clearance, which impact both performance and manufacturability. A major takeaway was the importance of modularity in electronics. By referencing pin names instead of physical numbers, we ensured greater flexibility in design modifications. Additionally, exporting PCB layouts in **SVG format** allowed for better documentation and potential CNC milling compatibility.
 
 
 ![](../../images/Bearbeitet/Electronics_Session.png)
