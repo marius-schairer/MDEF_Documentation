@@ -50,6 +50,7 @@ Through this project, I reinforced my skills in integrating **microcontrollers w
 
 ![](../../images/Bearbeitet/Electronics_Components.png)
 ![](../../images/Bearbeitet/Electronics_Layout.png)
+![](../../images/Bearbeitet/Electronics_FinalLayout.png)
 
 For the final project, I conceptualized a system integrating an **SAMD11 microcontroller with a Raspberry Pi**, featuring an **on/off button, status LED, and an LCD screen**. Once flashed, this system should function independently of a USB connection and operate within my **local AI server**, which I built for my thesis project.
 
