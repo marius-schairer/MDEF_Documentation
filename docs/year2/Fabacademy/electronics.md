@@ -59,17 +59,15 @@ For the final project, I conceptualized a system integrating an **SAMD11 microco
 
 ## PCB production
 
-<a href="../../images/Electronics/BLOB-SAMD11-V2.zip" target="_blank" class="social-link">
-    Download KiCad files
-</a>
-
 here are the final png exported in 1000x1000px
 ![](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
 ![](../../images/Electronics/SAMD11-OATFLAKE_Holes_R5.png)
 ![](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
 
 
-
-<a href="../../images/Electronics/OATFLAKE_CUT_R2.zip" target="_blank" class="social-link">
+<a href="../../images/Electronics/BLOB-SAMD11-V2.zip" class="social-link">
+    Download KiCad files
+</a>
+<a href="../../images/Electronics/OATFLAKE_CUT_R2.zip" class="social-link">
     Download CNC Files
 </a>
