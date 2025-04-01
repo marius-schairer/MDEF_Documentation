@@ -65,10 +65,6 @@ here are the final png exported in 1000x1000px
 ![](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
 
 
-[<a href="../../images/Electronics/BLOB-SAMD11-V2.zip" class="social-link">]
-    Download KiCad files
-</a>
 [Download KiCad files](../../images/Electronics/BLOB-SAMD11-V2.zip)
-<a href="../../images/Electronics/OATFLAKE_CUT_R2.zip" class="social-link">
-    Download CNC Files
-</a>
+</br>
+[Download CNC Files](../../images/Electronics/OATFLAKE_CUT_R2.zip)
