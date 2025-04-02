@@ -63,8 +63,10 @@ here are the final png exported in 1000x1000px
 ![](../../images/Electronics/SAMD11_OATFLAKE_Traces_R4.png)
 ![](../../images/Electronics/SAMD11-OATFLAKE_Holes_R5.png)
 ![](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
+![](../../images/Electronics/PCB3.mp4)
 
 
 [Download KiCad files](../../images/Electronics/BLOB-SAMD11-V2.zip)
 </br>
 [Download CNC Files](../../images/Electronics/OATFLAKE_CUT_R2.zip)
+
