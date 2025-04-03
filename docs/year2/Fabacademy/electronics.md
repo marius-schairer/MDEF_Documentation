@@ -58,11 +58,16 @@ For the final project, I conceptualized a system integrating an **SAMD11 microco
 
 
 ## PCB production
+We learned about many different production processes, where 3D printing Circuits was defineteley the most fascinating one to me.  But for the assignment we used a process we can follow in our fablab in BCN which has a CNC milling machine for cutting circuits ou of kupper sheets. 
 
-here are the final png exported in 1000x1000px
+for the cutting we needed to export the design as png to turn them into the `.rml` files for the milling machine. 
+here are the final png exported in 1000x1000px:
 ![](../../images/Electronics/SAMD11_OATFLAKE_Traces_R4.png)
+[Download Traces ↑](../../images/Electronics/SAMD11_OATFLAKE_Traces_R4.png)
 ![](../../images/Electronics/SAMD11-OATFLAKE_Holes_R5.png)
+[Download Traces ↑](../../images/Electronics/SAMD11-OATFLAKE_Holes_R5.png)
 ![](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
+[Download Traces ↑](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
 ![](../../images/Electronics/PCB_vid.gif)
 
 
