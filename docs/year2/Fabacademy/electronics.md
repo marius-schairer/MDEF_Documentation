@@ -61,18 +61,22 @@ For the final project, I conceptualized a system integrating an **SAMD11 microco
 We learned about many different production processes, where 3D printing Circuits was defineteley the most fascinating one to me.  But for the assignment we used a process we can follow in our fablab in BCN which has a CNC milling machine for cutting circuits ou of kupper sheets. 
 
 for the cutting we needed to export the design as png to turn them into the `.rml` files for the milling machine. 
+</br>
 here are the final png exported in 1000x1000px:
 ![](../../images/Electronics/SAMD11_OATFLAKE_Traces_R4.png)
 [Download Traces ↑](../../images/Electronics/SAMD11_OATFLAKE_Traces_R4.png)
+</br>
 ![](../../images/Electronics/SAMD11-OATFLAKE_Holes_R5.png)
 [Download Traces ↑](../../images/Electronics/SAMD11-OATFLAKE_Holes_R5.png)
+</br>
 ![](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
 [Download Traces ↑](../../images/Electronics/SAMD11_OATFLAKE_Outline_r2.png)
+</br>
 ![](../../images/Electronics/PCB_vid.gif)
 
 
-
+### Design and Cut Files:
 [Download KiCad files](../../images/Electronics/BLOB-SAMD11-V2.zip)
 </br>
-[Download CNC Files](../../images/Electronics/OATFLAKE_CUT_R2.zip)
+[Download rml Files for CNC milling](../../images/Electronics/OATFLAKE_CUT_R2.zip)
 
