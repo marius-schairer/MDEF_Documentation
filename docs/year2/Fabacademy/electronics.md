@@ -58,9 +58,9 @@ For the final project, I conceptualized a system integrating an **SAMD11 microco
 
 
 ## PCB production
-We learned about many different production processes, where 3D printing Circuits was defineteley the most fascinating one to me.  But for the assignment we used a process we can follow in our fablab in BCN which has a CNC milling machine for cutting circuits ou of kupper sheets. 
+We learned about many different production processes, where 3D printing Circuits was defineteley the most fascinating one to me.  But for the assignment we used a process we can follow in our fablab in BCN which has a SRM-20 Roland CNC milling machine for cutting circuits ou of kupper sheets. The requirement for the board design was to use only a one sided layout to simplify the process for the first try. 
 
-for the cutting we needed to export the design as png to turn them into the `.rml` files for the milling machine. 
+for the cutting we needed to export the design as png to turn them into the `.rml` files for the milling machine. important is that to color the fields correctly for each cutting step. While the holes are black during cutting the traces they need to be white when cutting the holes (but substracting the outline of the hole). I could achieve the curved layout with Figma. First you need to export the design as a svg in KiCad. Then you can resort layers and change shape of the vectors in figma. But of course there will be no security about the path distance anymore which can cause errors later. exporting the png from figma also turned out to be not the best, as i had to measure it again and convert it in Indesign into the correct 1000x1000px format. 
 </br>
 here are the final png exported in 1000x1000px:
 ![](../../images/Electronics/SAMD11_OATFLAKE_Traces_R4.png)
