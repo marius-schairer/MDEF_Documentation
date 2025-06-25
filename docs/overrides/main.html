@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block styles %}
+  {{ super() }}
+  <style>
+    /* FORCE NAVIGATION LIGHT THEME STYLES */
+    .md-nav__link,
+    .md-nav__item .md-nav__link,
+    .md-nav__title,
+    .md-nav__item,
+    .md-nav__list,
+    .md-sidebar .md-nav__link,
+    .md-sidebar .md-nav__title,
+    .md-sidebar .md-nav__item,
+    .md-nav--primary .md-nav__link,
+    .md-nav--secondary .md-nav__link {
+      color: #000000 !important;
+      background-color: transparent !important;
+    }
+    
+    .md-sidebar,
+    .md-sidebar--primary,
+    .md-sidebar--secondary
+    
+    .md-nav__link--active {
+      color: #ff5e1a !important;
+      font-weight: bold !important;
+    }
+    
+    .md-nav__link:hover {
+      color: #ff5e1a !important;
+    }
+    
+    /* Force Material Design theme navigation colors */
+    [data-md-color-scheme="default"] .md-nav__link {
+      color: #000000 !important;
+    }
+    
+    [data-md-color-scheme="default"] .md-nav__title {
+      color: #000000 !important;
+    }
+  </style>
+{% endblock %}

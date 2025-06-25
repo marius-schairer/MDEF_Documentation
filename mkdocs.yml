@@ -10,13 +10,19 @@ repo_url: 'https://github.com/marius-schairer/MDEF_Documentation'
 nav:
   - Overview: index.md
   - Thesis: 
-    - Introduction: thesis.md
+    - Full Documentation: thesis.md
     - Research: thesis/research.md
-    - Methodology: thesis/methodology.md
-    - Experiments: thesis/experiments.md
+    - Approaches: thesis/methodology.md
+    - Experiments: 
+      - Overview: thesis/experiments.md
+      - LAIA: term3/LAIAProject.md
+      - Slack Workspace: thesis/experiments/slack-workspace.md
+      - LLUM 2025: year2/InteractionPrototyping.md
+      - BLOB Framework: thesis/experiments/blob.md
+      - Oatflake: thesis/experiments/oatflake.md
     - The concept: thesis/howitworks.md
     - Playground: thesis/thesis_playground.md
-    - Exhibitions: thesis/exhibition.md
+    - Roadmap: thesis/roadmap.md
     
   - Year 2:
     - Emerging Economies: year2/Emerging_Economies.md
@@ -62,9 +68,9 @@ nav:
         - Atlas of Weak Signals: term3/Reflections/TheAtlasOfWeakSignals.md
         - Communicating Ideas: term3/Reflections/CommunicatingIdeas.md
         - FutureTalks:
-            Helen Torres: term3/Reflections/FutureTalk/FutureTalk01.md
-            Aqui Clémens: term3/Reflections/FutureTalk/FutureTalk02.md
-            Krzysztof Wronski: term3/Reflections/FutureTalk/FutureTalk03.md
+            - Helen Torres: term3/Reflections/FutureTalk/FutureTalk01.md
+            - Aqui Clémens: term3/Reflections/FutureTalk/FutureTalk02.md
+            - Krzysztof Wronski: term3/Reflections/FutureTalk/FutureTalk03.md
         - Design Ethics: term3/Reflections/DesignEthics.md
         - Critical Transfeminist Design: term3/Reflections/CriticalTransfeministDesign.md 
   - with Fablab:
@@ -107,8 +113,9 @@ theme:
   logo: images/Logos/ColorLogo.png  # Add your logo path here
   favicon: images/Logos/ColorLogo.png  # Optional: also change favicon
   palette:
-    primary: black
-    accent: orange
+    scheme: default  # Light theme
+    primary: orange
+    accent: black
   font:
     text: 'Roboto'
     code: 'Roboto Mono'

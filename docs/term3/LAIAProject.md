@@ -1,44 +1,130 @@
+<!-- filepath: /Users/mars/Documents/GitHub/MDEF_Documentation/docs/term3/LAIAProject.md -->
+<div class="breadcrumb">
+    <a href="/">Home</a> <span class="breadcrumb-separator">/</span> 
+    <a href="/MDEF_Docmentation/term3">Term 3</a> <span class="breadcrumb-separator">/</span> 
+    <span>LAIA Project</span>
+</div>
 
-# The Project
-![Logo](../images/Laia/LAIAFest.png)
+# LAIA
+*A 6-month community intervention exploring local AI versus global search systems in Barcelona's El Clot neighborhood. Investigating how AI can serve local communities rather than extracting value for distant algorithms.*
+
+<div class="project-meta">
+    <div class="meta-row">
+        <strong>Timeline:</strong> 2023 - Present<br>
+        <strong>Status:</strong> Active Prototype<br>
+        <strong>GitHub:</strong> <a href="https://github.com/laia-github" target="_blank">Repository</a><br>
+        <strong>Live Platform:</strong> <a href="https://laia-github.github.io/LaiaWeb/" target="_blank">LAIA Web</a>
+    </div>
+</div>
+
+<div class="tags">
+    <span class="tag">Local AI</span>
+    <span class="tag">Community</span>
+    <span class="tag">RAG</span>
+    <span class="tag">Barcelona</span>
+    <span class="tag">Neighborhood</span>
+</div>
+
+![LAIA Project Cover](../images/Laia/LAIAExhibition.png)
+
+## Project Team
+
+<div class="team-grid">
+    <div class="team-member">
+        <img src="../images/Laia/nuria-placeholder.png" alt="Nuria Valsells">
+        <strong>Nuria Valsells</strong><br>
+        Communication & Design<br>
+        <em>IAAC</em>
+    </div>
+    <div class="team-member">
+        <img src="../images/Logos/IAAC.png" alt="IAAC">
+        <strong>IAAC</strong><br>
+        Hosting Institution<br>
+        <em>Fab Lab Barcelona</em>
+    </div>
+    <div class="team-member">
+        <img src="../images/AboutMe/Profile.jpg" alt="Marius Schairer">
+        <strong>Marius Schairer</strong><br>
+        Prototyping & Development<br>
+        <em>IAAC</em>
+    </div>
+    <div class="team-member">
+        <img src="../images/Laia/akasha-placeholder.png" alt="Akasha Hub">
+        <strong>Akasha Hub</strong><br>
+        Collaboration & Exhibition<br>
+        <em>El Clot Community</em>
+    </div>
+</div>
+
+## Concept
+*Local AI vs global extraction*
+
+LAIA emerged from a critical question: **What happens when AI systems serve local communities instead of extracting data for global platforms?** Through a 6-month collaboration with Nuria at IAAC/Fablab Barcelona, we explored this tension between local and global AI in El Clot, a vibrant neighborhood in Barcelona.
+
+The project challenged the dominant paradigm where AI search systems like Google funnel local queries through global algorithms, extracting value from communities while returning generic results. Instead, we investigated how retrieval-augmented generation (RAG) could create neighborhood-specific AI systems.
+
+Working directly with residents, students, and local organizations, LAIA became both a technical experiment and a community intervention—exploring how AI can amplify local knowledge rather than replace it with algorithmic abstractions.
+
+![Community engagement in El Clot neighborhood](../images/Laia/LAIAExhibition.png)
+
+## Setup
+*Technical infrastructure and community partnerships*
+
+### Technical Infrastructure
+We built a localized RAG system using neighborhood-specific data sources: local business directories, community event listings, resident interviews, and historical documentation about El Clot. The system prioritized hyperlocal knowledge over global search results.
+
+Rather than relying on massive datasets, we created a curated knowledge base that reflected the lived experience of the neighborhood—from the best local bakeries to community organizing strategies.
+
+### Community Partnership
+The collaboration with IAAC/Fablab Barcelona provided both technical resources and deep community connections. Nuria's local expertise was essential for navigating neighborhood dynamics and building trust with residents.
+
+We established partnerships with local schools, adult education centers, and community organizations to ensure the project served real needs rather than imposing external solutions.
+
+![Local data collection and curation process](../images/Laia/LAIAContext.png)
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/948664337?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="LAIA, insta video draft"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-Laia Project responds to the gentrification of cities like Barcelona, focusing on preserving local knowledge. As cities globalize, communities weaken, covered by a focus on productivity. Online platforms replace traditional networks, taking the role of local institutions. Globalized media fuses cultural tastes, risking the loss of local identity.
+## Intervention
+*Community workshops and public engagement*
 
-Laia addresses these challenges by empowering communities to reconnect and engage in neighborhood initiatives. By utilizing technology mindfully, the project transforms it into a tool for collective intelligence. By tackling the root causes of neighborhood disconnection, Laia aims to create more resilient, sustainable, and equitable communities.
+### Student Workshops
+We conducted hands-on workshops with local students, teaching them to question AI systems and understand how algorithms shape their access to information. Students learned to compare local AI responses with global search results, developing critical digital literacy skills.
 
-The Laia project started with a machine that asked people: “What would you say to your city?”. As the prototype progressed, we enabled transcribing user responses. To improve, we focused on defining Barcelona’s voice, starting with the neighborhood of El Clot. Akasha Hub, a community in El Clot, provided essential references and became our first collaborator.
+### Adult School Engagement
+Adult education sessions focused on practical applications: How could local AI help with job searches, housing information, or navigating city services? Participants shared their expertise while learning to interrogate algorithmic decision-making.
 
-We are reaching out to associations of El Clot while developing Laia. Laia’s third version included an online form for residents to share their knowledge, ensuring answers incorporated collective wisdom.
+### Public Exhibition
+LAIA was exhibited at the ACT Festival at Akasha Hub, demonstrating the project's findings to a broader audience. The exhibition showcased the contrast between generic AI responses and hyperlocal knowledge, sparking conversations about digital sovereignty and community autonomy.
 
-Currently, we conduct workshops with the community, gathering feedback to shape Laia’s future versions. Our ongoing engagement aims to refine Laia and better serve the neighborhood’s needs.
+![Workshop participants analyzing AI responses](../images/Laia/LAIACart.png)
 
-Until beggining of 2025, we plan on expanding Laia with El Clot community to gain local recognition and become a reference for everyone. We aim to build a final prototype that can be used in the public space without supervision.
+## Highlights & Insights
+*Key learnings and project impact*
 
-Looking ahead on the long term, we envision the project evolving into a scalable platform that can be implemented in diverse urban contexts around the world. We would like to create a “Laia Guide” to collect and group all the steps we have done with the project in El Clot and make the project open source.
+### Community Knowledge vs. Global Algorithms
+The project revealed how global AI systems often miss nuanced local knowledge—the informal networks, cultural practices, and community wisdom that actually make neighborhoods function. Local AI provided more relevant, contextual responses to resident queries.
 
-## Context
-![Context](../images/Bearbeitet/audiobox.gif)
-The development of the Laia project began with the creation of a machine that could pose a question: “What would you say to your city?” Users could record their answers in audio format, and the machine would store these audio files. It functioned almost like a confessional, offering a speculative way for people to express their thoughts. You can find all the documentation for the first prototype in the [MicroChallenge I](https://hackmd.io/87FLKjMZTy2C9XVeFio_cQ?both) page.
+### Digital Sovereignty in Practice
+LAIA demonstrated that communities can develop their own AI tools rather than accepting algorithmic colonization. By maintaining control over data and training processes, neighborhoods can preserve their autonomy while benefiting from AI assistance.
 
-## Developments
-As the prototype evolved, we incorporated OpenAI technology into the machine through API calls. This enabled us to transcribe the user’s audio responses, send them to ChatGPT, and play back an audio response. While this made the machine more “useful,” the generated answers from OpenAI were not sufficiently interesting. They tended to be standard and corporate, lacking real engagement with the user. You can find all the documentation for the second prototype in the [MicroChallange II](https://hackmd.io/vz8t1qg0T2yzbrudc_p6dw?view)page.
-![Developments](../images/Laia/LAIAExhibition.png)
-![Context](../images/Laia/LAIAContext.png)
+### Educational Impact
+Students and adults developed critical thinking skills about AI systems, learning to question algorithmic authority and understand how technology shapes their daily lives. The workshops created lasting awareness about digital literacy and technological choice.
 
-To address this issue, we began researching what voice Barcelona would have. However, this question proved challenging to answer due to the city’s vast scale. To simplify our approach, we decided to focus on a specific neighborhood and community. We reached out to Akasha Hub, a community of designers and makers in El Clot, Barcelona. They provided us with community references and other relevant information, becoming our first collaborators.
+### Scalable Model
+The LAIA methodology provides a template for other communities seeking technological autonomy. The project's approach—combining technical development with community engagement—offers a replicable framework for local AI initiatives.
 
-With a focus on El Clot established, we familiarized ourselves with the area and began making contacts with associations recommended by Akasha Hub. During this period, we concurrently worked on both the community workshops and the technical aspects of the project. We developed a third version of the Tool. In this version, we created an online form accessible for everyone, allowing residents of El Clot to “teach” Laia their knowledge. This ensured that when people from El Clot interacted with Laia, they would receive answers that incorporated the collective knowledge of their neighbors.
+## Interactive Platform
 
-## Next Steps
-For the rest of this year and beggining of 2025, we plan on expanding Laia within El Clot community to gain more recognition form the locals and become a reference for everyone, and also so we can design a final version of Laia. We aim to build a final prototype that can be used in the public spce without supervision.
+Experience LAIA's community knowledge system and contribute your own local insights:
 
-Looking ahead on the long term, we envision the Laia project evolving into a scalable platform that can be implemented in diverse urban contexts around the world. We would like to create a “Laia Guide” to collect and group all the steps we have done with the project in El Clot. From the initial research of communities, the communication with them, the data collection from the City Council, the development of the prototype (hardware and software) and other relevant information to reproduce the framework in another context.
-
-By making the Laia framework an open source and reproducable project, we are committed to creating more resilient, sustainable, and equitable cities for future generations.
-![Vision](../images/Laia/LAIACart.png)
-
-## Submit your knowledge (currently limited to el Clot)
-[LAIA Website](https://laia-github.github.io/LaiaWeb/)
 <iframe style='border:none;width:100%;' height='1200px' src='https://laia-github.github.io/LaiaWeb/'></iframe>
-[LAIA Instagram](https://www.instagram.com/laia.collectiu/)
+
+## Connect with LAIA
+
+- **Website**: [LAIA Platform](https://laia-github.github.io/LaiaWeb/)
+- **Instagram**: [@laia.collectiu](https://www.instagram.com/laia.collectiu/)
+- **GitHub**: [LAIA Repository](https://github.com/laia-github)
+
+---
+
+*LAIA continues to evolve as a model for community-controlled AI, demonstrating that technology can serve local needs while preserving neighborhood autonomy and cultural identity.*

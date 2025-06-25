@@ -5,70 +5,81 @@
 </div>
 
 # Experiments
-The initial exeriments of the research defined further steps for the testing prototype and framework development.Through recent explorations the Slack Stack turned to complex to get adapted by people without development experience and the community needs to know about the limitations of the connected model otherwise it can return many errors or empty messgages. (e.g. pdf upload not possible but the interface has it enabled). The exploration with different models shaped the further research but slack turned to be a limiting factor in interface design and accessibility.
 
-## creating test environment
+This research employs a series of iterative experiments to explore collaborative AI frameworks. Each experiment builds on previous learnings while testing different approaches to community-governed artificial intelligence.
+
+The experiments follow a **Research through Design** methodology, where each prototype serves as both a technical proof-of-concept and a probe to understand community needs and governance challenges.
+
+### Key Research Questions Explored:
+- How can communities maintain meaningful control over AI systems?
+- What interfaces make AI governance accessible to non-technical users?
+- How do different deployment strategies affect community autonomy?
+- What are the trade-offs between simplicity and functionality?
+
+
 <div class="grid-wrapper">
-    <a class="content-tile large" href="https://github.com/marius-schairer">
+    <a class="content-tile large" href="../term3/LAIAProject/">
+        <img src="../../images/Laia/LAIAExhibition.png">
+        <div style="display:flex, flex-direction:column, margin:10px">
+        <div class="navigation">Community AI/</div>
+        <h4>LAIA Project</h4>
+        <p>Local AI for All - 2024</p>
+        <p style="font-size: 0.9em; margin-top: 8px;">Neighborhood intelligence platform using AI and crowdsourced data. Demonstrated potential of local AI solutions while highlighting challenges of language barriers and data scarcity. Collaboration with Nuria Vallès.</p>
+        </div>
+    </a>
+    <a class="content-tile" href="slack-workspace/">
         <img src="../../images/Thesis/Slack.png">
-        <div style="display:flex, flex-direction:column">
-        <div class="navigation">my github ↗</div>
-        <h4>The initial setup which ended up too complex</h4>
-        <p>find the code here</p>
+        <div style="display:flex, flex-direction:column, margin:10px">
+        <div class="navigation">Interface/</div>
+        <h4>Slack Workspace</h4>
+        <p>Platform Integration - 2024</p>
+        <p style="font-size: 0.9em; margin-top: 8px;">Testing AI integration in existing community platforms. Revealed complexity of dependencies and API management, leading to questions about maintainability and community autonomy.</p>
         </div>
     </a>
-    <a class="content-tile" href="https://ollama.com/">
-        <img src="../../images/Thesis/Llama.png">
-        <div class="navigation">ollama website ↗</div>
-        <h4>Llama</h4>
-        <p>possible to run locally on CPU ✅</p>
+    <a class="content-tile" href="blob/">
+        <img src="../../images/Thesis/blob.png">
+        <div style="display:flex, flex-direction:column, margin:10px">
+        <div class="navigation">Framework/</div>
+        <h4>BLOB (Blob Browser)</h4>
+        <p>Community-Driven Paradigm - 2024</p>
+        <p style="font-size: 0.9em; margin-top: 8px;">Dramatic shift from city-scale to individual/community scale. Enables users to run AI models locally, collect data, and contribute to decentralized networks. Focus on energy consumption and infrastructure requirements.</p>
+        </div>
+    </a>
+    <a class="content-tile large" href="../year2/InteractionPrototyping/">
+        <img src="../../images/Cover/LLUM.png">
+        <div style="display:flex, flex-direction:column, margin:10px">
+        <div class="navigation">Public Interaction/</div>
+        <h4>LLUM 2025</h4>
+        <p>Local AI Installation - 2025</p>
+        <p style="font-size: 0.9em; margin-top: 8px;">Interactive exhibit collecting and showcasing local, public data. Provided insights into data collection and presentation while raising concerns about energy consumption and scalability of running GPT and DALL-E on public installations.</p>
+        </div>
+    </a>
+    <a class="content-tile large" href="oatflake/">
+        <img src="../../images/Thesis/Oatflake_Cover.png">
+        <div style="display:flex, flex-direction:column, margin:10px">
+        <div class="navigation">Local Deployment/</div>
+        <h4>Oatflake</h4>
+        <p>Federated Knowledge Systems - 2025</p>
+        <p style="font-size: 0.9em; margin-top: 8px;">Lightweight approach to local AI deployment, focusing on reducing technical barriers for community adoption. Enables cross-community exchange and builds upon learnings from previous experiments.</p>
+        </div>
+    </a>
+    <a class="content-tile" href="../thesis/roadmap/">
+        <img src="../../images/Thesis/Backend.png">
+        <div style="display:flex, flex-direction:column, margin:10px">
+        <div class="navigation">Future Outlook/</div>
+        <h4>Research Roadmap</h4>
+        <p>Scaling Strategies - 2025-2030</p>
+        <p style="font-size: 0.9em; margin-top: 8px;">Future directions for community-governed AI ecosystems. Long-term vision for facilitating cross-community exchange, enabling users to build upon and learn from one another's local intelligence.</p>
+        </div>
     </a>
 </div>
 
+## Experimental Journey
 
-<div>
-    <div style="display:flex; gap:20px; margin-top:20px">
-        <div style="width:30%; display:flex; flex-direction:column;">
-            <h2>The first framework architecture</h2>
-            <p>The initial architecture worked with many small 3rd party frameworks and tried to be as adaptable to the tools aready in use of the communities. The idea was to decentralize as much as possible so the framework would not have to carry a lot of maintainance work, but can just exist and get replicated via a github repository.</p>
-        </div>
-        <img src="../../images/Thesis/Participtive_AI_Development.png" style="width:70%;">
-    </div>
-    <div style="display:flex; gap:20px; margin-top:20px">
-        <img src="../../images/Thesis/experiments.png" style="width:70%;">
-        <div style="width:30%; display:flex; flex-direction:column;">
-            <h2>Starting building with Slack</h2>
-            <p>During previous explorations with ai development the experience to use Slack and Telegram as easy access interface to test was great because they offer remote access group chats and a variety of input possibilities. The setup showed many dependencies and ahandling of api keys of different 3rd party systes which made it a hard to maintain system.</p>
-        </div>
-    </div>
-</div>
+Inspired by projects like OpenStreetMap, Aïna, and Oio News, this exploration of local AI implementations follows an iterative path from neighborhood-scale solutions to federated community networks. Each experiment builds on previous learnings while testing different approaches to community-governed artificial intelligence.
 
+The journey demonstrates a clear evolution: from **city-scale approaches** (LAIA) to **public installations** (LLUM 2025) to **individual/community-focused frameworks** (BLOB) and finally to **federated deployment systems** (Oatflake). This progression reveals the importance of iterating, adapting, and rethinking AI implementations to better suit local needs, constraints, and aspirations.
 
-## Further experiments
+---
 
-<div class="grid-wrapper">
-    <a class="content-tile" href="thesis/experiments/">
-        <img src="../../images/Thesis/Bloom.png">
-        <div class="navigation">huggingface ↗</div>
-        <h4>Bloom big Science</h4>
-        <p>couldn't run locally 🚫</p>
-    </a>
-    <a class="content-tile" href="thesis/exhibition/">
-        <img src="../../images/Thesis/DRAG.png">
-        <div class="navigation">DRAG website ↗</div>
-        <h4>DRAG</h4>
-        <p>a concept for decentralized knowledge graphs</p>
-    </a>
-    <a class="content-tile" href="thesis/exhibition/">
-        <img src="../../images/Thesis/langflow.png">
-        <div class="navigation">langflow website ↗</div>
-        <h4>Project Outcomes</h4>
-        <p>Results and future directions</p>
-    </a>
-    <a class="content-tile" href="thesis/exhibition/">
-        <img src="../../images/Thesis/IBM.png">
-        <div class="navigation">cursera website ↗</div>
-        <h4>State of the art AI Dev</h4>
-        <p>It was interesting to see the current reccommendations of the industry and see it from a critical perspective</p>
-    </a>
-</div>
+*Each experiment contributes to a growing understanding of how communities can meaningfully govern their own AI technologies while maintaining autonomy and reflecting local values.*
