@@ -30,7 +30,7 @@
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 
 .md-nav__item .md-nav__link--active {
@@ -38,7 +38,7 @@
   font-weight: bold;
 }
 .md-nav__link {
-  color: rgb(219, 219, 219);
+  color: rgb(0, 0, 0);
 }
 
 .md-nav__item .md-nav__link--hover {
@@ -48,7 +48,7 @@
 
 .md-typeset h1 {
   font-weight: bold;
-  color: rgb(232, 232, 232);
+  color: rgb(0, 0, 0);
 }
 .md-main{
   background-image: url("../images/background_pattern.png");
@@ -66,18 +66,18 @@
 
 .md-typeset h2 {
     font-weight: bold;
-    color: rgb(232, 232, 232);
+    color: rgb(0, 0, 0);
     line-height:normal;
 }
 
 .md-typeset h3 {
   font-weight: bold;
-  color: rgb(232, 232, 232);
+  color: rgb(0, 0, 0);
 }
 
 .md-typeset h4 {
   font-weight: bold;
-  color: rgb(232, 232, 232);
+  color: rgb(0, 0, 0);
 }
 
 .mdc-typography--body2 {
@@ -88,7 +88,7 @@
 .md-header{
   box-shadow: none;
   background-color: black;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .md-header-nav__topic{
@@ -96,7 +96,7 @@
 }
 
 .md-nav__title{
-  color: #ffffff;
+  color: #000000;
 }
 
 .menubox{
