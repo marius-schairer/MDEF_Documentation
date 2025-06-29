@@ -1,19 +1,27 @@
-# Community-Governed AI Systems
+# BLOB - Building Open Local Bots
 *Democratizing artificial intelligence through federated knowledge networks*
 
+<div class="video-container">
+    <iframe 
+        width="80%" 
+        height="600px" 
+        src="https://www.youtube.com/embed/Qbsyi0AmEXA" 
+        title="Community-Governed AI Systems Overview" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+</div>
 
 ## Research Overview
 
 This thesis explores the development of **community-governed artificial intelligence systems** that prioritize local autonomy, democratic oversight, and federated knowledge sharing. Moving beyond centralized AI platforms, this research demonstrates how communities can deploy, control, and benefit from AI technologies while maintaining complete data sovereignty.
 
-The work combines practical system development with theoretical frameworks, resulting in functional platforms like **Oatflake** that enable communities to create their own AI knowledge systems. Through distributed training, local processing, and democratic governance mechanisms, these systems prove that powerful AI capabilities can exist without sacrificing community control or privacy.
+The work combines practical system development with theoretical frameworks, resulting in functional platforms like **Oatflake** that enable communities to create their own AI knowledge systems. Through distributed training, local processing, and democratic governance mechanisms, these systems prove that powerful AI capabilities can exist with respect of community control and privacy.
 
-### Key Research Questions
+---
 
-- How can communities maintain democratic control over AI systems while preserving technical sophistication?
-- What architectures enable federated knowledge sharing without compromising local data sovereignty?
-- How do we design AI governance mechanisms that scale across diverse community contexts?
-- What technical approaches make advanced AI accessible to communities without extensive technical resources?
+# How can we design accessible governance systems to enable sustainably adapting distributed intelligences?
 
 ---
 

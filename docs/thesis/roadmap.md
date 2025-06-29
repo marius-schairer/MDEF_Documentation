@@ -18,7 +18,7 @@ This journey shows how comparative approaches get applied to find local AI solut
             <li><strong>Technical Foundation</strong>: Built the base for all future developments</li>
         </ul>
         <div class="action-buttons">
-            <a href="#placeholder-laia-project" target="_blank" class="action-button primary">
+            <a href="../term3/LAIAProject.md" class="action-button primary">
                 View LAIA Project ↗
             </a>
         </div>
@@ -46,7 +46,7 @@ This journey shows how comparative approaches get applied to find local AI solut
             <li><strong>Exhibition Impact</strong>: Public validation of the research direction</li>
         </ul>
         <div class="action-buttons">
-            <a href="#placeholder-llum-exhibition" target="_blank" class="action-button primary">
+            <a href="../year2/InteractionPrototyping.md" class="action-button primary">
                 View Exhibition ↗
             </a>
         </div>
@@ -68,7 +68,7 @@ This journey shows how comparative approaches get applied to find local AI solut
             <li><strong>Academic Connections</strong>: Integration with MDEF and research institutions</li>
         </ul>
         <div class="action-buttons">
-            <a href="#placeholder-slack-community" target="_blank" class="action-button primary">
+            <a href="experiments/slack-workspace.md" class="action-button primary">
                 Join Slack Community ↗
             </a>
         </div>
@@ -120,7 +120,7 @@ This journey shows how comparative approaches get applied to find local AI solut
             <li><strong>Documentation Hub</strong>: Recording what works and what doesn't</li>
         </ul>
         <div class="action-buttons">
-            <a href="#placeholder-local-research-group" target="_blank" class="action-button primary">
+            <a href="experiments/slack-workspace.md" class="action-button primary">
                 Join Slack Group ↗
             </a>
         </div>
@@ -153,7 +153,7 @@ This journey shows how comparative approaches get applied to find local AI solut
             <li><strong>Enterprise Integration</strong>: Organizational AI with democratic oversight</li>
         </ul>
         <div class="action-buttons">
-            <a href="#placeholder-platform-roadmap" target="_blank" class="action-button primary">
+            <a href="https://github.com/BLOB-browser/OATFLAKE" target="_blank" class="action-button primary">
                 View Github repository ↗
             </a>
         </div>
@@ -190,16 +190,18 @@ This journey shows how comparative approaches get applied to find local AI solut
         <div class="feature-row">
             <div class="feature-item">
                 <h4>📍 Build Local Open Bots</h4>
-                <p>Democratic decisions on AI behavior and updates</p>
+                <p>Intitiative which will test the oatflake framework on a broughter scale</p>
             </div>
             <div class="feature-item">
                 <h4>🧠 Distribute Knowledge governance</h4>
-                <p>Collaborative model improvement without data sharing</p>
+                <p>Find further governance mechanisms</p>
             </div>
             <div class="feature-item">
                 <h4>🌍 Find Global Standards</h4>
-                <p>Interoperable governance across communities</p>
+                <p>Find Patterns to keep Data Trackable for ownership and universal usable</p>
             </div>
+        </div>
+        <div class="feature-row">
             <div class="feature-item">
                 <h4>🤝 Collaborative AI</h4>
                 <p>Community empowerment and knowledge democratization</p>
@@ -218,10 +220,26 @@ This journey shows how comparative approaches get applied to find local AI solut
 *This roadmap evolves continuously based on community feedback, technological developments, and new research discoveries. Join our Slack workspace to participate in shaping the future of community-governed artificial intelligence.*
 
 
-<a href="https://blob-browser.net/" target="_blank" class="cta-section-link">
-    <div class="cta-section">
-        <h2>Join Local AI Research →</h2>
+---
+
+## Join Our Research Community
+
+*Connect with local AI researchers and practitioners*
+
+<div class="community-section">
+    <div class="community-info">
+        <h3>Local AI Research Team</h3>
+        <p>We are forming a local AI research team focused on federated knowledge systems and community-governed AI. Join our Slack channel to participate in discussions, share discoveries, and collaborate on experiments.</p>
+        
+        <p>The testing and knowledge exchange of this framework was developed through collaboration with the MDEF (Master in Design for Emergent Futures) and Fablab Barcelona communities, as well as the broader distributed design network.</p>
+        
+        <div class="action-buttons">
+            <a href="https://local-ai-research.slack.com" target="_blank" class="action-button primary">
+                💬 Join #local-ai-research
+            </a>
+        </div>
     </div>
-</a>
+</div>
+
 
 

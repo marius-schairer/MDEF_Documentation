@@ -92,26 +92,6 @@ Welcome to the interactive playground where you can experience the concepts deve
     </div>
 </div>
 
----
-
-## Join Our Research Community
-
-*Connect with local AI researchers and practitioners*
-
-<div class="community-section">
-    <div class="community-info">
-        <h3>Local AI Research Team</h3>
-        <p>We are forming a local AI research team focused on federated knowledge systems and community-governed AI. Join our Slack channel to participate in discussions, share discoveries, and collaborate on experiments.</p>
-        
-        <p>The testing and knowledge exchange of this framework was developed through collaboration with the MDEF (Master in Design for Emergent Futures) and Fablab Barcelona communities, as well as the broader distributed design network.</p>
-        
-        <div class="action-buttons">
-            <a href="https://local-ai-research.slack.com" target="_blank" class="action-button primary">
-                💬 Join #local-ai-research
-            </a>
-        </div>
-    </div>
-</div>
 
 ---
 
